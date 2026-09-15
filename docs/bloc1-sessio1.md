@@ -8,10 +8,17 @@ En esta sessió analitzareu el cas **Som Barri** sense començar per una soluci�
 
 | Activitat | Temps | Treball |
 | --- | ---: | --- |
-| 1. Diagnòstic inicial | 30 min | Individual |
-| 2. Anàlisi del cas | 60 min | Equip provisional |
-| 3. Objectius i abast | 60 min | Equip provisional |
-| 4. Reflexió final | 30 min | Individual |
+| 0. Posada en marxa de Git | 30 min | Individual i equip provisional |
+| 1. Diagnòstic inicial | 20 min | Individual |
+| 2. Anàlisi del cas | 55 min | Equip provisional |
+| 3. Objectius i abast | 50 min | Equip provisional |
+| 4. Reflexió final | 25 min | Individual |
+
+## Activitat 0. Posada en marxa de Git
+
+Cada membre accepta la invitació, clona el repositori compartit del seu equip i completa la issue `#1`. Creeu una branca `posada-en-marxa/nom-cognoms`, incorporeu la fitxa individual i obriu una *pull request*. Per relacionar-la sense tancar anticipadament la issue compartida, escriviu `Relacionada amb #1`, no `Tanca #1`.
+
+Una altra persona de l'equip revisa la pull request. La issue es tancarà manualment quan totes les persones hagen completat el circuit. Consulteu [Treball i evidències en GitHub](github-treball.md) per veure les ordres.
 
 ## Cas Som Barri
 
@@ -150,7 +157,7 @@ Respon individualment:
 
 ## Lliurament de la sessió
 
-Treballeu en el repositori que facilitarà el professorat a partir de la plantilla del curs. No concentreu l'entrega en el `README.md`: useu-lo com a portada i índex.
+Treballeu en el repositori que facilitarà el professorat a partir de la plantilla del curs. El fitxer `docs/01-proposta/dossier-0.md` ja estarà preparat. No concentreu l'entrega en el `README.md`: useu-lo com a portada i índex.
 
 Incorporeu el treball compartit a `docs/01-proposta/dossier-0.md`:
 

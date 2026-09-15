@@ -106,4 +106,14 @@ La ferramenta pot ajudar-vos a explorar o revisar, però les decisions, les just
 
 Penseu en una situació en què una organització gestione informació de manera poc eficient. No cal que proposeu encara una aplicació ni que porteu una idea definitiva per al projecte del curs.
 
+Comproveu també la posada en marxa tècnica:
+
+- comuniqueu al professorat el vostre usuari exacte de GitHub;
+- accepteu la invitació al repositori del vostre equip;
+- tingueu Git instal·lat i accés al correu i al doble factor d'autenticació, si l'heu activat;
+- configureu `git config user.name` i `git config user.email` amb la vostra identitat;
+- no creeu cap repositori alternatiu ni cloneu el repositori plantilla.
+
+Si no podeu completar algun punt abans de classe, anoteu l'error exacte o feu-ne una captura sense mostrar credencials. Ho resoldrem durant la posada en marxa.
+
 Veniu preparats per analitzar, preguntar, proposar i canviar d'opinió quan apareguen noves evidències.

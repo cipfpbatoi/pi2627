@@ -30,7 +30,7 @@ git commit -m "docs: crea el registre individual"
 git push -u origin posada-en-marxa/nom-cognoms
 ```
 
-Després, obriu una *pull request* en GitHub i feu que una altra persona de l'equip la revise. Abans de començar la tasca següent, torneu a `main`, descarregueu els canvis incorporats i creeu una branca nova:
+Després, obriu una *pull request* en GitHub, escriviu `Relacionada amb #1` i feu que una altra persona de l'equip la revise. No useu `Tanca #1`: com que la issue de posada en marxa és compartida, es tancarà manualment quan totes les persones hagen acabat. Abans de començar la tasca següent, torneu a `main`, descarregueu els canvis incorporats i creeu una branca nova:
 
 ```bash
 git switch main

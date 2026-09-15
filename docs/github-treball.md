@@ -34,6 +34,42 @@ GitHub serà l'espai de treball habitual per a documentació, tasques, decisions
 | Estat exacte d'un lliurament | Etiqueta i *release* |
 | Traspàs | Acta versionada i issue de consulta/acceptació |
 
+### Estructura del Dossier 0
+
+En els repositoris temporals de Som Barri i en qualsevol Dossier 0, useu esta estructura canònica:
+
+```text
+project.json
+README.md                              # portada i enllaços, no el dossier complet
+docs/00-control/projecte.md            # identificació i custòdia
+docs/00-control/decisions.md           # decisions compartides
+docs/00-control/fonts-ia.md            # fonts i ús d'IA
+docs/01-proposta/dossier-0.md          # document compartit del bloc 1
+evidencies/alumnat/nom-cognoms.md      # un registre per membre
+```
+
+Els recursos propis del dossier, si n'hi ha, es poden guardar en `docs/01-proposta/recursos/` amb noms descriptius, en minúscules, sense accents ni espais. Eviteu còpies com `final-2-definitiu.md`: Git ja conserva les versions.
+
+El README pot seguir este model mínim:
+
+```md
+# Som Barri — Equip 01
+
+## Entrega actual
+
+- [Dossier 0](docs/01-proposta/dossier-0.md)
+- [Fonts i ús d'IA](docs/00-control/fonts-ia.md)
+- [Decisions](docs/00-control/decisions.md)
+
+## Evidències individuals
+
+- [Nom Cognoms](evidencies/alumnat/nom-cognoms.md)
+
+## Versió entregada
+
+`dossier-0-v1.0`
+```
+
 ## Flux mínim d'una tasca
 
 La plantilla conté **formularis per crear issues**, però no una llista de tasques resolta per endavant. Definir què cal fer, quin resultat s'espera, de què depén i com es comprovarà forma part del vostre treball i de les evidències del projecte.
@@ -77,6 +113,7 @@ No són suficients per si sols el nombre de commits, les hores declarades, apar�
 En cada lliurament, creeu una etiqueta sobre el commit revisat:
 
 ```text
+dossier-0-v1.0
 dossier-1-v1.0
 dossier-2-v1.0
 pla-v1.0

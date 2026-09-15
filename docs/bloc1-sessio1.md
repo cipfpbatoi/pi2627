@@ -75,15 +75,13 @@ Completeu la taula:
 
 ### 2.3. Parts interessades
 
-Identifiqueu almenys cinc parts interessades.
+Identifiqueu entre tres i cinc parts interessades que pugueu justificar amb el cas. Distingiu les que apareixen explícitament de les que són hipòtesis que caldria confirmar amb l'associació. No dividiu artificialment un mateix col·lectiu només per arribar a una quantitat.
 
-| Part interessada | Què necessita o espera? | Com l'afecta el projecte? | Què li preguntaríem? |
-| --- | --- | --- | --- |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
+| Part interessada | Confirmada o hipòtesi? | Què necessita o espera? | Com l'afecta el projecte? | Què li preguntaríem? |
+| --- | --- | --- | --- | --- |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
 
 ### 2.4. Preguntes al client
 
@@ -104,7 +102,7 @@ El professorat actuarà com a representant de l'associació. Registreu tant les 
 
 ### 3.1. Objectius
 
-Redacteu un objectiu general i entre dos i quatre objectius específics.
+Redacteu un objectiu general i dos o tres objectius específics. Prioritzeu que siguen coherents i comprovables; no afegiu objectius redundants per completar la taula.
 
 | Objectiu | Criteri d'èxit | Evidència necessària |
 | --- | --- | --- |
@@ -152,13 +150,18 @@ Respon individualment:
 
 ## Lliurament de la sessió
 
-Incorporeu al Dossier 0:
+Treballeu en el repositori que facilitarà el professorat a partir de la plantilla del curs. No concentreu l'entrega en el `README.md`: useu-lo com a portada i índex.
+
+Incorporeu el treball compartit a `docs/01-proposta/dossier-0.md`:
 
 - problema, necessitat, causes i conseqüències;
 - parts interessades;
 - preguntes i respostes obtingudes;
 - objectius i criteris d'èxit;
-- abast, exclusions, hipòtesis i restriccions;
-- reflexió individual de cada membre.
+- abast, exclusions, hipòtesis i restriccions.
+
+Cada membre crearà `evidencies/alumnat/nom-cognoms.md` a partir de la plantilla i hi registrarà la seua reflexió i els enllaços verificables. Les fonts i l'ús d'IA s'anotaran en `docs/00-control/fonts-ia.md`. El `README.md` enllaçarà estos documents, però no en duplicarà el contingut.
+
+Esta sessió deixa una versió de treball. L'etiqueta immutable `dossier-0-v1.0` es crearà al final del bloc, després de revisar les tres sessions.
 
 Abans de lliurar, consulteu els apartats 1–4 del [material de consulta](bloc1-consulta.md).

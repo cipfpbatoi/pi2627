@@ -36,9 +36,11 @@ Esta plantilla reunix les evidències de les tres sessions del bloc 1. Dupliqueu
 
 ## 3. Parts interessades
 
-| Part interessada | Necessitats o interessos | Influència | Informació necessària | Forma de participació |
-| --- | --- | --- | --- | --- |
-|  |  |  |  |  |
+Incloeu entre tres i cinc parts interessades justificades. Marqueu com a hipòtesi qualsevol perfil que el cas o les respostes del client encara no confirmen.
+
+| Part interessada | Confirmada o hipòtesi? | Necessitats o interessos | Influència | Informació necessària | Forma de participació |
+| --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |
 
 ### Preguntes i respostes
 
@@ -47,6 +49,8 @@ Esta plantilla reunix les evidències de les tres sessions del bloc 1. Dupliqueu
 | 1 |  |  |  |  |
 
 ## 4. Objectius i criteris d'èxit
+
+Redacteu un objectiu general i dos o tres objectius específics. Cada objectiu ha de respondre al problema i tindre una comprovació proporcionada.
 
 | Objectiu | Criteri d'èxit | Evidència necessària |
 | --- | --- | --- |
@@ -167,16 +171,11 @@ Si no s'ha utilitzat IA, indiqueu-ho expressament.
 
 ## 15. Aportacions individuals
 
-Cada membre completarà la seua pròpia entrada.
+No dupliqueu ací les reflexions. Cada membre manté un únic registre en `evidencies/alumnat/nom-cognoms.md`; enllaceu-lo en esta taula.
 
-### Nom
-
-- Tasques i apartats en què he participat:
-- Decisió que puc defensar amb més detall:
-- Evidències de la meua aportació:
-- Concepte que domine millor després del bloc:
-- Aspecte que necessite reforçar:
-- Desacord o canvi d'opinió rellevant, si n'hi ha hagut:
+| Membre | Registre individual | Evidència o aportació principal del bloc |
+| --- | --- | --- |
+|  |  |  |
 
 ## 16. Revisió final
 

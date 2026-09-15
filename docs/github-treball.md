@@ -6,7 +6,7 @@ Cada proposta tindrà un únic repositori, creat a partir de la plantilla del cu
 
 Cada projecte tindrà un nom descriptiu i un identificador estable. Els dos es registren en `project.json`; el nom pot afinar-se durant la proposta, però qualsevol canvi ha de quedar versionat i comunicar-se al professorat.
 
-Utilitzeu [`cipfpbatoi/pi2627-plantilla-projecte`](https://github.com/cipfpbatoi/pi2627-plantilla-projecte). Els repositoris de treball es crearan normalment dins de l'organització docent `batoi-pi-2026`. El professorat vos indicarà el repositori assignat i comprovarà els accessos abans de començar. Si excepcionalment heu de crear-lo manualment, useu **Use this template** o el procediment que indique el professorat.
+Utilitzeu [`cipfpbatoi/pi2627-plantilla-projecte`](https://github.com/cipfpbatoi/pi2627-plantilla-projecte). Els repositoris de treball es crearan normalment dins de l'organització docent `batoi-pi-2026`. El professorat vos indicarà el repositori assignat i vos enviarà una invitació al vostre usuari de GitHub. Heu d'acceptar-la abans de començar i comprovar que podeu obrir el repositori privat, clonar-lo i fer-hi `push`. Si no veieu la invitació o l'accés falla, comuniqueu-ho abans de crear cap repositori alternatiu. Si excepcionalment heu de crear-lo manualment, useu **Use this template** o el procediment que indique el professorat.
 
 ```bash
 git clone https://github.com/cipfpbatoi/pi2627-plantilla-projecte.git nom-del-projecte

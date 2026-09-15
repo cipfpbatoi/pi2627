@@ -6,17 +6,39 @@ Cada proposta tindrà un únic repositori, creat a partir de la plantilla del cu
 
 Cada projecte tindrà un nom descriptiu i un identificador estable. Els dos es registren en `project.json`; el nom pot afinar-se durant la proposta, però qualsevol canvi ha de quedar versionat i comunicar-se al professorat.
 
-Utilitzeu [`cipfpbatoi/pi2627-plantilla-projecte`](https://github.com/cipfpbatoi/pi2627-plantilla-projecte). Els repositoris de treball es crearan normalment dins de l'organització docent `batoi-pi-2026`. El professorat vos indicarà el repositori assignat i vos enviarà una invitació al vostre usuari de GitHub. Heu d'acceptar-la abans de començar i comprovar que podeu obrir el repositori privat, clonar-lo i fer-hi `push`. Si no veieu la invitació o l'accés falla, comuniqueu-ho abans de crear cap repositori alternatiu. Si excepcionalment heu de crear-lo manualment, useu **Use this template** o el procediment que indique el professorat.
+El professorat crearà normalment el repositori a partir de [`cipfpbatoi/pi2627-plantilla-projecte`](https://github.com/cipfpbatoi/pi2627-plantilla-projecte), dins de l'organització docent `batoi-pi-2026`, i vos enviarà una invitació al vostre usuari de GitHub. Heu d'acceptar-la abans de començar. No creeu un repositori alternatiu ni cloneu directament la plantilla.
+
+Cada membre clona en el seu ordinador **el mateix repositori assignat a l'equip**:
 
 ```bash
-git clone https://github.com/cipfpbatoi/pi2627-plantilla-projecte.git nom-del-projecte
-cd nom-del-projecte
-git remote remove origin
-git remote add origin URL_DEL_REPOSITORI_NOU
-git push -u origin main
+git clone https://github.com/batoi-pi-2026/som-barri-equip-01.git
+cd som-barri-equip-01
+git remote -v
 ```
 
-No intenteu enviar canvis al repositori plantilla. Si useu **Use this template**, GitHub ja crearà un repositori independent i no necessitareu canviar el remot.
+Substituïu `som-barri-equip-01` pel nom que vos haja indicat el professorat. `origin` ha d'apuntar al repositori de l'equip. Si no podeu obrir-lo, clonar-lo o publicar una branca, reviseu que heu acceptat la invitació i comuniqueu la incidència abans de continuar.
+
+### Primera comprovació individual
+
+Cada persona ha de deixar una primera aportació amb la seua autoria. Partint de la issue de posada en marxa, creeu una branca i la fitxa individual:
+
+```bash
+git switch -c posada-en-marxa/nom-cognoms
+cp evidencies/alumnat/plantilla.md evidencies/alumnat/nom-cognoms.md
+git add evidencies/alumnat/nom-cognoms.md
+git commit -m "docs: crea el registre individual"
+git push -u origin posada-en-marxa/nom-cognoms
+```
+
+Després, obriu una *pull request* en GitHub i feu que una altra persona de l'equip la revise. Abans de començar la tasca següent, torneu a `main`, descarregueu els canvis incorporats i creeu una branca nova:
+
+```bash
+git switch main
+git pull
+git switch -c numero-issue-descripcio-breu
+```
+
+L'edició directa en la web de GitHub pot resoldre una correcció puntual, però en Som Barri cada membre ha de practicar almenys el circuit local `clone → branca → commit → push → pull request → revisió → pull`.
 
 GitHub serà l'espai de treball habitual per a documentació, tasques, decisions, codi, proves i traspassos. No entregueu còpies diferents del mateix document en altres espais.
 

@@ -66,7 +66,7 @@ README.md                              # portada i enllaços, no el dossier comp
 docs/00-control/projecte.md            # identificació i custòdia
 docs/00-control/decisions.md           # decisions compartides
 docs/00-control/fonts-ia.md            # fonts i ús d'IA
-docs/01-proposta/dossier-0.md          # document compartit del bloc 1
+docs/01-proposta/dossier-0.md          # còpia ja preparada de la plantilla; document compartit del bloc 1
 evidencies/alumnat/nom-cognoms.md      # un registre per membre
 ```
 

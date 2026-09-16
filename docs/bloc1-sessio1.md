@@ -157,7 +157,7 @@ Respon individualment:
 
 ## Lliurament de la sessió
 
-Treballeu en el repositori que facilitarà el professorat a partir de la plantilla del curs. El fitxer `docs/01-proposta/dossier-0.md` ja estarà preparat. No concentreu l'entrega en el `README.md`: useu-lo com a portada i índex.
+Treballeu en el repositori que facilitarà el professorat a partir de la plantilla del curs. El fitxer `docs/01-proposta/dossier-0.md` **és la còpia de la [plantilla del Dossier 0](bloc1-dossier0.md) que ja hem deixat al repositori de l'equip**: obriu i completeu eixe mateix fitxer durant les tres sessions. No el torneu a copiar ni creeu un altre dossier. No concentreu l'entrega en el `README.md`: useu-lo com a portada i índex.
 
 Incorporeu el treball compartit a `docs/01-proposta/dossier-0.md`:
 

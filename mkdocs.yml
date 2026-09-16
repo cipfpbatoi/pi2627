@@ -35,6 +35,20 @@ nav:
       - "Sessió 3. Organitzar l'execució": "bloc4-sessio3.md"
       - "Sessió 4. Controlar i traspassar": "bloc4-sessio4.md"
       - "Plantilla del Pla del projecte": "bloc4-pla-projecte.md"
+  - "Bloc 5. Desenvolupament i validació":
+      - "Guia de l'alumnat": "bloc5-alumnat.md"
+      - "Iteració 5.1. Prova tècnica": "bloc5-iteracio1.md"
+      - "Iteració 5.2. Recorregut mínim": "bloc5-iteracio2.md"
+      - "Iteració 5.3. Increment de valor": "bloc5-iteracio3.md"
+      - "Iteració 5.4. Validació i desplegament": "bloc5-iteracio4.md"
+      - "Plantilla d'informe": "bloc5-informe-iteracio.md"
+  - "Bloc 6. Tancament i defensa":
+      - "Guia de l'alumnat": "bloc6-alumnat.md"
+      - "Sessió 1. Reunir i contrastar": "bloc6-sessio1.md"
+      - "Sessió 2. Validar i concloure": "bloc6-sessio2.md"
+      - "Sessió 3. Preparar la defensa": "bloc6-sessio3.md"
+      - "Sessió 4. Defensar i tancar": "bloc6-sessio4.md"
+      - "Plantilla de memòria": "bloc6-memoria.md"
 theme:
   language: ca
   favicon: imagenes/favicon.png

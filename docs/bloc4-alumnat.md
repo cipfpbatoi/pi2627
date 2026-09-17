@@ -19,7 +19,7 @@ Preparareu el [Pla del projecte](bloc4-pla-projecte.md), amb:
 - plans de proves, qualitat i desplegament;
 - procediments per a incidències, canvis, seguiment i participació de persones usuàries;
 - matriu de traçabilitat, evidències individuals i acta de traspàs.
-- una web estàtica breu publicada, amb el procediment i la comprovació d'una actualització.
+- una prova del pla de desplegament amb una pàgina estàtica mínima, el registre de dos publicacions i els ajustos justificats al pla.
 
 ## Seqüència
 
@@ -28,8 +28,8 @@ Preparareu el [Pla del projecte](bloc4-pla-projecte.md), amb:
 | [1. Rebre i descompondre](bloc4-sessio1.md) | Què hem rebut i en quines unitats executables es convertix? | Auditoria, línia base, lliurables i EDT |
 | [2. Ordenar i estimar](bloc4-sessio2.md) | En quin ordre, amb quins recursos i en quant de temps? | Xarxa de dependències, estimacions, recursos, costos i riscos |
 | [3. Organitzar l'execució](bloc4-sessio3.md) | Com sabrà l'equip executor què ha de fer i quan ha acabat? | Fites, iteracions, issues, responsabilitats i definició de fet |
-| [4. Controlar i traspassar](bloc4-sessio4.md) | Com comprovarem el progrés, els canvis i la qualitat? | Plans de prova i desplegament, procediments de control i traspàs |
-| [5. Publicar la presentació](bloc4-sessio5.md) | Com publiquem una primera versió verificable? | Web estàtica, URL i registre de desplegament |
+| [4. Preparar el control](bloc4-sessio4.md) | Com comprovarem el progrés, els canvis i la qualitat? | Plans de prova i desplegament, procediments de control i revisió prèvia |
+| [5. Provar i traspassar](bloc4-sessio5.md) | El procediment de publicació previst funciona? | Pàgina mínima, dos publicacions, pla revisat i traspàs |
 
 ## Regles del relleu
 

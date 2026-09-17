@@ -1,8 +1,8 @@
-# Sessió 4. Controlar i traspassar
+# Sessió 4. Preparar el control
 
 ## Propòsit
 
-Definir com es validarà l'execució, com es prendran decisions davant d'incidències i canvis, i entregar una versió reproduïble del pla.
+Definir com es validarà l'execució i com es prendran decisions davant d'incidències i canvis. El pla quedarà preparat per a la prova de desplegament i el traspàs de la sessió 5.
 
 ## 1. Plans de proves, qualitat i desplegament
 
@@ -18,13 +18,13 @@ Una incidència ha de registrar efecte, prioritat, diagnòstic, resposta i compr
 
 Determineu com participaran les persones usuàries o clientes en la validació i quin document arreplegarà el resultat. Si hi ha plec o condicions docents, associeu cada condició a un control.
 
-## 4. Auditoria i traspàs
+## 4. Revisió prèvia
 
-Reviseu el pla amb la parella que el rebrà, sense explicar-lo abans de la primera lectura. Registreu preguntes, reserves i correccions. Creeu la versió `pla-v1.0` només quan el professorat accepte el punt de control.
+Reviseu el pla amb la parella que el rebrà, sense explicar-lo abans de la primera lectura. Registreu preguntes, reserves i correccions. Després de la prova de la sessió 5, incorporareu els ajustos al desplegament i creareu `pla-v1.0` quan el professorat accepte el punt de control.
 
 ## Evidència de sessió
 
-Completeu les seccions 12–17 del pla, `pla-proves.md`, `pla-desplegament.md`, l'acta `traspassos/02-pla-a-prototip.md` i les evidències individuals. Actualitzeu fonts, ús d'IA i decisions.
+Prepareu les seccions 12–17 del pla, `pla-proves.md`, `pla-desplegament.md` i l'esborrany de l'acta `traspassos/02-pla-a-prototip.md`. Actualitzeu fonts, ús d'IA i decisions.
 
 ## Comprovació
 

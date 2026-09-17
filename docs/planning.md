@@ -26,7 +26,7 @@ La duració prevista és de **99 hores**, distribuïdes habitualment en sessions
 | 1. Reactivació i formació d'equips | 9 h | 3 | Diagnòstic i miniplanificació |
 | 2. Elecció i validació del projecte | 9 h | 3 | Proposta de projecte aprovada |
 | 3. Disseny i viabilitat | 15 h | 5 | Avantprojecte |
-| 4. Planificació de l'execució | 15 h | 5 | Pla del projecte i web publicada |
+| 4. Planificació de l'execució | 15 h | 5 | Pla del projecte i prova del desplegament |
 | 5. Desenvolupament i validació del prototip | 42 h | 14 | Prototip funcional validat |
 | 6. Tancament i defensa | 9 h | 3 | Memòria i defensa final |
 | **Total** | **99 h** | **33** | |
@@ -176,7 +176,7 @@ Convertir l'avantprojecte rebut d'una altra parella en un pla executable, mesura
 - completar el registre de riscos;
 - establir com es gestionaran els canvis i les incidències;
 - seleccionar indicadors i instruments de seguiment.
-- publicar una web estàtica breu que presente l'equip planificador i el projecte rebut, i documentar-ne el desplegament i una actualització.
+- provar el procediment de desplegament amb una pàgina estàtica mínima, verificar-ne una actualització i ajustar el pla segons el resultat.
 
 ### Evidència principal: pla del projecte
 

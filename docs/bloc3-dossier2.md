@@ -54,7 +54,7 @@ Enllaceu els fluxos, casos d'ús o històries. Descriviu el recorregut principal
 
 ## 7. Informació i model de dades
 
-Adjunteu el model pertinent o justifiqueu per què no cal persistència pròpia.
+Adjunteu el model de les dades pròpies, incloent-hi comptes d'usuari i una entitat del problema. Preveieu migracions, seeders ficticis, validacions i restriccions d'integritat.
 
 | Dada o entitat | Finalitat | Origen | Accés | Conservació | Risc/qualitat |
 | --- | --- | --- | --- | --- | --- |
@@ -70,7 +70,7 @@ Enllaceu el prototip de baixa fidelitat i documenteu jerarquia, navegació, esta
 
 ## 9. Arquitectura i integracions
 
-Adjunteu un diagrama de context o components. Expliqueu client, servidor, dades, desplegament i sistemes externs només quan siguen aplicables.
+Adjunteu un diagrama de context o components. Expliqueu el client, l'API d'accés i negoci, la pàgina generada al servidor, les dades, el desplegament i la font d'informació existent. Justifiqueu com cada peça complix les [condicions tècniques comunes](condicions-tecniques.md) i aporta valor al recorregut.
 
 | Component/integració | Necessitat coberta | Responsabilitat | Dependència | Fallada o risc |
 | --- | --- | --- | --- | --- |
@@ -146,6 +146,7 @@ Cada membre adjuntarà la seua defensa d'una cadena de traçabilitat i d'una dec
 - [ ] L'arquitectura no conté components sense justificació.
 - [ ] Les alternatives i els riscos tenen evidències o proves.
 - [ ] La viabilitat considera temps, recursos, costos, dades, permisos i desplegament.
+- [ ] Els mínims tècnics comuns tenen requisits, riscos i proves previstos.
 - [ ] La matriu permet seguir una cadena completa fins a la prova.
 - [ ] L'autoria, les fonts i l'ús d'IA són identificables.
 

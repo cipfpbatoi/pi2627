@@ -16,7 +16,7 @@ Preparareu el [Dossier 2. Avantprojecte](bloc3-dossier2.md), que reunirà:
 - persones usuàries, contextos d'ús i recorreguts prioritaris;
 - requisits funcionals i no funcionals prioritzats;
 - abast, exclusions, dependències i supòsits;
-- model funcional, de dades i arquitectura preliminar, quan pertoquen;
+- model funcional, de dades i arquitectura preliminar que incloga els mínims comuns;
 - proposta d'interfície revisada amb criteris d'usabilitat i accessibilitat;
 - alternatives tecnològiques i decisions justificades;
 - viabilitat tècnica, temporal, econòmica, legal i operativa;
@@ -34,7 +34,7 @@ Preparareu el [Dossier 2. Avantprojecte](bloc3-dossier2.md), que reunirà:
 
 ## Criteris de treball
 
-Tots els equips han de justificar la coherència entre necessitat, objectius, requisits, disseny, proves i decisions. No tots necessitareu autenticació, una base de dades relacional, una API pròpia o una aplicació d'una sola pàgina. Incloeu cada component perquè resol una necessitat o reduïx un risc, no perquè siga habitual.
+Tots els equips han de justificar la coherència entre necessitat, objectius, requisits, disseny, proves i decisions. Concreteu com les [condicions tècniques comunes](condicions-tecniques.md) resolen una part del repte i poden executar-se en el temps disponible. Podeu triar el tipus de base de dades, el framework i l'arquitectura de client; no són obligatoris els rols ni una aplicació d'una sola pàgina.
 
 Qualsevol afirmació important s'ha d'acompanyar d'una font, una evidència o la marca **hipòtesi pendent**. Registreu l'autoria, les revisions i l'ús d'IA durant el procés.
 

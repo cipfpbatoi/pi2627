@@ -5,6 +5,7 @@ use_directory_urls: false
 nav:
   - "Inici": "index.md"
   - "Planificació del curs": "planning.md"
+  - "Condicions tècniques del prototip": "condicions-tecniques.md"
   - "Forma de treball: projectes en relleu": "forma-treball.md"
   - "Treball i evidències en GitHub": "github-treball.md"
   - "Bloc 1. Reactivació":

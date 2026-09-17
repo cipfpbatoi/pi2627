@@ -17,13 +17,15 @@ Al final de cada iteració entregueu una versió o commit immutable i un [inform
 
 ## Com decidir l'abast
 
-Preserveu primer el recorregut que permet comprovar la necessitat principal. Prioritzeu segons valor, dependències, capacitat i risc. La integració de client, servidor i dades depén del projecte; si un component no és necessari, justifiqueu-ho. No afegiu funcionalitats sense revisar el cost, les proves i l'efecte en el desplegament.
+Preserveu primer el recorregut que permet comprovar la necessitat principal i les [condicions tècniques comunes](condicions-tecniques.md). Prioritzeu segons valor, dependències, capacitat i risc. Si el pla rebut no permet completar algun mínim, registreu-ne la causa i acordeu l'ajust amb el professorat abans d'eliminar-lo. No afegiu funcionalitats sense revisar el cost, les proves i l'efecte en el desplegament.
 
 Per a cada requisit treballat, conserveu la cadena **necessitat → requisit → issue → persona responsable → canvi → prova → resultat → decisió**. Un resultat negatiu també és evidència si orienta una decisió registrada.
 
 ## Tancament del bloc
 
-Prepareu `prototip-v1.0` amb codi, instruccions per executar-lo, dades de prova sense informació sensible, informe de validació, desplegament o demostració reproduïble, limitacions i treball pendent. Completeu `docs/04-seguiment/`, actualitzeu el pla i traslladeu els resultats a `docs/05-tancament/` per al bloc 6. En Aules entregueu l'URL i la versió exacta segons les indicacions docents.
+Prepareu `prototip-v1.0` amb codi, instruccions per executar-lo, migracions i seeders, dades de prova sense informació sensible, API documentada, proves i resultats, informe de validació, desplegament o demostració reproduïble, limitacions i treball pendent. Completeu `docs/04-seguiment/`, actualitzeu el pla i traslladeu els resultats a `docs/05-tancament/` per al bloc 6. En Aules entregueu l'URL i la versió exacta segons les indicacions docents.
+
+Declareu l'ús d'IA amb la finalitat, l'ajuda rebuda i la verificació humana. Cada membre ha de poder explicar i modificar les parts en què ha intervingut. En cada punt de control podeu rebre un cas límit o un canvi acotat per comprovar-ne l'efecte en el codi, les proves i el pla.
 
 **Punt de control:** una altra persona pot executar el recorregut, repetir les proves i entendre què s'ha canviat respecte del pla?
 

@@ -100,6 +100,7 @@ Passar d'una idea inicial a una proposta fonamentada en una necessitat real o ve
 - permetre construir i validar un prototip;
 - integrar diferents àmbits del desenvolupament web;
 - permetre obtindre evidències grupals i individuals.
+- permetre complir les [condicions tècniques comunes del prototip](condicions-tecniques.md) amb un recorregut útil i assumible.
 
 ### Evidències
 
@@ -222,7 +223,7 @@ Cada iteració inclourà:
 Segons la naturalesa del projecte, el prototip haurà de:
 
 - cobrir un recorregut principal de principi a fi;
-- integrar client, servidor i dades quan siguen necessaris;
+- integrar client, servidor i dades segons les [condicions tècniques comunes](condicions-tecniques.md);
 - ser executable o desplegable de manera documentada;
 - permetre proves amb persones usuàries o casos representatius;
 - demostrar les decisions tècniques amb major risc o impacte;

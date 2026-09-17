@@ -50,6 +50,8 @@ Dupliqueu esta estructura en `docs/03-planificacio/pla-projecte.md`. Partiu de l
 
 Enllaceu el cronograma o diagrama de dependències i expliqueu el camí o les dependències crítiques.
 
+Comproveu que les [condicions tècniques comunes](condicions-tecniques.md) tenen tasques, responsables, dependències, temps i punts de prova. La seua presència en el Dossier 2 no substituïx la planificació.
+
 ## 8. Valoració econòmica
 
 | Concepte | Quantitat/temps | Cost unitari | Cost prototip | Cost posada en marxa/operació | Font o supòsit |

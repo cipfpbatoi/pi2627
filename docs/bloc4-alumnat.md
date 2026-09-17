@@ -17,6 +17,7 @@ Preparareu el [Pla del projecte](bloc4-pla-projecte.md), amb:
 - permisos, riscos i procediments d'execució;
 - tauler d'issues, criteris de finalització i política de versions;
 - plans de proves, qualitat i desplegament;
+- tasques, estimacions i proves per a les [condicions tècniques comunes](condicions-tecniques.md);
 - procediments per a incidències, canvis, seguiment i participació de persones usuàries;
 - matriu de traçabilitat, evidències individuals i acta de traspàs.
 - una prova del pla de desplegament amb una pàgina estàtica mínima, el registre de dos publicacions i els ajustos justificats al pla.

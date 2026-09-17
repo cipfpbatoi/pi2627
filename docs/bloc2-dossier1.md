@@ -85,6 +85,8 @@ No inclogueu dades personals o transcripcions privades innecessàries.
 
 ### Integració DAW prevista
 
+Expliqueu quin recorregut podria satisfer les [condicions tècniques comunes](condicions-tecniques.md). Identifiqueu almenys una possible font d'informació existent i els dubtes que caldrà resoldre en el bloc 3; encara no cal triar framework ni implementar res.
+
 | Àmbit | Necessitat dins de la proposta | Decisió o pregunta pendent |
 | --- | --- | --- |
 | Client i interfície |  |  |
@@ -92,7 +94,7 @@ No inclogueu dades personals o transcripcions privades innecessàries.
 | Dades |  |  |
 | Desplegament |  |  |
 
-Si un àmbit no és aplicable, justifiqueu-ho.
+Per als mínims comuns, expliqueu-ne la funció dins del recorregut. Justifiqueu qualsevol altre component que considereu innecessari.
 
 ## 9. Viabilitat preliminar
 
@@ -152,6 +154,6 @@ Cada membre adjuntarà les respostes de les sessions 1, 2 i 3 i indicarà:
 - [ ] El prototip té un recorregut principal i exclusions clares.
 - [ ] Es preveu com validar amb persones o casos representatius.
 - [ ] Els riscos, costos, permisos i qüestions de dades estan identificats.
-- [ ] La integració tècnica respon al projecte i no a una llista obligatòria.
+- [ ] El recorregut pot complir els mínims tècnics comuns sense perdre la relació amb la necessitat.
 - [ ] La revisió externa i la decisió docent estan registrades.
 - [ ] Les aportacions individuals, les fonts i l'ús d'IA són identificables.

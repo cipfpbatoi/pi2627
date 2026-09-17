@@ -34,6 +34,7 @@ nav:
       - "Sessió 2. Ordenar i estimar": "bloc4-sessio2.md"
       - "Sessió 3. Organitzar l'execució": "bloc4-sessio3.md"
       - "Sessió 4. Controlar i traspassar": "bloc4-sessio4.md"
+      - "Sessió 5. Publicar la presentació": "bloc4-sessio5.md"
       - "Plantilla del Pla del projecte": "bloc4-pla-projecte.md"
   - "Bloc 5. Desenvolupament i validació":
       - "Guia de l'alumnat": "bloc5-alumnat.md"
@@ -46,8 +47,7 @@ nav:
       - "Guia de l'alumnat": "bloc6-alumnat.md"
       - "Sessió 1. Reunir i contrastar": "bloc6-sessio1.md"
       - "Sessió 2. Validar i concloure": "bloc6-sessio2.md"
-      - "Sessió 3. Preparar la defensa": "bloc6-sessio3.md"
-      - "Sessió 4. Defensar i tancar": "bloc6-sessio4.md"
+      - "Sessió 3. Preparar i defensar": "bloc6-sessio3.md"
       - "Plantilla de memòria": "bloc6-memoria.md"
 theme:
   language: ca

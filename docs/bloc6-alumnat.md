@@ -2,14 +2,13 @@
 
 ## Explicar el recorregut complet
 
-En **12 hores, quatre sessions**, tancareu les evidències dels projectes en què heu sigut equip autor, planificador i desenvolupador. La parella autora revisarà el resultat de la seua proposta com a part interessada; les seues observacions s'incorporaran a la validació, però no substituiran les decisions justificades dels equips posteriors.
+En **9 hores, tres sessions**, tancareu les evidències dels projectes en què heu sigut equip autor, planificador i desenvolupador. La parella autora revisarà el resultat de la seua proposta com a part interessada; les seues observacions s'incorporaran a la validació, però no substituiran les decisions justificades dels equips posteriors.
 
 | Sessió | Treball | Evidència |
 | --- | --- | --- |
 | [1. Reunir i contrastar](bloc6-sessio1.md) | Versions, autoria i cadena entre fases | Inventari i buits |
 | [2. Validar i concloure](bloc6-sessio2.md) | Retorn de l'equip autor, proves i límits | Informe de validació |
-| [3. Preparar la defensa](bloc6-sessio3.md) | Memòria, demostració i aportacions | Esborrany i assaig |
-| [4. Defensar i tancar](bloc6-sessio4.md) | Defensa compartida i individual | Memòria final i portafolis |
+| [3. Preparar i defensar](bloc6-sessio3.md) | Tancament de la memòria, demostració i defensa | Memòria final i portafolis |
 
 Useu la [plantilla de memòria i defensa](bloc6-memoria.md). La memòria distingix la proposta inicial, el pla rebut, el que s'ha executat, els canvis, les proves i el treball pendent. Citeu sempre l'equip i la versió d'origen; no presenteu el treball d'altres com a propi.
 

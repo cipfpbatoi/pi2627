@@ -26,9 +26,9 @@ La duració prevista és de **99 hores**, distribuïdes habitualment en sessions
 | 1. Reactivació i formació d'equips | 9 h | 3 | Diagnòstic i miniplanificació |
 | 2. Elecció i validació del projecte | 9 h | 3 | Proposta de projecte aprovada |
 | 3. Disseny i viabilitat | 15 h | 5 | Avantprojecte |
-| 4. Planificació de l'execució | 12 h | 4 | Pla del projecte |
+| 4. Planificació de l'execució | 15 h | 5 | Pla del projecte i web publicada |
 | 5. Desenvolupament i validació del prototip | 42 h | 14 | Prototip funcional validat |
-| 6. Tancament i defensa | 12 h | 4 | Memòria i defensa final |
+| 6. Tancament i defensa | 9 h | 3 | Memòria i defensa final |
 | **Total** | **99 h** | **33** | |
 
 ## Rotació de projectes i responsabilitats
@@ -155,7 +155,7 @@ L'avantprojecte reunirà, almenys:
 
 La parella autora entregarà el Dossier 2 versionat, les evidències, les condicions pendents i els riscos coneguts. La parella planificadora realitzarà una revisió d'entrada i registrarà preguntes, reserves i acceptació abans d'iniciar la fase 4.
 
-## Fase 4. Planificació de l'execució — 12 hores
+## Fase 4. Planificació de l'execució — 15 hores
 
 ### Finalitat
 
@@ -176,6 +176,7 @@ Convertir l'avantprojecte rebut d'una altra parella en un pla executable, mesura
 - completar el registre de riscos;
 - establir com es gestionaran els canvis i les incidències;
 - seleccionar indicadors i instruments de seguiment.
+- publicar una web estàtica breu que presente l'equip planificador i el projecte rebut, i documentar-ne el desplegament i una actualització.
 
 ### Evidència principal: pla del projecte
 
@@ -244,7 +245,7 @@ Segons la naturalesa del projecte, el prototip haurà de:
 
 **Què hem validat, què s'ha desviat i com afecta això el pla següent?**
 
-## Fase 6. Tancament i defensa — 12 hores
+## Fase 6. Tancament i defensa — 9 hores
 
 ### Finalitat
 

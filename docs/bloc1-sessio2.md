@@ -20,6 +20,20 @@ En esta sessió convertireu l'abast inicial en un pla de treball. Identificareu 
 
 Definiu entre quatre i huit resultats comprovables que serien necessaris per preparar i validar la primera versió.
 
+En esta activitat, un **lliurable del projecte** és un resultat concret que l'equip haurà de produir i que una altra persona podrà revisar o validar. Pot ser una part funcional del prototip, un disseny, un informe de proves o una altra evidència necessària per validar la solució. No és una acció ni una fase genèrica: ha de poder-se descriure com un resultat acabat i tindre un criteri d'acceptació observable.
+
+No confongueu estos tres conceptes:
+
+| Concepte | Què representa? | Exemple de Som Barri |
+| --- | --- | --- |
+| Lliurable del projecte | Resultat comprovable que formarà part de la primera versió o permetrà validar-la | Prototip del procés d'inscripció |
+| Tasca | Treball que cal fer per produir un lliurable | Dissenyar el formulari d'inscripció |
+| Lliurament de la sessió | Actualització que incorporeu ara al Dossier 0 | Taula de lliurables i tasques, estimacions, cronograma i pressupost |
+
+Per exemple, podeu definir el lliurable `L1. Prototip del procés d'inscripció` i considerar-lo acceptat quan una persona puga consultar una activitat, enviar una inscripció i obtindre una confirmació amb dades fictícies. «Dissenyar el formulari», «implementar la validació de dades» i «executar la prova del recorregut» serien tasques associades a eixe lliurable, no tres lliurables diferents.
+
+Un nom com «fer la base de dades» descriu una activitat i no permet saber quin resultat s'ha de validar. Reformuleu-lo indicant què quedarà disponible —per exemple, «model de dades de les activitats i inscripcions revisat»— i afegiu les condicions que haurà de complir.
+
 | Codi | Lliurable | Criteri d'acceptació |
 | --- | --- | --- |
 | L1 |  |  |
@@ -129,6 +143,8 @@ El professorat vos lliurarà una incidència. Disposeu de quinze minuts per:
 No es tracta de mantindre intacte el pla original. Es tracta de demostrar que sabeu adaptar-lo sense perdre els objectius principals.
 
 ## Lliurament de la sessió
+
+En acabar la sessió no heu de crear un fitxer o una entrega independent per cada lliurable del projecte. Heu d'actualitzar el **Dossier 0 compartit** amb la planificació elaborada hui. La versió completa del Dossier 0 es publicarà al final del bloc segons les indicacions del professorat.
 
 Incorporeu al Dossier 0:
 

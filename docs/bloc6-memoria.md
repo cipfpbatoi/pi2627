@@ -1,6 +1,6 @@
 # Plantilla de memòria i defensa
 
-Elaboreu la memòria en `docs/05-tancament/memoria.md`. Enllaceu documents i versions existents; citeu l'equip que va elaborar cada fase.
+La plantilla ja està disponible com a `docs/05-tancament/memoria.md` en el repositori definitiu. Enllaceu documents i versions existents; citeu l'equip que va elaborar cada fase.
 
 ## 1. Identificació i versions
 

@@ -1,6 +1,6 @@
 # Plantilla del Dossier 2. Avantprojecte
 
-Dupliqueu esta plantilla, partiu de la versió acceptada del Dossier 1 i conserveu l'historial. Enllaceu els diagrames, prototips, proves i fonts; no dupliqueu evidències sense necessitat.
+En el repositori definitiu, esta plantilla ja està disponible com a `docs/02-avantprojecte/dossier-2.md`. Partiu de la versió acceptada del Dossier 1, conserveu l'historial i enllaceu diagrames, prototips, proves i fonts; no dupliqueu evidències sense necessitat.
 
 ## 1. Identificació, versions i condicions d'entrada
 

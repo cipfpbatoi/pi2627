@@ -15,6 +15,8 @@ Durant **57 hores, en 19 sessions**, assumireu la custòdia del pla d'un tercer 
 
 Al final de cada iteració entregueu una versió o commit immutable i un [informe breu](bloc5-informe-iteracio.md). Identifiqueu tasques previstes i acabades, hores estimades i reals, proves, incidències, canvis, riscos i decisió per a la iteració següent. El tauler, el pla, el registre de decisions i les evidències individuals han de reflectir l'estat real.
 
+Les còpies completades es guarden a `docs/04-seguiment/iteracio-5-1.md` fins a `iteracio-5-4.md`; no entregueu com a evidència la plantilla buida. El punt de control final comprovarà estes quatre iteracions, el prototip, els traspassos i les evidències individuals a `prototip-v1.0`.
+
 ## Com decidir l'abast
 
 Preserveu primer el recorregut que permet comprovar la necessitat principal i les [condicions tècniques comunes](condicions-tecniques.md). Prioritzeu segons valor, dependències, capacitat i risc. Si el pla rebut no permet completar algun mínim, registreu-ne la causa i acordeu l'ajust amb el professorat abans d'eliminar-lo. No afegiu funcionalitats sense revisar el cost, les proves i l'efecte en el desplegament.

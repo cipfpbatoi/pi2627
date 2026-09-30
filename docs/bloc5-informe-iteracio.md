@@ -1,6 +1,6 @@
 # Plantilla de l'informe d'iteració
 
-Dupliqueu-la en `docs/04-seguiment/iteracio-5-N.md` per a cada iteració. Enllaceu evidències existents; no repliqueu l'historial.
+La plantilla `docs/04-seguiment/plantilla-informe-iteracio.md` ja està disponible en el repositori definitiu. Creeu `iteracio-5-1.md`, `iteracio-5-2.md`, `iteracio-5-3.md` i `iteracio-5-4.md` a partir d'ella, i enllaceu evidències existents; no repliqueu l'historial.
 
 | Projecte | Iteració i dates | Equip custodi | Versió/commit | Pla d'entrada |
 | --- | --- | --- | --- | --- |

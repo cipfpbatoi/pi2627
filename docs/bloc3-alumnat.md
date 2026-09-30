@@ -22,6 +22,8 @@ Preparareu el [Dossier 2. Avantprojecte](bloc3-dossier2.md), que reunirà:
 - viabilitat tècnica, temporal, econòmica, legal i operativa;
 - riscos i proves primerenques per reduir la incertesa.
 
+En el repositori definitiu, completeu el mateix document a `docs/02-avantprojecte/dossier-2.md` i marqueu la versió revisada com `dossier-2-v1.0`.
+
 ## Seqüència
 
 | Sessió | Pregunta principal | Evidència |

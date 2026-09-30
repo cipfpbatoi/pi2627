@@ -20,6 +20,8 @@ Preparareu un [Dossier 1](bloc2-dossier1.md) que permeta a l'equip educatiu deci
 - oferix prou treball compartit i evidències individuals;
 - identifica incerteses, riscos i qüestions pendents sense ocultar-los.
 
+En el repositori definitiu, completeu el mateix document a `docs/01-proposta/dossier-1.md` i marqueu la versió revisada com `dossier-1-v1.0`.
+
 ## Seqüència
 
 | Sessió | Pregunta principal | Evidència |

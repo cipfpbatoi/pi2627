@@ -1,6 +1,6 @@
 # Plantilla del Pla del projecte
 
-Dupliqueu esta estructura en `docs/03-planificacio/pla-projecte.md`. Partiu de la versió immutable del Dossier 2 i enllaceu les issues, fites, diagrames i documents auxiliars.
+En el repositori definitiu, esta estructura ja està disponible com a `docs/03-planificacio/pla-projecte.md`. Partiu de la versió immutable del Dossier 2 i enllaceu les issues, fites, diagrames i documents auxiliars.
 
 ## 1. Identificació i entrada
 

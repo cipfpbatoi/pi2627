@@ -12,6 +12,8 @@ En **9 hores, tres sessions**, tancareu les evidències dels projectes en què h
 
 Useu la [plantilla de memòria i defensa](bloc6-memoria.md). La memòria distingix la proposta inicial, el pla rebut, el que s'ha executat, els canvis, les proves i el treball pendent. Citeu sempre l'equip i la versió d'origen; no presenteu el treball d'altres com a propi.
 
+En el repositori definitiu, completeu `docs/05-tancament/memoria.md`. El punt de control de tancament comprovarà esta memòria junt amb les iteracions, el prototip, els traspassos i les evidències individuals de `prototip-v1.0`.
+
 El lliurament compartit T11 inclourà memòria, comparació entre fases, validació circular i enllaç a `prototip-v1.0`. T12 és individual: portafolis amb aportacions verificables i defensa de decisions. En Aules identifiqueu una versió immutable de cada evidència segons les indicacions docents.
 
 **Punt de control:** podeu explicar què s'ha decidit, amb quina prova, què ha canviat i què faria falta per continuar el projecte?

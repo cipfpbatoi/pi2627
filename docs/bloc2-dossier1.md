@@ -1,6 +1,6 @@
 # Plantilla del Dossier 1. Proposta de projecte
 
-Dupliqueu esta plantilla i conserveu-ne l'historial de versions. Substituïu les orientacions pel contingut del vostre equip i adjunteu o enllaceu evidències verificables.
+En el repositori definitiu, esta plantilla ja està disponible com a `docs/01-proposta/dossier-1.md`. Completeu eixe fitxer, conserveu-ne l'historial de versions i adjunteu o enllaceu evidències verificables.
 
 ## 1. Identificació i control de versions
 

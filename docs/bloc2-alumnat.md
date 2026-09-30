@@ -4,7 +4,7 @@
 
 En este bloc formareu la parella de treball i decidireu quin repte voleu abordar. No heu de començar per una aplicació que vos agradaria programar, sinó per una necessitat que pugueu investigar i per a la qual una solució web aporte valor.
 
-Disposareu de **9 hores, en tres sessions**, per explorar, contrastar i comparar opcions. El resultat serà una proposta inicial, no un contracte immutable: en els blocs següents comprovareu la viabilitat i ajustareu l'abast.
+Disposareu de **6 hores, en dos sessions**, per explorar, contrastar i comparar opcions. El resultat serà una proposta inicial, no un contracte immutable: en els blocs següents comprovareu la viabilitat i ajustareu l'abast.
 
 La parella conservarà la custòdia fins a completar l'avantprojecte del bloc 3. Després, una altra parella el planificarà. Redacteu pensant que haurà de continuar el treball sense dependre de converses no registrades.
 
@@ -24,9 +24,10 @@ Preparareu un [Dossier 1](bloc2-dossier1.md) que permeta a l'equip educatiu deci
 
 | Sessió | Pregunta principal | Evidència |
 | --- | --- | --- |
-| [1. Investigar necessitats](bloc2-sessio1.md) | Quin problema mereix que l'estudiem? | Mapa de necessitats i fonts |
-| [2. Comparar alternatives](bloc2-sessio2.md) | Quina resposta aporta més valor i és assumible? | Alternatives i selecció raonada |
-| [3. Validar la proposta](bloc2-sessio3.md) | Què hem de demostrar per poder continuar? | Proposta revisada i decisió docent |
+| [1. Investigar necessitats](bloc2-sessio1.md) | Quin problema mereix que l'estudiem? | Mapa de necessitats, fonts i candidates |
+| [2. Comparar, validar i decidir](bloc2-sessio2.md) | Quina resposta aporta més valor i és assumible? | Alternatives, selecció, revisió i decisió docent |
+
+El document antic de [validació de la proposta](bloc2-sessio3.md) queda com a recurs per preparar la revisió final, no com una tercera sessió programada.
 
 ## Decisió de final de bloc
 

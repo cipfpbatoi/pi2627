@@ -1,4 +1,8 @@
-# Sessió 5. Provar el desplegament i traspassar el pla
+# Recurs integrat. Provar el desplegament i traspassar el pla
+
+!!! info "Integrat en la sessió 3"
+
+    Useu esta guia per executar la prova de desplegament, actualitzar el pla i formalitzar el traspàs. No és una sessió addicional.
 
 ## Propòsit
 

@@ -1,4 +1,8 @@
-# Sessió 3. Validar la proposta
+# Recurs de consolidació. Validar la proposta
+
+!!! info "Integrat en la sessió 2"
+
+    Esta guia reunix les activitats de revisió, presentació i decisió que es realitzen al final de la segona sessió del bloc. No és una tercera sessió programada.
 
 ## Objectiu
 

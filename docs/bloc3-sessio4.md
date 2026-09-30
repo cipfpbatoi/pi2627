@@ -1,4 +1,8 @@
-# Sessió 4. Arquitectura i alternatives tecnològiques
+# Recurs integrat. Arquitectura i alternatives tecnològiques
+
+!!! info "Integrat en la sessió 2"
+
+    Useu esta guia durant la segona sessió per justificar una decisió i fer una prova tècnica reduïda. No és una sessió addicional.
 
 ## Objectiu
 

@@ -138,7 +138,7 @@ Si no heu utilitzat IA, indiqueu-ho expressament.
 
 ## 14. Evidència individual
 
-Cada membre adjuntarà les respostes de les sessions 1, 2 i 3 i indicarà:
+Cada membre adjuntarà les respostes de les sessions 1 i 2, inclosa la decisió final, i indicarà:
 
 - aportacions verificables;
 - decisió que pot defensar;

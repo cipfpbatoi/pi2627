@@ -1,4 +1,8 @@
-# Sessió 5. Viabilitat i revisió de l'avantprojecte
+# Recurs integrat. Viabilitat i revisió de l'avantprojecte
+
+!!! info "Integrat en la sessió 3"
+
+    Useu esta guia al tancament de la tercera sessió per revisar la viabilitat i preparar el traspàs. No és una sessió addicional.
 
 ## Objectiu
 

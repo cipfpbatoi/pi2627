@@ -1,4 +1,8 @@
-# Sessió 4. Preparar el control
+# Recurs integrat. Preparar el control
+
+!!! info "Integrat en la sessió 2"
+
+    Useu esta guia per completar només els controls necessaris per iniciar el prototip. No és una sessió addicional.
 
 ## Propòsit
 

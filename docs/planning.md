@@ -24,10 +24,10 @@ La duració prevista és de **99 hores**, distribuïdes habitualment en sessions
 | Fase | Hores | Sessions orientatives | Producte principal |
 | --- | ---: | ---: | --- |
 | 1. Reactivació i formació d'equips | 9 h | 3 | Diagnòstic i miniplanificació |
-| 2. Elecció i validació del projecte | 9 h | 3 | Proposta de projecte aprovada |
-| 3. Disseny i viabilitat | 15 h | 5 | Avantprojecte |
-| 4. Planificació de l'execució | 15 h | 5 | Pla del projecte i prova del desplegament |
-| 5. Desenvolupament i validació del prototip | 42 h | 14 | Prototip funcional validat |
+| 2. Elecció i validació del projecte | 6 h | 2 | Proposta de projecte aprovada |
+| 3. Disseny i viabilitat | 9 h | 3 | Avantprojecte i prova tècnica inicial |
+| 4. Planificació de l'execució | 9 h | 3 | Pla mínim executable, prova de desplegament i traspàs |
+| 5. Desenvolupament i validació del prototip | 57 h | 19 | Prototip funcional validat |
 | 6. Tancament i defensa | 9 h | 3 | Memòria i defensa final |
 | **Total** | **99 h** | **33** | |
 
@@ -76,7 +76,7 @@ El repàs serà breu i aplicat. No es tornaran a explicar totes les ferramentes 
 
 L'alumnat identifica quines ferramentes domina, quines ha de reforçar i com pot contribuir al treball de l'equip.
 
-## Fase 2. Elecció i validació del projecte — 9 hores
+## Fase 2. Elecció i validació del projecte — 6 hores
 
 ### Finalitat
 
@@ -115,7 +115,7 @@ Passar d'una idea inicial a una proposta fonamentada en una necessitat real o ve
 
 **El projecte respon a una necessitat i resulta viable per continuar?**
 
-## Fase 3. Disseny i viabilitat — 15 hores
+## Fase 3. Disseny i viabilitat — 9 hores
 
 ### Finalitat
 
@@ -156,7 +156,7 @@ L'avantprojecte reunirà, almenys:
 
 La parella autora entregarà el Dossier 2 versionat, les evidències, les condicions pendents i els riscos coneguts. La parella planificadora realitzarà una revisió d'entrada i registrarà preguntes, reserves i acceptació abans d'iniciar la fase 4.
 
-## Fase 4. Planificació de l'execució — 15 hores
+## Fase 4. Planificació de l'execució — 9 hores
 
 ### Finalitat
 
@@ -191,7 +191,7 @@ El pla haurà de permetre relacionar cada necessitat o requisit amb les tasques,
 
 Una tercera parella auditarà el pla abans d'acceptar-ne la custòdia. Les mancances, consultes i canvis necessaris quedaran en l'acta; l'equip planificador respondrà els aclariments, però no assumirà l'execució.
 
-## Fase 5. Desenvolupament i validació del prototip — 42 hores
+## Fase 5. Desenvolupament i validació del prototip — 57 hores
 
 ### Finalitat
 
@@ -204,10 +204,10 @@ No serà imprescindible completar totes les funcionalitats imaginades. Es priori
 | Iteració | Hores | Finalitat |
 | --- | ---: | --- |
 | 5.1. Prova tècnica inicial | 6 h | Validar les tecnologies i els riscos tècnics principals |
-| 5.2. Prototip mínim viable | 12 h | Implementar un recorregut funcional complet |
-| 5.3. Desenvolupament incremental | 15 h | Incorporar les funcionalitats de més valor |
-| 5.4. Proves, millores i desplegament | 9 h | Validar, corregir i preparar la demostració |
-| **Total** | **42 h** | |
+| 5.2. Prototip mínim viable | 15 h | Implementar un recorregut funcional complet |
+| 5.3. Desenvolupament incremental | 21 h | Incorporar les funcionalitats de més valor |
+| 5.4. Proves, millores i desplegament | 15 h | Validar, corregir i preparar la demostració |
+| **Total** | **57 h** | |
 
 Cada iteració inclourà:
 

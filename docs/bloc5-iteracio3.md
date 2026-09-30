@@ -1,6 +1,6 @@
 # Iteració 5.3. Increment de valor
 
-**Sessions 7–11 · 15 hores**
+**Sessions 8–14 · 21 hores**
 
 ## Propòsit
 

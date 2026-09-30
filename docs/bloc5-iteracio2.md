@@ -1,6 +1,6 @@
 # Iteració 5.2. Recorregut mínim
 
-**Sessions 3–6 · 12 hores**
+**Sessions 3–7 · 15 hores**
 
 ## Propòsit
 

@@ -1,6 +1,6 @@
 # Iteració 5.4. Validació i desplegament
 
-**Sessions 12–14 · 9 hores**
+**Sessions 15–19 · 15 hores**
 
 ## Propòsit
 

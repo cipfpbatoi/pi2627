@@ -2,16 +2,16 @@
 
 ## Executar un pla rebut i comprovar-lo
 
-Durant **42 hores, en 14 sessions**, assumireu la custòdia del pla d'un tercer projecte. Començareu per auditar la versió `pla-v1.0` i l'acta del segon traspàs. La vostra tasca és obtindre un recorregut funcional demostrable, provar-lo i explicar les desviacions respecte del pla. Un defecte heretat s'ha de registrar amb l'origen i la resposta, sense alterar l'autoria anterior.
+Durant **57 hores, en 19 sessions**, assumireu la custòdia del pla d'un tercer projecte. Començareu per auditar la versió `pla-v1.0` i l'acta del segon traspàs. La vostra tasca és obtindre un recorregut funcional demostrable, provar-lo i explicar les desviacions respecte del pla. Un defecte heretat s'ha de registrar amb l'origen i la resposta, sense alterar l'autoria anterior.
 
 ## Iteracions i punts de control
 
 | Iteració | Sessions | Hores | Resultat verificable |
 | --- | ---: | ---: | --- |
 | [5.1. Prova tècnica inicial](bloc5-iteracio1.md) | 1–2 | 6 | Entorn reproduïble i risc tècnic contrastat |
-| [5.2. Recorregut mínim](bloc5-iteracio2.md) | 3–6 | 12 | Flux complet amb proves bàsiques |
-| [5.3. Increment de valor](bloc5-iteracio3.md) | 7–11 | 15 | Requisits prioritaris incorporats o descartats amb motiu |
-| [5.4. Validació i desplegament](bloc5-iteracio4.md) | 12–14 | 9 | Prototip provat, demostrable i amb limitacions conegudes |
+| [5.2. Recorregut mínim](bloc5-iteracio2.md) | 3–7 | 15 | Flux complet amb proves bàsiques |
+| [5.3. Increment de valor](bloc5-iteracio3.md) | 8–14 | 21 | Requisits prioritaris incorporats o descartats amb motiu |
+| [5.4. Validació i desplegament](bloc5-iteracio4.md) | 15–19 | 15 | Prototip provat, demostrable i amb limitacions conegudes |
 
 Al final de cada iteració entregueu una versió o commit immutable i un [informe breu](bloc5-informe-iteracio.md). Identifiqueu tasques previstes i acabades, hores estimades i reals, proves, incidències, canvis, riscos i decisió per a la iteració següent. El tauler, el pla, el registre de decisions i les evidències individuals han de reflectir l'estat real.
 

@@ -4,7 +4,7 @@
 
 En este bloc assumireu la custòdia del projecte dissenyat per una altra parella. La vostra responsabilitat no és refer-lo segons els vostres gustos, sinó entendre'l, detectar buits i convertir-lo en un **pla que una tercera parella puga executar**.
 
-Disposareu de **15 hores, en cinc sessions**. Treballareu sobre la versió del Dossier 2 identificada en l'acta de traspàs. Les consultes a l'equip autor, els canvis d'abast i les decisions noves quedaran registrats en GitHub.
+Disposareu de **9 hores, en tres sessions**. Treballareu sobre la versió del Dossier 2 identificada en l'acta de traspàs. Les consultes a l'equip autor, els canvis d'abast i les decisions noves quedaran registrats en GitHub. El resultat és un pla mínim executable: prou detallat per començar, provar i controlar, sense repetir informació ja validada.
 
 ## Resultat del bloc
 
@@ -27,10 +27,10 @@ Preparareu el [Pla del projecte](bloc4-pla-projecte.md), amb:
 | Sessió | Pregunta principal | Evidència |
 | --- | --- | --- |
 | [1. Rebre i descompondre](bloc4-sessio1.md) | Què hem rebut i en quines unitats executables es convertix? | Auditoria, línia base, lliurables i EDT |
-| [2. Ordenar i estimar](bloc4-sessio2.md) | En quin ordre, amb quins recursos i en quant de temps? | Xarxa de dependències, estimacions, recursos, costos i riscos |
-| [3. Organitzar l'execució](bloc4-sessio3.md) | Com sabrà l'equip executor què ha de fer i quan ha acabat? | Fites, iteracions, issues, responsabilitats i definició de fet |
-| [4. Preparar el control](bloc4-sessio4.md) | Com comprovarem el progrés, els canvis i la qualitat? | Plans de prova i desplegament, procediments de control i revisió prèvia |
-| [5. Provar i traspassar](bloc4-sessio5.md) | El procediment de publicació previst funciona? | Pàgina mínima, dos publicacions, pla revisat i traspàs |
+| [2. Ordenar, estimar i preparar el control](bloc4-sessio2.md) | En quin ordre, amb quins recursos i com comprovarem el treball? | Dependències, estimacions, riscos, proves i desplegament |
+| [3. Organitzar, provar i traspassar](bloc4-sessio3.md) | Pot una tercera parella començar sense reconstruir el pla? | Issues, fites, prova de desplegament, pla revisat i traspàs |
+
+Les guies de [control](bloc4-sessio4.md) i [prova de desplegament](bloc4-sessio5.md) són recursos integrats en les sessions 2 i 3; no són sessions addicionals.
 
 ## Regles del relleu
 

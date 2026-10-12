@@ -35,7 +35,7 @@ No confongueu una fase (`backend`) amb una tasca executable (`validar i persisti
 
 ## Evidència de sessió
 
-Actualitzeu les seccions 1–4 del Pla del projecte, creeu o reviseu les issues d'auditoria i registreu en l'evidència individual una decisió que hàgeu qüestionat o concretat.
+Actualitzeu les seccions 1–4 del Pla del projecte, inicieu en la secció 16 la traçabilitat dels elements ja definits, creeu o reviseu les issues d'auditoria i registreu en l'evidència individual una decisió que hàgeu qüestionat o concretat.
 
 ## Comprovació
 

@@ -22,7 +22,7 @@ Per cada risc rellevant indiqueu probabilitat, impacte, senyal d'alerta, prevenc
 
 ## Evidència de sessió
 
-Completeu les seccions 5–9 del pla. Les estimacions han d'estar vinculades a tasques; els recursos i costos, a una necessitat; i els riscos, a una acció concreta.
+Completeu les seccions 5–6 i 8–9 del pla. Prepareu també els esborranys de les seccions 12–15, de `pla-proves.md` i de `pla-desplegament.md` amb el [recurs de control](bloc4-sessio4.md). Les estimacions han d'estar vinculades a tasques; els recursos i costos, a una necessitat; i els riscos, a una acció concreta. El cronograma i les assignacions definitives es completaran en la sessió 3 quan estiguen acordades les dependències i la capacitat.
 
 ## Comprovació
 

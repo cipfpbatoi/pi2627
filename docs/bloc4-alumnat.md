@@ -19,7 +19,7 @@ Preparareu el [Pla del projecte](bloc4-pla-projecte.md), amb:
 - plans de proves, qualitat i desplegament;
 - tasques, estimacions i proves per a les [condicions tècniques comunes](condicions-tecniques.md);
 - procediments per a incidències, canvis, seguiment i participació de persones usuàries;
-- matriu de traçabilitat, evidències individuals i acta de traspàs.
+- matriu de traçabilitat, evidències individuals i acta de traspàs;
 - una prova del pla de desplegament amb una pàgina estàtica mínima, el registre de dos publicacions i els ajustos justificats al pla.
 
 En el repositori definitiu, els tres fitxers que completeu són `docs/03-planificacio/pla-projecte.md`, `pla-proves.md` i `pla-desplegament.md`. La versió acceptada es marcarà com `pla-v1.0`.

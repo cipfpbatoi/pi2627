@@ -24,7 +24,7 @@ Acordeu una definició comuna de tasca finalitzada: implementació o documentaci
 
 ## Evidència de sessió
 
-Completeu les seccions 10–11 del pla i deixeu el conjunt inicial d'issues, fites i tauler preparat. Cada membre revisarà almenys una issue creada per l'altra persona.
+Reviseu la secció 6 i completeu les seccions 7 i 10–17 del pla. Finalitzeu `pla-proves.md` i `pla-desplegament.md`, deixeu el conjunt inicial d'issues, fites i tauler preparat i executeu la [prova de desplegament i el traspàs](bloc4-sessio5.md). Cada membre revisarà almenys una issue creada per l'altra persona i registrarà la seua aportació a la prova.
 
 ## Comprovació
 

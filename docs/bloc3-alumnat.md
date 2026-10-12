@@ -36,7 +36,7 @@ Les guies d'[arquitectura](bloc3-sessio4.md) i [viabilitat](bloc3-sessio5.md) s�
 
 ## Criteris de treball
 
-Tots els equips han de justificar la coherència entre necessitat, objectius, requisits, disseny, proves i decisions. Concreteu com les [condicions tècniques comunes](condicions-tecniques.md) resolen una part del repte i poden executar-se en el temps disponible. Podeu triar el tipus de base de dades, el framework i l'arquitectura de client; no són obligatoris els rols ni una aplicació d'una sola pàgina.
+Tots els equips han de justificar la coherència entre necessitat, objectius, requisits, disseny, proves i decisions. Concreteu com els [mínims dels mòduls](condicions-tecniques.md) resolen una part del repte i poden executar-se en el temps disponible. Podeu triar el tipus de base de dades, el framework i l'arquitectura de client; qualsevol rol addicional o aplicació d'una sola pàgina ha de respondre a una necessitat o a un mínim confirmat.
 
 Qualsevol afirmació important s'ha d'acompanyar d'una font, una evidència o la marca **hipòtesi pendent**. Registreu l'autoria, les revisions i l'ús d'IA durant el procés.
 

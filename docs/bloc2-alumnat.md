@@ -15,7 +15,7 @@ Preparareu un [Dossier 1](bloc2-dossier1.md) que permeta a l'equip educatiu deci
 - respon a una necessitat identificable;
 - està relacionat amb les competències de DAW;
 - té persones usuàries o casos representatius amb què es pot validar;
-- permet integrar els mínims tècnics comuns de client, servidor, dades i desplegament;
+- permet integrar els mínims confirmats dels mòduls amb un recorregut coherent;
 - pot produir un prototip demostrable en el temps disponible;
 - oferix prou treball compartit i evidències individuals;
 - identifica incerteses, riscos i qüestions pendents sense ocultar-los.
@@ -43,7 +43,7 @@ Que una proposta necessite canvis no és un fracàs. Detectar prompte un abast i
 
 ## Requisits comuns i decisions de cada equip
 
-Tots els equips haureu d'investigar, comparar alternatives, delimitar un prototip i planificar com validar-lo. El domini, el framework i les funcionalitats concretes es trien segons la necessitat, dins de les [condicions tècniques comunes](condicions-tecniques.md).
+Tots els equips haureu d'investigar, comparar alternatives, delimitar un prototip i planificar com validar-lo. El domini, l'*stack* i les funcionalitats concretes es trien i justifiquen segons la necessitat, dins dels [mínims confirmats dels mòduls](condicions-tecniques.md).
 
 Ja en el Dossier 1 heu de mostrar un recorregut plausible que puga complir estes condicions en el temps disponible. No cal implementar-lo ni triar la tecnologia definitiva en este bloc. Els rols i el tractament de dades personals només s'incorporaran si són necessaris; els comptes de prova usaran dades fictícies.
 

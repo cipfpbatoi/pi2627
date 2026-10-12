@@ -19,7 +19,7 @@ Les còpies completades es guarden a `docs/04-seguiment/iteracio-5-1.md` fins a 
 
 ## Com decidir l'abast
 
-Preserveu primer el recorregut que permet comprovar la necessitat principal i les [condicions tècniques comunes](condicions-tecniques.md). Prioritzeu segons valor, dependències, capacitat i risc. Si el pla rebut no permet completar algun mínim, registreu-ne la causa i acordeu l'ajust amb el professorat abans d'eliminar-lo. No afegiu funcionalitats sense revisar el cost, les proves i l'efecte en el desplegament.
+Preserveu primer el recorregut que permet comprovar la necessitat principal i els [mínims confirmats dels mòduls](condicions-tecniques.md). Prioritzeu segons valor, dependències, capacitat i risc. Si el pla rebut no permet completar algun mínim, registreu-ne la causa i acordeu l'ajust amb el professorat abans d'eliminar-lo. No afegiu funcionalitats sense revisar el cost, les proves i l'efecte en el desplegament.
 
 Per a cada requisit treballat, conserveu la cadena **necessitat → requisit → issue → persona responsable → canvi → prova → resultat → decisió**. Un resultat negatiu també és evidència si orienta una decisió registrada.
 

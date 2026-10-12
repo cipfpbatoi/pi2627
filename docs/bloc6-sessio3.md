@@ -8,7 +8,7 @@ Tanqueu la [memòria](bloc6-memoria.md) i seleccioneu una demostració que funci
 
 Reviseu que els enllaços, la versió, les fonts, les llicències i la declaració d'IA siguen accessibles i exactes. En la defensa compartida exposeu la necessitat, els relleus, el pla, el prototip i la validació. En la part individual mostreu aportacions pròpies i expliqueu una decisió, una prova i un canvi de criteri.
 
-Entregueu T11 amb la memòria i les versions exactes, i T12 en el canal individual d'Aules. Després de la retroacció, registreu les correccions acordades sense reescriure la versió defensada.
+Marqueu el commit de la memòria presentada amb `tancament-v1.0`. Entregueu T11 amb esta versió i els enllaços exactes, i T12 en el canal individual d'Aules. Després de la retroacció, registreu les correccions acordades sense moure l'etiqueta ni reescriure la versió defensada; si cal, publiqueu `tancament-v1.1`.
 
 **Evidència:** memòria final immutable, demostració, portafolis i registre de defensa.
 

@@ -139,7 +139,10 @@ dossier-0-v1.0
 dossier-1-v1.0
 dossier-2-v1.0
 pla-v1.0
-iteracio-1-v0.1
+iteracio-5-1-v1.0
+iteracio-5-2-v1.0
+iteracio-5-3-v1.0
+iteracio-5-4-v1.0
 prototip-v1.0
 tancament-v1.0
 ```

@@ -13,7 +13,7 @@ Durant **57 hores, en 19 sessions**, assumireu la custòdia del pla d'un tercer 
 | [5.3. Increment de valor](bloc5-iteracio3.md) | 8–14 | 21 | Requisits prioritaris incorporats o descartats amb motiu |
 | [5.4. Validació i desplegament](bloc5-iteracio4.md) | 15–19 | 15 | Prototip provat, demostrable i amb limitacions conegudes |
 
-Al final de cada iteració entregueu una versió o commit immutable i un [informe breu](bloc5-informe-iteracio.md). Identifiqueu tasques previstes i acabades, hores estimades i reals, proves, incidències, canvis, riscos i decisió per a la iteració següent. El tauler, el pla, el registre de decisions i les evidències individuals han de reflectir l'estat real.
+Al final de cada iteració entregueu una versió immutable i un [informe breu](bloc5-informe-iteracio.md). Useu les etiquetes `iteracio-5-1-v1.0` fins a `iteracio-5-4-v1.0`. Identifiqueu tasques previstes i acabades, hores estimades i reals, proves, incidències, canvis, riscos i decisió per a la iteració següent. El tauler, el pla, el registre de decisions i les evidències individuals han de reflectir l'estat real.
 
 Les còpies completades es guarden a `docs/04-seguiment/iteracio-5-1.md` fins a `iteracio-5-4.md`; no entregueu com a evidència la plantilla buida. El punt de control final comprovarà estes quatre iteracions, el prototip, els traspassos i les evidències individuals a `prototip-v1.0`.
 
@@ -25,7 +25,7 @@ Per a cada requisit treballat, conserveu la cadena **necessitat → requisit →
 
 ## Tancament del bloc
 
-Prepareu `prototip-v1.0` amb codi, instruccions per executar-lo, migracions i seeders, dades de prova sense informació sensible, API documentada, proves i resultats, informe de validació, desplegament o demostració reproduïble, limitacions i treball pendent. Completeu `docs/04-seguiment/`, actualitzeu el pla i traslladeu els resultats a `docs/05-tancament/` per al bloc 6. En Aules entregueu l'URL i la versió exacta segons les indicacions docents.
+Prepareu `prototip-v1.0` amb codi, instruccions per executar-lo, migracions i seeders, dades de prova sense informació sensible, API documentada, proves i resultats, desplegament o demostració reproduïble, limitacions i treball pendent. `docs/04-seguiment/iteracio-5-4.md` serà l'informe final de proves i validació de T10; enllaceu-hi qualsevol informe auxiliar sense duplicar-lo. Actualitzeu el pla i traslladeu els resultats a `docs/05-tancament/` per al bloc 6. En Aules entregueu l'URL i la versió exacta segons les indicacions docents.
 
 Declareu l'ús d'IA amb la finalitat, l'ajuda rebuda i la verificació humana. Cada membre ha de poder explicar i modificar les parts en què ha intervingut. En cada punt de control podeu rebre un cas límit o un canvi acotat per comprovar-ne l'efecte en el codi, les proves i el pla.
 

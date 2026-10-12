@@ -6,7 +6,7 @@ Contrastar el resultat amb la necessitat inicial, els criteris d'acceptació i l
 
 La parella autora revisa el prototip del seu projecte amb un guió de tasques o criteris observables. Registreu qui participa, versió, condicions, resultats, limitacions i propostes. L'equip desenvolupador respon amb evidències i decidix, amb el professorat quan corresponga, si una observació és defecte, canvi o treball futur. Respecteu privacitat i permisos.
 
-Completeu l'informe de proves i la comparació previst/real: abast, temps, recursos, costos i riscos quan siguen aplicables. Distingiu allò validat d'allò simplement implementat.
+Completeu l'informe de proves i la comparació previst/real: abast, temps, recursos, costos i riscos quan siguen aplicables. En l'apartat 5 de la memòria registreu participant, versió, condicions, guió o criteri, resultat, evidència i decisió. Distingiu explícitament allò implementat, provat i validat.
 
 **Evidència:** registre de validació circular i conclusions en la [memòria](bloc6-memoria.md).
 

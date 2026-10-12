@@ -10,7 +10,7 @@ Comprovar el prototip complet, corregir els defectes prioritaris i preparar una 
 2. Contrasteu els indicadors i criteris d'acceptació amb els resultats. Registreu defectes oberts i les limitacions que afecten l'ús.
 3. Proveu la instal·lació o el desplegament seguint només les instruccions escrites. Verifiqueu arrencada, configuració, migracions, seeders, dades de prova i recuperació quan pertoque. Comproveu la documentació i el consum de l'API i les proves de la integració externa amb dades controlades.
 4. Reviseu amb les persones usuàries o clientes previstes, o justifiqueu una validació alternativa. Distingiu observacions de decisions d'abast.
-5. Tanqueu T09 amb l'[informe d'iteració](bloc5-informe-iteracio.md) i prepareu T10: etiqueta `prototip-v1.0`, informe final de proves, instruccions, limitacions i treball pendent.
+5. Tanqueu T09 amb l'[informe d'iteració](bloc5-informe-iteracio.md). Completeu `docs/04-seguiment/iteracio-5-4.md` com a informe final de proves i validació i prepareu T10: etiqueta `prototip-v1.0`, instruccions, limitacions i treball pendent.
 
 **Comprovació:** què funciona i s'ha provat, què falla o no s'ha provat, i en quina versió exacta?
 

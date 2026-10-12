@@ -54,6 +54,8 @@ Es produïx **al final del bloc 4**, durant la sessió 3. Abans del canvi de cus
 
 Després de l'acceptació, la nova parella assumix la custòdia per desenvolupar i validar el prototip en el bloc 5. La parella planificadora conserva l'autoria del pla i respon aclariments, però no executa el prototip.
 
+Els dos fitxers ja estan preparats en el repositori del projecte, dins de `traspassos/`. L'equip emissor inicia l'acta i l'equip receptor completa la revisió i la decisió. `traspassos/plantilla-acta.md` queda disponible només per a repeticions o traspassos extraordinaris.
+
 ## Per què treballem així
 
 Els relleus permeten comprovar si la documentació és comprensible, si el pla es pot executar sense explicacions informals i si sabeu interpretar, qüestionar i millorar treball alié. També fan visibles les aportacions i les decisions de cada fase.

@@ -49,7 +49,7 @@ La decisió docent serà **apta per planificar**, **apta amb ajustos** o **revis
 
 ## Preparar el traspàs
 
-Tanqueu una versió identificable del Dossier 2 i completeu l'acta del [protocol de traspàs](forma-treball.md). Separeu les decisions confirmades, les hipòtesis i riscos pendents, els materials accessibles i les preguntes obertes.
+Tanqueu una versió identificable del Dossier 2 i completeu `traspassos/01-avantprojecte-a-planificacio.md` seguint el [protocol de traspàs](forma-treball.md). Separeu les decisions confirmades, les hipòtesis i riscos pendents, els materials accessibles i les preguntes obertes.
 
 La nova parella podrà acceptar, acceptar amb reserves o retornar temporalment el dossier si falta un element imprescindible. Després de l'acceptació, passarà a ser-ne custòdia per a la planificació; vosaltres en conserveu l'autoria.
 

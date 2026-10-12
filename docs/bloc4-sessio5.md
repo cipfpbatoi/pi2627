@@ -14,7 +14,7 @@ Partiu dels passos, recursos, costos i riscos previstos en el pla de desplegamen
 
 Executeu el procediment previst i publiqueu la primera versió. Canvieu el número de versió, torneu a publicar i comproveu el resultat en la URL. Registreu el temps real, les incidències i les diferències respecte del pla. Actualitzeu `pla-desplegament.md` amb els passos corregits, els costos o límits detectats i la resposta prevista davant d'una fallada.
 
-Registreu les dos publicacions, els temps, les incidències, les diferències i els ajustos en `pla-desplegament.md`. Completeu l'acta de traspàs i les evidències individuals. Creeu `pla-v1.0` amb el pla revisat només quan el professorat accepte el punt de control. L'equip prototipador decidirà més avant si este entorn li servix per al prototip; la prova no obliga a mantindre la mateixa tecnologia ni el mateix allotjament.
+Registreu les dos publicacions, els temps, les incidències, les diferències i els ajustos en `pla-desplegament.md`. Completeu `traspassos/02-pla-a-prototip.md` i les evidències individuals. Creeu `pla-v1.0` amb el pla revisat només quan el professorat accepte el punt de control. L'equip prototipador decidirà més avant si este entorn li servix per al prototip; la prova no obliga a mantindre la mateixa tecnologia ni el mateix allotjament.
 
 ## Evidència i comprovació
 

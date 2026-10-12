@@ -111,7 +111,7 @@ Enllaceu `pla-proves.md`.
 
 ## 13. Pla de desplegament
 
-Enllaceu `pla-desplegament.md` i resumiu entorn, configuració, dades, verificació, recuperació, dependències i costos.
+Enllaceu `pla-desplegament.md` i resumiu els requeriments base, la solució d'infraestructura en el núvol, els entorns, la configuració i els secrets, les dades, el procés d'integració i desplegament continus, la verificació, la recuperació, les dependències i els costos.
 
 ## 14. Seguiment i incidències
 

@@ -10,7 +10,7 @@ Definir com es validarà l'execució i com es prendran decisions davant d'incid�
 
 ## 1. Plans de proves, qualitat i desplegament
 
-Relacioneu cada requisit prioritari amb una prova, una evidència i un moment. Incloeu els controls funcionals, d'usabilitat, accessibilitat, seguretat o rendiment que siguen aplicables. El pla de desplegament ha de preveure entorn, configuració, dades, verificació, còpia o recuperació i dependències externes.
+Relacioneu cada requisit prioritari amb una prova, una evidència i un moment. Incloeu els controls funcionals, d'usabilitat, accessibilitat, seguretat o rendiment que siguen aplicables. El pla de desplegament ha de partir dels requeriments base i preveure la infraestructura en el núvol, els entorns, la configuració i els secrets, les dades, la integració i el desplegament continus, la verificació, la còpia o recuperació i les dependències externes.
 
 ## 2. Seguiment i incidències
 

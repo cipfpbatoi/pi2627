@@ -10,7 +10,7 @@ Comprovar amb una publicació mínima si el procediment previst en `pla-desplega
 
 ## Activitat
 
-Partiu dels passos, recursos, costos i riscos previstos en el pla de desplegament. Prepareu una pàgina estàtica mínima amb l'identificador del projecte, una descripció pública breu i el número de versió. El disseny visual de la pàgina no és l'objecte d'esta prova. No publiqueu dades personals ni informació reservada.
+Partiu dels passos, recursos, costos i riscos previstos en el pla de desplegament. Prepareu una pàgina estàtica mínima amb l'identificador del projecte, una descripció pública breu i el número de versió. Executeu la prova en la infraestructura en el núvol prevista i, si el procés d'integració i desplegament continus ja està definit, feu-la mitjançant el pipeline; si encara no ho està, registreu-ne el motiu, el risc i la tasca necessària per automatitzar-lo abans del prototip final. El disseny visual de la pàgina no és l'objecte d'esta prova. No publiqueu dades personals ni informació reservada.
 
 Executeu el procediment previst i publiqueu la primera versió. Canvieu el número de versió, torneu a publicar i comproveu el resultat en la URL. Registreu el temps real, les incidències i les diferències respecte del pla. Actualitzeu `pla-desplegament.md` amb els passos corregits, els costos o límits detectats i la resposta prevista davant d'una fallada.
 

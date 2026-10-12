@@ -18,6 +18,13 @@ Estos mínims no incorporen percentatges ni determinen la qualificació del Proj
 
 1. **Autenticació contra l'API desenvolupada.** El client permetrà iniciar sessió mitjançant l'API pròpia, gestionarà l'estat autenticat segons el mecanisme justificat i consumirà almenys una operació protegida. Es comprovaran l'accés correcte, les credencials incorrectes, l'accés no autoritzat i el tancament de sessió. No s'imposa JWT, sessions o una llibreria concreta.
 
+## Desplegament d'Aplicacions Web
+
+1. **Solució d'infraestructura justificada.** A partir dels requeriments base i del problema del projecte, l'equip proposarà una solució que explique quins components necessita, com es relacionen i per què són adequats per a l'aplicació, les dades, la seguretat, la disponibilitat, els costos i la continuïtat.
+2. **Infraestructura en el núvol.** El prototip es desplegarà en una infraestructura en el núvol. Se'n documentaran els servicis, els entorns, la configuració, els accessos, els secrets, les dependències, els límits i els costos aplicables, sense publicar credencials.
+3. **Integració i desplegament continus.** El repositori inclourà un procés automatitzat que, davant d'un canvi versionat, execute les comprovacions acordades i desplegue l'aplicació en l'entorn previst. Se'n conservaran la configuració, els disparadors, les etapes, els artefactes, les comprovacions, el resultat i la resposta davant d'una fallada.
+4. **Documentació de desplegament.** Una tercera persona podrà preparar l'entorn, desplegar, verificar, actualitzar i, quan pertoque, recuperar o revertir l'aplicació seguint les instruccions. Les proves identificaran versió, entorn o URL, resultat, temps, incidències i ajustos.
+
 ## Disseny d'Interfícies Web
 
 1. **Guia d'estil.** Documentarà la paleta de colors amb contrast adequat, les tipografies i els estils dels botons i components.
@@ -59,6 +66,6 @@ Cada membre haurà de poder explicar i modificar les parts en què ha intervingu
 
 ## Relació amb l'avaluació dels mòduls
 
-Les mateixes peces del prototip poden aportar evidència a diferents mòduls, però cada professor o professora les avalua amb els RA, CA i instruments del seu mòdul. Esta pàgina no assigna percentatges ni substituïx les activitats avaluables o la programació didàctica de Servidor, Client o Disseny d'Interfícies.
+Les mateixes peces del prototip poden aportar evidència a diferents mòduls, però cada professor o professora les avalua amb els RA, CA i instruments del seu mòdul. Esta pàgina no assigna percentatges ni substituïx les activitats avaluables o la programació didàctica de Servidor, Client, Desplegament o Disseny d'Interfícies.
 
 En Projecte Intermodular, estes peces permeten observar el disseny, la planificació, el seguiment, el control i la validació. Complir un mínim tècnic no acredita automàticament cap RA o CA del Projecte Intermodular ni del mòdul que l'ha proposat.

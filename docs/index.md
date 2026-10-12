@@ -4,6 +4,8 @@ En este mòdul dissenyareu, planificareu i validareu en equip solucions web per 
 
 Treballareu amb [projectes en relleu](forma-treball.md): elaborareu la proposta i l'avantprojecte propis, planificareu el projecte d'una altra parella i prototipareu un tercer projecte a partir de la planificació rebuda.
 
+Els canvis de projecte es produïxen en dos moments: el **primer traspàs**, al final del bloc 3, entrega l'avantprojecte a la parella planificadora; el **segon traspàs**, al final del bloc 4, entrega el pla a la parella prototipadora. Consulteu [quan i com es fan els traspassos](forma-treball.md#quan-es-produixen-els-traspassos).
+
 El projecte, les tasques i les evidències es conservaran en [un repositori de GitHub](github-treball.md) creat a partir de la plantilla del curs.
 
 La implementació servirà per construir un prototip funcional i comprovar les decisions importants. No es valorarà només la quantitat de codi: haureu de justificar l'abast, els recursos, els riscos, les proves, els canvis i l'aportació de cada membre.

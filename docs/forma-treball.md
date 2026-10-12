@@ -18,6 +18,42 @@ Treballareu normalment en **parelles estables**, proposades per l'equip educatiu
 
 L'equip educatiu comunicarà cada assignació en el moment del traspàs. Sempre que el nombre de projectes ho permeta, no planificareu ni prototipareu la proposta pròpia, i el projecte prototipat serà diferent del que haureu planificat.
 
+## Quan es produïxen els traspassos
+
+```text
+Blocs 2–3: proposta i avantprojecte propis
+        ↓ primer traspàs, al final del bloc 3
+Bloc 4: planificació d'un altre projecte
+        ↓ segon traspàs, al final del bloc 4
+Bloc 5: prototip d'un tercer projecte
+```
+
+### Primer traspàs: avantprojecte → planificació
+
+Es produïx **al final del bloc 3**, després de la sessió 3. Abans del canvi de custòdia:
+
+- el Dossier 2 ha d'estar revisat;
+- la decisió docent ha de ser «apta per planificar» o «apta amb ajustos»;
+- s'ha d'identificar la versió immutable `dossier-2-v1.0`;
+- s'ha de completar l'acta `traspassos/01-avantprojecte-a-planificacio.md`;
+- la parella receptora ha de registrar les consultes, reserves i l'acceptació o retorn.
+
+Després de l'acceptació, la parella receptora assumix la custòdia per elaborar el pla del projecte en el bloc 4. La parella autora conserva l'autoria i respon aclariments, però no fa la planificació.
+
+### Segon traspàs: planificació → prototip
+
+Es produïx **al final del bloc 4**, durant la sessió 3. Abans del canvi de custòdia:
+
+- el pla, `pla-proves.md` i `pla-desplegament.md` han d'estar revisats;
+- s'ha d'haver executat i registrat la prova de desplegament;
+- les issues, les fites i el tauler han de permetre començar l'execució;
+- la decisió docent ha de ser «apte per executar» o «apte amb ajustos»;
+- s'ha d'identificar la versió immutable `pla-v1.0`;
+- s'ha de completar l'acta `traspassos/02-pla-a-prototip.md`;
+- la parella receptora ha de registrar les consultes, reserves i l'acceptació o retorn.
+
+Després de l'acceptació, la nova parella assumix la custòdia per desenvolupar i validar el prototip en el bloc 5. La parella planificadora conserva l'autoria del pla i respon aclariments, però no executa el prototip.
+
 ## Per què treballem així
 
 Els relleus permeten comprovar si la documentació és comprensible, si el pla es pot executar sense explicacions informals i si sabeu interpretar, qüestionar i millorar treball alié. També fan visibles les aportacions i les decisions de cada fase.

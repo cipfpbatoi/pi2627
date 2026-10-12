@@ -4,6 +4,21 @@
 
 Explorareu diferents contextos, formulareu problemes sense anticipar la solució i decidireu quines necessitats mereixen una investigació breu.
 
+## Què heu d'emplenar hui
+
+Treballareu en `docs/01-proposta/dossier-1.md`. En acabar la sessió han de quedar actualitzats estos apartats:
+
+- **1. Identificació i control de versions:** nom provisional, membres, data, espai de treball i versió `0.1`.
+- **2. Origen de les propostes:** banc inicial de situacions i selecció de dues a quatre necessitats candidates, incloent-hi els motius per investigar-les o descartar-les.
+- **3. Necessitats investigades:** una fitxa per candidata amb context, persones afectades, causes, conseqüències, relació amb DAW, evidències i limitacions.
+- **4. Parts interessades i validació:** persones o col·lectius afectats, interessos, accés possible i manera de participar en la validació.
+- **5. Fonts i mètodes:** preguntes, fonts o mètodes, resultats, fiabilitat o limitacions i decisions afectades.
+- **10. Organització i autoria:** tasques, responsables, col·laboracions i evidències de la sessió.
+- **13. Fonts i ús d'IA:** fonts i ferramentes emprades, finalitat i verificació humana. Si no heu utilitzat IA, indiqueu-ho expressament.
+- **14. Evidència individual, sessió 1:** cada membre crearà `evidencies/alumnat/nom-cognoms.md`, l'enllaçarà en la taula i indicarà quina candidata considera més prometedora, quina evidència sosté la seua opinió i què podria fer-li canviar d'idea.
+
+No completeu encara els apartats 6–9 ni 11–15, excepte els registres 13 i 14 indicats. Les alternatives, la comparació, la proposta seleccionada i la viabilitat es treballaran en la sessió 2; la revisió creuada i la decisió final arribaran després.
+
 ## Organització
 
 | Activitat | Temps | Treball |

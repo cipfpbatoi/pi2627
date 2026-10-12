@@ -4,6 +4,10 @@
 
 Comprendre l'avantprojecte rebut, acordar la línia base i transformar l'abast en lliurables i unitats de treball verificables.
 
+## Què heu d'emplenar hui
+
+En `docs/03-planificacio/pla-projecte.md`, completeu els apartats **1–4** i inicieu en el **16** la traçabilitat i l'evidència individual. Creeu o reviseu les issues d'auditoria. No completeu encara les estimacions, el cronograma ni els procediments de control definitius.
+
 ## 1. Auditoria sense ajuda de l'equip autor
 
 Reviseu primer el Dossier 2, les evidències i l'acta de traspàs. Anoteu:

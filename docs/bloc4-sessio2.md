@@ -4,6 +4,10 @@
 
 Convertir la descomposició en una seqüència viable, assignant recursos, temps i costos sense ocultar la incertesa.
 
+## Què heu d'emplenar hui
+
+En `docs/03-planificacio/pla-projecte.md`, completeu els apartats **5–6 i 8–9**, actualitzeu el **16** i prepareu els esborranys dels **12–15**, de `pla-proves.md` i de `pla-desplegament.md`. Useu la guia «Preparar el control» dins d'esta sessió. No tanqueu encara el cronograma, les issues, el traspàs ni `pla-v1.0`.
+
 ## 1. Dependències i prioritats
 
 Per cada paquet o tasca identifiqueu predecessores, bloquejos externs i elements que es poden executar en paral·lel. Prioritzeu per valor, risc i aprenentatge, no només per comoditat tècnica. El recorregut mínim ha d'aparéixer prompte i les proves de risc han d'arribar abans que una dependència siga irreversible.

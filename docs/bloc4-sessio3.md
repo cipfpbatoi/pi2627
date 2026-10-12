@@ -4,6 +4,10 @@
 
 Preparar un sistema de treball que permeta a una altra parella executar el pla i mostrar el progrés real.
 
+## Què heu d'emplenar hui
+
+Reviseu l'apartat **6** i els esborranys, completeu els apartats **7 i 10–17**, i finalitzeu `pla-proves.md` i `pla-desplegament.md`. Deixeu preparades les issues, fites i tauler; executeu la prova de desplegament, completeu `traspassos/02-pla-a-prototip.md` i creeu `pla-v1.0` només després de l'acceptació docent.
+
 ## 1. Cronograma, fites i iteracions
 
 Ordeneu les tasques segons dependències i capacitat. Definiu fites com a resultats verificables, no com a dates sense producte. Cada iteració ha d'acabar amb un increment o una prova observable i reservar temps per integrar, documentar i corregir.

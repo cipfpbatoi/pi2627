@@ -4,6 +4,10 @@
 
 Representareu com funciona la solució, quines regles sosté i quina informació necessita, amb el nivell de detall necessari per detectar incoherències abans de planificar-la.
 
+## Què heu d'emplenar hui
+
+En `docs/02-avantprojecte/dossier-2.md`, completeu els apartats **6–7 i 9–10**, reviseu els requisits del **5** i amplieu la traçabilitat i l'autoria dels apartats **12–13**. Useu durant esta mateixa sessió la guia d'arquitectura i alternatives; no és una sessió addicional. No tanqueu encara els apartats 8, 11 ni 14–15.
+
 ## Organització
 
 | Activitat | Temps |

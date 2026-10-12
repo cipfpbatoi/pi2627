@@ -4,6 +4,10 @@
 
 Creareu un prototip de baixa fidelitat i el contrastareu per detectar problemes de comprensió, navegació i accessibilitat abans de desenvolupar.
 
+## Què heu d'emplenar hui
+
+En `docs/02-avantprojecte/dossier-2.md`, completeu l'apartat **8** i, amb la guia de viabilitat integrada en esta sessió, l'**11**. Completeu els apartats **12–15** i reviseu qualsevol apartat anterior afectat per la prova o les decisions. La versió `dossier-2-v1.0` només es crea després de la revisió, la decisió docent i el traspàs.
+
 ## Organització
 
 | Activitat | Temps |

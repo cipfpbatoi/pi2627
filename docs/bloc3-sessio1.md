@@ -4,6 +4,10 @@
 
 Transformareu la proposta acceptada en objectius comprovables i requisits prioritzats, sense confondre una necessitat amb una funcionalitat.
 
+## Què heu d'emplenar hui
+
+En `docs/02-avantprojecte/dossier-2.md`, completeu els apartats **1–5**, inicieu en el **12** almenys una cadena de traçabilitat i registreu en el **13** l'autoria, les fonts i l'ús d'IA de la sessió. No completeu encara els apartats 6–11 ni 14–15.
+
 ## Organització
 
 | Activitat | Temps | Treball |

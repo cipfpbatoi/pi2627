@@ -112,7 +112,7 @@ Enllaceu el prototip de baixa fidelitat i documenteu jerarquia, navegació, esta
 
 ## 9. Arquitectura i integracions
 
-Adjunteu un diagrama de context o components. Expliqueu l'*stack*, el client, l'autenticació, l'API, el manteniment administratiu, les dades, la integració híbrida, la interfície, la infraestructura en el núvol i la integració i el desplegament continus. Justifiqueu com cada peça complix els [mínims dels mòduls](condicions-tecniques.md) i aporta valor al recorregut.
+Adjunteu un diagrama de context o components. Expliqueu l'*stack*, el client, l'autenticació, l'API, el manteniment administratiu, les dades, la integració híbrida, la interfície, la infraestructura en el núvol i la integració i el desplegament continus. Per al client, compareu frameworks i JavaScript Vanilla segons la necessitat, els requisits, els riscos, les capacitats de l'equip, el temps i el desplegament; descriviu com la SPA sosté el recorregut principal i consumix l'API pròpia. Concreteu també el mecanisme d'autenticació i l'operació protegida que usarà la SPA. Justifiqueu com cada peça complix els [mínims dels mòduls](condicions-tecniques.md) i aporta valor al recorregut.
 
 | Component/integració | Necessitat coberta | Responsabilitat | Dependència | Fallada o risc |
 | --- | --- | --- | --- | --- |

@@ -16,7 +16,9 @@ Estos mínims no incorporen percentatges ni determinen la qualificació del Proj
 
 ## Desenvolupament Web en Entorn Client
 
-1. **Autenticació contra l'API desenvolupada.** El client permetrà iniciar sessió mitjançant l'API pròpia, gestionarà l'estat autenticat segons el mecanisme justificat i consumirà almenys una operació protegida. Es comprovaran l'accés correcte, les credencials incorrectes, l'accés no autoritzat i el tancament de sessió. No s'imposa JWT, sessions o una llibreria concreta.
+1. **Selecció justificada del framework.** L'equip compararà alternatives per al client i justificarà la selecció segons la necessitat, els requisits, els riscos, les capacitats de l'equip, el temps i el desplegament. La comparació inclourà l'opció de desenvolupar amb JavaScript Vanilla. No n'hi ha prou amb indicar una preferència o una tecnologia coneguda.
+2. **Creació d'una SPA.** Es crearà una aplicació d'una sola pàgina (SPA) relacionada amb el recorregut principal del projecte, que consumirà dades de l'API pròpia.
+3. **Autenticació contra l'API desenvolupada.** El client permetrà iniciar sessió mitjançant l'API pròpia, gestionarà l'estat autenticat segons el mecanisme justificat i consumirà almenys una operació protegida necessària per al recorregut de la SPA. Es comprovaran l'accés correcte, les credencials incorrectes, l'accés no autoritzat i el tancament de sessió. No s'imposa JWT, sessions o una llibreria concreta.
 
 ## Desplegament d'Aplicacions Web
 

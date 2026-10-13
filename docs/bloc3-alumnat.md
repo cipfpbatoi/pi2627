@@ -36,7 +36,7 @@ Les guies d'[arquitectura](bloc3-sessio4.md) i [viabilitat](bloc3-sessio5.md) s�
 
 ## Criteris de treball
 
-Tots els equips han de justificar la coherència entre necessitat, objectius, requisits, disseny, proves i decisions. Concreteu com els [mínims dels mòduls](condicions-tecniques.md) resolen una part del repte i poden executar-se en el temps disponible. Podeu triar el tipus de base de dades, el framework i l'arquitectura de client; qualsevol rol addicional o aplicació d'una sola pàgina ha de respondre a una necessitat o a un mínim confirmat.
+Tots els equips han de justificar la coherència entre necessitat, objectius, requisits, disseny, proves i decisions. Concreteu com els [mínims dels mòduls](condicions-tecniques.md) resolen una part del repte i poden executar-se en el temps disponible. Podeu triar el tipus de base de dades i el framework de client, però heu de comparar i justificar les alternatives, inclòs JavaScript Vanilla. La SPA és un mínim: ha d'estar relacionada amb el recorregut principal i consumir l'API pròpia. L'autenticació i l'operació protegida també han de formar part del recorregut i de les proves previstes.
 
 Qualsevol afirmació important s'ha d'acompanyar d'una font, una evidència o la marca **hipòtesi pendent**. Registreu l'autoria, les revisions i l'ús d'IA durant el procés.
 

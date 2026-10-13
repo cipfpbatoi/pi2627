@@ -8,7 +8,7 @@ Completar el flux principal de principi a fi i demostrar-lo amb una prova repres
 
 1. Trieu les issues imprescindibles, identifiqueu dependències i repartiu implementació i revisió. Fixeu un criteri de fet observable.
 2. Construïu el recorregut amb les capes necessàries. Documenteu les decisions de dades, interfície, servidor i integracions que realment hi intervenen.
-3. Executeu proves del camí correcte i d'almenys una fallada rellevant. Incloeu les comprovacions que pertoquen dels [mínims dels mòduls](condicions-tecniques.md), com dades persistents, autenticació, API, manteniment administratiu, integració híbrida, adaptabilitat, vídeo i accessibilitat. Registreu resultat, versió i incidències; reviseu seguretat i protecció de dades quan pertoque.
+3. Executeu proves del camí correcte i d'almenys una fallada rellevant. Incloeu les comprovacions que pertoquen dels [mínims dels mòduls](condicions-tecniques.md), com dades persistents, autenticació, API, manteniment administratiu, integració híbrida, adaptabilitat, vídeo i accessibilitat. Per al recorregut de la SPA, proveu també l'inici de sessió correcte, les credencials incorrectes, l'accés no autoritzat a l'operació protegida i el tancament de sessió. Registreu resultat, versió i incidències; reviseu seguretat i protecció de dades quan pertoque.
 4. Compareu hores, tasques i qualitat amb la línia base. Ajusteu la pròxima iteració amb motiu i responsable.
 
 **Evidència:** versió T07, flux demostrable, proves enllaçades a requisits, issues i [informe d'iteració](bloc5-informe-iteracio.md).

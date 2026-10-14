@@ -55,4 +55,4 @@ La nova parella podrà acceptar, acceptar amb reserves o retornar temporalment e
 
 ## Evidència individual i curricular
 
-Cada membre explicarà una cadena completa i una decisió en què haja participat. El Dossier 2 aporta evidències de RA2.a–i amb abast desigual: consulteu en la plantilla quines són parcials o suficients per al bloc. No implica l'assoliment automàtic de cap criteri per totes les persones de l'equip.
+Cada membre explicarà una cadena completa i una decisió en què haja participat. El Dossier 2 aporta evidències de RA2.a–f i RA2.h–i amb abast desigual; RA2.g no es demana explícitament. Consulteu la [rúbrica](bloc3-rubriques.md) per distingir evidència directa, parcial i requisits sense correspondència curricular. Cap criteri queda assolit automàticament per totes les persones de l'equip.

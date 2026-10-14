@@ -1,6 +1,6 @@
 # Plantilla del Dossier 2. Avantprojecte
 
-En el repositori definitiu, esta plantilla ja està disponible com a `docs/02-avantprojecte/dossier-2.md`. Partiu de la versió acceptada del Dossier 1, conserveu l'historial i enllaceu diagrames, prototips, proves i fonts; no dupliqueu evidències sense necessitat.
+En el repositori definitiu, esta plantilla ja està disponible com a `docs/02-avantprojecte/dossier-2.md`. Partiu de la versió acceptada del Dossier 1, conserveu l'historial i enllaceu diagrames, prototips, proves i fonts; no dupliqueu evidències sense necessitat. Consulteu la [rúbrica de l'avantprojecte](bloc3-rubriques.md) per conéixer els productes observables, els nivells i la relació curricular.
 
 ## Com completar l'avantprojecte per sessions
 
@@ -202,4 +202,4 @@ Cada membre adjuntarà la seua defensa d'una cadena de traçabilitat i d'una dec
 
 ## Abast curricular de l'evidència
 
-El dossier pot aportar evidència **suficient dins del bloc** de RA2.a, RA2.c, RA2.d, RA2.h i RA2.i si el contingut és coherent i verificable. Aporta evidència **parcial** de RA2.b, RA2.e, RA2.f i RA2.g, que s'ampliarà amb la planificació i l'execució. L'abast real s'ha de determinar per alumne o alumna a partir de les aportacions i la defensa.
+El dossier pot aportar evidència **suficient dins del bloc** de RA2.a, RA2.b, RA2.c, RA2.d, RA2.h i RA2.i si el contingut és coherent, verificable i contrastat individualment. Aporta evidència **parcial** de RA2.e i RA2.f, que s'ampliarà amb la planificació. RA2.g no es demana explícitament i la seua absència no es penalitza. Consulteu la [rúbrica](bloc3-rubriques.md) per aplicar estos límits.

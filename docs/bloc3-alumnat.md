@@ -24,6 +24,12 @@ Preparareu el [Dossier 2. Avantprojecte](bloc3-dossier2.md), que reunirà:
 
 En el repositori definitiu, completeu el mateix document a `docs/02-avantprojecte/dossier-2.md` i marqueu la versió revisada com `dossier-2-v1.0`.
 
+## Com s'avaluarà
+
+La programació establix `PR-Q.3.1.x`, **Anàlisi i disseny de la solució**, amb un pes del **15 %** del mòdul. Consulteu la [rúbrica de l'avantprojecte](bloc3-rubriques.md) abans de començar.
+
+La rúbrica valora només els apartats, proves i actuacions que es demanen en estos materials; després indica quins CA permet observar cada evidència i amb quin abast. Un contingut no demanat no es penalitzarà com a absent.
+
 ## Seqüència
 
 | Sessió | Pregunta principal | Evidència |

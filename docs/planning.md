@@ -150,6 +150,8 @@ L'avantprojecte reunirà, almenys:
 - alternatives considerades i decisions justificades;
 - anàlisi inicial de viabilitat i riscos.
 
+L'instrument previst és `PR-Q.3.1.x`, amb un pes del 15 % del mòdul. La [rúbrica del Bloc 3](bloc3-rubriques.md) partix de l'avantprojecte, les proves i el contrast individual demanats; després n'indica la relació amb RA2. RA2.e–f tenen un abast preliminar i RA2.g no es demana explícitament en l'activitat actual.
+
 ### Punt de control
 
 **La solució proposada és coherent amb la necessitat i es pot abordar amb els recursos disponibles?**

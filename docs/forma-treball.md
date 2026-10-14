@@ -104,6 +104,8 @@ S'avaluarà allò que cada parella i cada membre faça realment. La qualitat fin
 
 Cada membre haurà de poder explicar les decisions globals del projecte en custòdia, les aportacions pròpies, les mancances rebudes, els canvis gestionats i què ha aprés en comparar la proposta inicial amb el resultat final.
 
+En cada punt de control, el professorat pot registrar una evidència com a diagnòstica, parcial, suficient o no evidenciada per a una persona concreta. «Pendent» significa que encara no s'ha revisat, no que el criteri estiga suspés. Esta valoració sempre ha d'estar vinculada a una evidència i una observació; les regles de qualificació són les de la programació didàctica.
+
 Els projectes individuals excepcionals o les adaptacions necessàries pel nombre d'alumnes seran autoritzats i documentats per l'equip educatiu.
 
 Consulteu també el [procediment de treball i evidències en GitHub](github-treball.md), que concreta com registrar tasques, versions, revisions i aportacions.

@@ -12,7 +12,7 @@ Convertireu les necessitats millor fonamentades en diferents opcions de projecte
 | 2. Generar alternatives | 25 min | Individual i equip |
 | 3. Definir criteris | 15 min | Equip |
 | 4. Comparar i seleccionar | 30 min | Equip |
-| 5. Completar el dossier i preparar la defensa | 35 min | Individual i equip |
+| 5. Comprovació individual i preparació de la defensa | 35 min | Individual i equip |
 | 6. Presentar i validar | 60 min | Equip, cada membre i professorat |
 
 Les primeres cinc activitats completen les **cinc hores** assignades a `PR-Q.2.1.x` entre les dos sessions. L'última hora correspon a la defensa `DO-Q.2.2.x`.
@@ -71,15 +71,7 @@ Per a l'alternativa seleccionada, definiu:
 - una prova tècnica o d'ús que reduïsca el risc principal;
 - alternativa de reserva si la validació falla.
 
-## Activitat 5. Completar el dossier i preparar la defensa
-
-Incorporeu al dossier la comparació, la proposta seleccionada i una oportunitat de negoci o de prestació de serveis vinculada a la investigació. Identifiqueu les persones beneficiàries, les condicions perquè siga plausible i la principal incertesa; no doneu per fet que existirà demanda o rendibilitat.
-
-Prepareu la validació oral amb una cerca breu i documentada sobre:
-
-- obligacions fiscals, laborals i de prevenció que serien aplicables o no segons l'escenari del projecte;
-- possibles ajudes o subvencions vigents, els requisits bàsics i una alternativa si no encaixen;
-- el guió de treball immediat: passos, responsabilitats, evidències i decisions pendents.
+## Activitat 5. Comprovació individual i preparació de la defensa
 
 Abans de la defensa, sense consultar la redacció de l'equip, cada membre respondrà:
 
@@ -93,14 +85,14 @@ Compareu les respostes. Les diferències poden revelar acords aparents o decisio
 
 ## Activitat 6. Presentar i validar
 
-Durant l'última hora, cada equip farà una presentació de **cinc minuts** i cada membre intervindrà en el contrast individual. La presentació i les respostes han de permetre observar RA1.g–i; el professorat distribuirà els torns i les preguntes segons el nombre d'equips.
+Durant l'última hora, cada equip farà una presentació de **cinc minuts** i cada membre intervindrà en el contrast individual. La presentació se centrarà en les evidències, alternatives, decisió, abast, riscos i validació que s'han demanat en el dossier; el professorat distribuirà els torns i les preguntes segons el nombre d'equips.
 
 Useu el [recurs de consolidació](bloc2-sessio3.md) per preparar la presentació, registrar la decisió docent i conservar els ajustos demanats.
 
 ## Evidència curricular
 
-La comparació i la proposta completen evidències de **RA1.c–f** per a `PR-Q.2.1.x`; la validació oral permet observar individualment **RA1.g–i** amb `DO-Q.2.2.x`. Les aproximacions a RA2 són formatives i es reprendran amb els instruments del bloc 3.
+La comparació i la proposta permeten observar principalment **RA1.c, RA1.e i RA1.f**. Els aspectes de RA2 que apareguen en el dossier són formatius en este bloc. La defensa servix per contrastar individualment estes evidències i l'autoria; no incorpora continguts nous que no s'hagen demanat.
 
 ## Lliurament de la sessió
 
-Incorporeu al Dossier 1 la revisió d'afirmacions, les alternatives, els criteris, la matriu comparativa, la prova de sensibilitat, la selecció, la cerca per a RA1.g–i i les respostes individuals. Registreu també la decisió docent i els ajustos demanats.
+Incorporeu al Dossier 1 la revisió d'afirmacions, les alternatives, els criteris, la matriu comparativa, la prova de sensibilitat, la selecció i les respostes individuals. Registreu també la decisió docent i els ajustos demanats.

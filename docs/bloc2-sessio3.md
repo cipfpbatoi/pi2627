@@ -87,7 +87,7 @@ Cada membre deixarà per escrit, abans o immediatament després del seu torn:
 
 ## Evidència curricular
 
-El Dossier 1 i les evidències associades permeten valorar **RA1.a–f** mitjançant `PR-Q.2.1.x`. La presentació, les preguntes i les respostes individuals permeten valorar **RA1.g–i** mitjançant `DO-Q.2.2.x`. Apliqueu les [rúbriques del bloc](bloc2-rubriques.md): la decisió d'acceptar la proposta no significa que tots els criteris estiguen assolits.
+El Dossier 1 permet observar principalment **RA1.c, RA1.e i RA1.f**, a més d'indicis formatius de RA2. La presentació i les preguntes contrasten individualment allò que s'ha demanat en el dossier i l'autoria. Apliqueu les [rúbriques del bloc](bloc2-rubriques.md): no s'han d'afegir exigències noves durant la defensa ni confondre l'acceptació de la proposta amb l'assoliment curricular.
 
 ## Lliurament del bloc
 

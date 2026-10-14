@@ -13,14 +13,12 @@ La parella conservarà la custòdia fins a completar l'avantprojecte del bloc 3.
 Preparareu un [Dossier 1](bloc2-dossier1.md) que permeta a l'equip educatiu decidir si el projecte:
 
 - respon a una necessitat identificable;
-- contextualitza el sector, els tipus d'organització i una oportunitat plausible;
 - està relacionat amb les competències de DAW;
 - té persones usuàries o casos representatius amb què es pot validar;
 - permet integrar els mínims confirmats dels mòduls amb un recorregut coherent;
 - pot produir un prototip demostrable en el temps disponible;
 - oferix prou treball compartit i evidències individuals;
-- identifica incerteses, riscos i qüestions pendents sense ocultar-los;
-- prepara les obligacions, les possibles ajudes i el guió de treball que es defensaran individualment.
+- identifica incerteses, riscos i qüestions pendents sense ocultar-los.
 
 En el repositori definitiu, completeu el mateix document a `docs/01-proposta/dossier-1.md` i marqueu la versió revisada com `dossier-1-v1.0`.
 
@@ -28,10 +26,10 @@ En el repositori definitiu, completeu el mateix document a `docs/01-proposta/dos
 
 La programació establix dos instruments en este bloc:
 
-- `PR-Q.2.1.x`, el Dossier 1 i les evidències associades, permet valorar individualment **RA1.a–f** i aporta un **7,5 %** a la qualificació final del mòdul;
-- `DO-Q.2.2.x`, la presentació i validació individual, permet valorar **RA1.g–i** i aporta un **2,5 %**.
+- `PR-Q.2.1.x`, el Dossier 1 i les evidències associades, aporta un **7,5 %** a la qualificació final del mòdul;
+- `DO-Q.2.2.x`, la presentació i validació individual, aporta un **2,5 %**.
 
-Consulteu les [rúbriques de la proposta i la defensa](bloc2-rubriques.md) abans de començar. Els CA de RA2 que es puguen observar en el dossier s'utilitzaran com a retroacció formativa per preparar el bloc 3, però no formen part dels instruments qualificables del bloc 2.
+Consulteu les [rúbriques de la proposta i la defensa](bloc2-rubriques.md) abans de començar. Les rúbriques valoren només els apartats i actuacions que es demanen en estos materials; després indiquen quins CA es poden observar realment. No es penalitzarà l'absència d'un contingut que no s'haja demanat.
 
 ## Seqüència
 

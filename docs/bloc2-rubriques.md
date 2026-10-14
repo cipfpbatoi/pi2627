@@ -1,60 +1,58 @@
 # Rúbriques del Bloc 2. Proposta i defensa
 
-## Finalitat
+## Criteri de construcció
 
-Estes rúbriques indiquen què s'observarà en els dos instruments previstos per la programació didàctica:
+Estes rúbriques partixen exclusivament del que es demana en el [Dossier 1](bloc2-dossier1.md) i en la [presentació](bloc2-sessio3.md). Després s'indica quins RA i CA poden observar-se amb cada evidència. La relació curricular no convertix un contingut no demanat en una exigència nova.
 
-| Instrument | Producte o actuació | CA de RA1 | Pes previst en el mòdul |
-| --- | --- | --- | ---: |
-| `PR-Q.2.1.x` | Dossier 1. Definició de la necessitat i proposta de projecte | RA1.a–f | 7,5 % |
-| `DO-Q.2.2.x` | Presentació i validació individual de la proposta | RA1.g–i | 2,5 % |
+La programació preveu els instruments següents:
 
-La ponderació correspon a cada instrument complet. La programació no establix pesos diferents entre els CA d'un mateix instrument. La conversió dels nivells de la rúbrica en una qualificació numèrica es concretarà en l'instrument de qualificació; estes taules no inventen eixa conversió.
+| Instrument | Actuació | Pes en el mòdul |
+| --- | --- | ---: |
+| `PR-Q.2.1.x` | Definició de la necessitat i proposta de projecte | 7,5 % |
+| `DO-Q.2.2.x` | Presentació i validació de la proposta | 2,5 % |
 
-El dossier és un producte compartit, però l'avaluació és individual. Cada membre ha de poder localitzar les evidències, explicar les decisions globals i identificar les aportacions pròpies. Un contingut present en el repositori no s'atribuïx automàticament a totes les persones de l'equip.
+La programació associa el primer instrument a RA1.a–f i el segon a RA1.g–i. Això no significa que el document actual produïsca evidència de tots eixos CA. La correspondència real figura en les taules següents i la conversió a nota es definirà posteriorment.
 
 ## Escala comuna
 
-| Nivell | Significat operatiu |
+| Nivell | Significat aplicat al que s'ha demanat |
 | --- | --- |
-| **4 — Sòlid i autònom** | L'evidència és completa, traçable i ben justificada; la persona respon preguntes noves i reconeix límits o alternatives. |
-| **3 — Suficient** | L'evidència permet observar el CA en l'abast del bloc i la persona l'explica amb una justificació coherent. |
-| **2 — Parcial** | Hi ha elements rellevants, però falten contrast, precisió, connexions o explicació individual. |
-| **1 — Inicial** | L'evidència és molt feble, conté errors importants o es limita a afirmacions genèriques sense justificació. |
-| **N — No evidenciat** | Després de revisar el producte o la resposta, no s'ha identificat evidència pertinent del CA. Cal registrar el motiu i la reobservació necessària. |
+| **4 — Sòlid i autònom** | L'apartat és complet, traçable i ben justificat; l'equip o la persona pot explicar decisions, límits i alternatives. |
+| **3 — Suficient** | L'apartat respon al que es demana, usa evidències pertinents i manté una justificació coherent. |
+| **2 — Parcial** | Hi ha una resposta recognoscible, però falten contrast, precisió, connexions o justificació. |
+| **1 — Insuficient** | La resposta és genèrica, incoherent, conté errors importants o no permet prendre la decisió prevista. |
+| **N — No entregat o no observable** | L'apartat estava demanat, però no hi ha evidència localitzable després de revisar l'entrega o la resposta. |
 
-`D` (diagnòstica), quan aparega en els registres de seguiment, descriu la finalitat d'una observació i no és un nivell d'esta rúbrica.
+Un contingut que **no estava demanat** no rep `N` ni cap altre nivell. Simplement queda fora de la rúbrica.
 
 ## PR-Q.2.1.x — Dossier 1
 
-Es revisaran la versió immutable `dossier-1-v1.0`, les fonts, el registre de decisions, les evidències individuals i la traça de treball associada.
+| Criteri derivat de l'entrega | Apartats | Relació curricular possible | 4 — Sòlid i autònom | 3 — Suficient | 2 — Parcial | 1 — Insuficient | N |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| **Necessitat investigada i evidències** | 2–5 | RA1.c; RA2.a amb ús formatiu | Diferencia fets, hipòtesis i limitacions; contrasta fonts o mètodes i explica què podria canviar la selecció. | Descriu una necessitat concreta, les persones afectades i evidències contrastables, amb les limitacions principals. | La necessitat és plausible, però depén d'una evidència feble, conserva supòsits importants o es formula parcialment com una solució. | Es reduïx a «falta una aplicació», usa opinions sense contrast o no identifica persones ni efectes. | No hi ha investigació localitzable. |
+| **Alternatives diferenciades** | 6 | RA1.e, parcial | Compara respostes realment diferents —inclosa l'adaptació o una opció de baixa tecnologia— i explicita valor, riscos i compensacions. | Presenta almenys tres alternatives diferents relacionades amb la necessitat, les persones beneficiàries i una possible validació. | Les opcions varien poc, estan incompletes o alguna no respon clarament a la necessitat. | Les alternatives són la mateixa solució amb canvis de tecnologia o no guarden relació amb el problema. | No s'han presentat les alternatives demanades. |
+| **Criteris, comparació i selecció** | 7 i 8 | RA1.e | Definix criteris abans de decidir, els justifica amb evidències, prova la sensibilitat i reconeix quan la decisió és fràgil. | Compara les alternatives amb criteris comprensibles i justifica la proposta seleccionada. | Hi ha comparació, però alguns criteris, puntuacions o justificacions són arbitraris o incomplets. | La conclusió estava decidida d'entrada o una suma de punts substituïx la justificació. | No hi ha comparació o selecció localitzable. |
+| **Proposta, prototip i abast** | 8 | RA1.f; indicis formatius de RA2.c, RA2.d i RA2.i | Traça necessitat, proposta, recorregut, característiques, exclusions i validació; justifica les compensacions d'abast. | Definix una proposta coherent, un recorregut demostrable, inclusions, exclusions i criteris inicials d'èxit. | La proposta és comprensible, però part de l'abast, les característiques o la validació no deriva clarament de la necessitat. | Presenta funcionalitats inconnexes, un abast il·limitat o un prototip que no permet validar la proposta. | No hi ha proposta o abast localitzable. |
+| **Viabilitat preliminar i qüestions pendents** | 9 | RA2.b i RA2.e, amb ús formatiu en este bloc | Relaciona dimensions tècniques, temporals, econòmiques, legals i d'ús amb evidències, incerteses i proves prioritzades. | Identifica les principals incerteses, riscos o costos i indica quina informació o prova falta. | Reconeix alguns condicionants, però sense evidència, prioritat o acció clara. | Afirma que la proposta és viable sense analitzar condicionants rellevants. | No hi ha anàlisi preliminar. |
+| **Traçabilitat, versions, fonts i ús d'IA** | 1, 5, 13 i 15 | Requisit transversal, sense CA qualificable directe del Bloc 2 | Les decisions es poden reconstruir des de fonts, versions i canvis; l'ús d'IA està declarat i verificat. | Les fonts, versions i usos d'IA són identificables i permeten entendre l'origen de les decisions principals. | Hi ha registre, però és incomplet, ambigu o no permet verificar alguna decisió important. | Falten fonts essencials, s'oculta l'ús d'IA o la versió no és identificable. | No hi ha registre localitzable. |
+| **Organització, autoria i evidència individual** | 10 i 14 | Mecanisme d'atribució, sense CA qualificable directe | Les responsabilitats i aportacions són traçables; cada membre explica les decisions globals i diferencia la seua contribució. | El repartiment i les aportacions individuals són identificables i coherents amb les evidències. | L'autoria és parcial, depén d'afirmacions genèriques o mostra una comprensió desigual no aclarida. | No es pot atribuir el treball o una persona no pot explicar les decisions en què figura. | No hi ha evidència individual localitzable. |
+| **Revisió, decisió docent i ajustos** | 11, 12 i 15 | Requisit de procés, amb valor formatiu per al seguiment | Contrasta observacions, justifica què accepta o rebutja i registra canvis, responsables, evidències i revisió. | Registra la revisió, la decisió docent i els ajustos acordats de manera verificable. | La revisió o els ajustos apareixen, però falten justificacions, responsables o seguiment. | S'ignoren observacions o es reescriu la proposta sense conservar la decisió i els canvis. | No hi ha registre de revisió. |
 
-| CA | 4 — Sòlid i autònom | 3 — Suficient | 2 — Parcial | 1 — Inicial | N |
-| --- | --- | --- | --- | --- | --- |
-| **RA1.a. Classificació d'empreses del sector** | Classifica diversos tipus d'empreses o organitzacions amb criteris explícits d'organització i oferta, contrasta fonts i explica per què són rellevants per al repte. | Diferencia tipus representatius del sector segons l'organització i el producte o servei, amb exemples i fonts pertinents. | Aporta exemples útils, però la classificació és incompleta, barreja criteris o està poc relacionada amb el repte. | Presenta una llista arbitrària, sense criteris de classificació o amb informació no contrastada. | No hi ha evidència localitzable. |
-| **RA1.b. Caracterització d'empreses tipus** | Compara estructures i funcions, identifica diferències significatives i relaciona l'organització amb la necessitat o la futura validació. | Caracteritza empreses tipus indicant una estructura plausible i les funcions dels departaments o àrees rellevants. | Descriu alguna estructura o funció, però de manera genèrica, incompleta o sense connexió amb la necessitat estudiada. | Confón empresa, departament i funció, o inventa una estructura sense font ni justificació. | No hi ha evidència localitzable. |
-| **RA1.c. Necessitats demandades** | Prioritza necessitats amb evidències diverses, diferencia fets i hipòtesis i explica limitacions, desacords o condicions que podrien canviar la decisió. | Identifica necessitats concretes del context, les relaciona amb persones o processos i les sosté amb fonts o mètodes contrastables. | La necessitat és plausible, però depén d'una única font, conserva supòsits importants o es formula parcialment com una solució. | Reduïx la necessitat a «falta una app», usa opinions sense contrast o no identifica persones o processos afectats. | No hi ha evidència localitzable. |
-| **RA1.d. Oportunitats de negoci previsibles** | Analitza escenaris, beneficiaris, condicions i riscos de l'oportunitat, i distingix el valor esperat d'una promesa no comprovada. | Relaciona una oportunitat de negoci o de prestació de serveis en el sector amb la necessitat i aporta evidències, beneficiaris i condicions plausibles. | Formula un benefici general, però no concreta les condicions, les persones beneficiàries o l'evidència que el fa previsible. | Afirma que hi haurà èxit, demanda o rendibilitat sense connexió amb la investigació. | No hi ha evidència localitzable. |
-| **RA1.e. Tipus de projecte requerit** | Compara tipus de resposta —desenvolupament, adaptació, integració o millora de procés— i defensa una selecció robusta davant canvis raonables. | Identifica i justifica un tipus de projecte adequat per respondre a la demanda, després de comparar alternatives reals. | El tipus de projecte és comprensible, però la comparació o la connexió amb la demanda és feble. | Tria primer una tecnologia o un producte i intenta justificar-lo després, sense relacionar-lo amb la necessitat. | No hi ha evidència localitzable. |
-| **RA1.f. Característiques requerides** | Prioritza característiques traçables, restriccions, exclusions i forma de validació, i justifica les compensacions entre valor, risc i abast. | Determina característiques específiques derivades de la necessitat, les persones usuàries i les restriccions del projecte. | Inclou característiques pertinents, però algunes no tenen origen clar, prioritat o límit observable. | Presenta una llista de funcionalitats desconnectada de les necessitats o un abast sense límits. | No hi ha evidència localitzable. |
+## DO-Q.2.2.x — Presentació i validació
 
-## DO-Q.2.2.x — Presentació i validació individual
+| Criteri derivat de l'actuació demanada | Relació curricular possible | 4 — Sòlid i autònom | 3 — Suficient | 2 — Parcial | 1 — Insuficient | N |
+| --- | --- | --- | --- | --- | --- | --- |
+| **Síntesi traçable de la proposta** | Contrasta RA1.c, RA1.e i RA1.f | Connecta evidència, necessitat, alternativa, abast i validació amb una síntesi precisa i adaptada al temps. | Presenta de manera coherent la necessitat, la selecció i el prototip proposat. | Omet alguna connexió important o descriu parts del dossier sense construir una explicació global. | La presentació és una llista de funcionalitats o afirmacions sense evidència ni fil conductor. | No s'ha realitzat la intervenció. |
+| **Defensa de les evidències i les limitacions** | RA1.c | Interpreta les fonts, distingix fets i hipòtesis i explica què faria canviar la proposta. | Justifica la necessitat amb evidències i reconeix les limitacions principals. | Cita informació, però li costa interpretar-la o reconéixer-ne els límits. | Inventa dades, presenta opinions com a fets o no pot localitzar l'evidència. | No s'ha pogut observar. |
+| **Defensa de la comparació i la decisió** | RA1.e | Explica compensacions, alternatives descartades i fragilitat de la selecció davant canvis raonables. | Justifica per què la proposta respon millor als criteris acordats. | Recorda la decisió, però no pot justificar alguns criteris o descartes. | Defén una preferència tecnològica sense relacionar-la amb la necessitat. | No s'ha pogut observar. |
+| **Defensa de l'abast, els riscos i la validació** | RA1.f; indicis formatius de RA2 | Relaciona exclusions, prova prioritària, riscos i persones o casos de validació, i proposa ajustos coherents. | Explica el recorregut del prototip, els límits i com es podria validar. | L'abast és comprensible, però queden contradiccions o riscos sense resposta. | No distingix producte final i prototip o no pot explicar què es validarà. | No s'ha pogut observar. |
+| **Comprensió i aportació individual** | Mecanisme d'atribució, sense CA qualificable directe | Respon amb autonomia, relaciona la seua aportació amb decisions globals i reconeix desacords o canvis. | Explica una aportació verificable i les decisions essencials de l'equip. | La comprensió és fragmentària o l'aportació no queda prou localitzada. | Es limita a llegir, desconeix decisions bàsiques o s'atribuïx treball no verificable. | No s'ha pogut observar. |
+| **Resposta a preguntes i registre de pendents** | Requisit de l'actuació, sense CA qualificable directe | Raona davant preguntes noves, reconeix allò que no sap i formula un pendent verificable. | Respon coherentment o registra com comprovarà una qüestió no resolta. | Dona respostes parcials o deixa pendents sense responsable, evidència o revisió. | Improvisa dades o evita les preguntes sense registrar què falta. | No s'ha pogut observar. |
 
-La presentació de l'equip contextualitza la proposta, però la intervenció de cada persona i el contrast docent han d'aportar evidència dels tres CA. El professorat formularà almenys una pregunta directa a cada membre i completarà el contrast dels aspectes que la presentació no haja fet observables. Es pot consultar el dossier per localitzar una font; llegir-lo o repetir-lo no substituïx l'explicació.
+## Desajust curricular detectat
 
-| CA | 4 — Sòlid i autònom | 3 — Suficient | 2 — Parcial | 1 — Inicial | N |
-| --- | --- | --- | --- | --- | --- |
-| **RA1.g. Obligacions i prevenció** | Distingix obligacions fiscals, laborals i de prevenció segons diversos escenaris, justifica l'aplicabilitat amb fonts i identifica què requerix assessorament o confirmació. | Identifica les obligacions aplicables o no aplicables al cas, n'explica les condicions bàsiques i localitza fonts verificables. | Enumera obligacions plausibles, però les tracta de manera genèrica, sense condicions d'aplicació o amb alguna confusió rellevant. | Afirmacions incorrectes, copiades sense entendre o sense relació amb el projecte i el seu escenari. | No s'ha pogut observar. |
-| **RA1.h. Ajudes o subvencions** | Compara opcions vigents, requisits, terminis i riscos de dependència, i preveu una alternativa si no són aplicables o no es concedixen. | Identifica una possible ajuda o justifica amb una cerca verificable que no n'ha localitzat cap d'adequada; comprova font, vigència i encaix bàsic. | Esmenta una ajuda o programa, però no comprova prou la vigència, les persones beneficiàries o els requisits. | Inventa, dona per concedida o usa informació desactualitzada sense advertir-ho. | No s'ha pogut observar. |
-| **RA1.i. Guió de treball** | Defén una seqüència adaptable amb dependències, decisions, responsables, evidències i punts de revisió; explica com reaccionaria davant un risc. | Explica passos ordenats per continuar el projecte, amb responsabilitats, qüestions pendents i evidències esperades. | Enumera tasques o fases, però l'ordre, les responsabilitats o la relació amb les decisions són incomplets. | El guió es reduïx a «començar a programar», no té ordre recognoscible o no pot explicar-se. | No s'ha pogut observar. |
+El document actual **no demana explícitament** classificació d'empreses (RA1.a), caracterització d'empreses tipus (RA1.b), oportunitats de negoci (RA1.d), obligacions fiscals, laborals i preventives (RA1.g), ajudes o subvencions (RA1.h) ni un guió de treball complet (RA1.i).
 
-## Què cal entregar i defensar
+Per tant, estos CA no formen part de les rúbriques actuals i la seua absència no es penalitza. Si la programació exigix qualificar-los en estos instruments, primer caldrà revisar formalment l'activitat i comunicar què s'ha d'entregar o defensar; no es poden afegir només en la rúbrica.
 
-- Dossier 1 complet i identificat amb el commit de `dossier-1-v1.0`.
-- Fonts i ús d'IA declarats, amb verificació humana.
-- Evidències individuals enllaçades i aportacions localitzables.
-- Síntesi sectorial, necessitat, oportunitat, alternatives, tipus de projecte i característiques requerides.
-- Base documentada per explicar obligacions, possibles ajudes i guió de treball.
-- Respostes individuals a preguntes de contrast.
-
-La decisió «acceptada», «acceptada amb ajustos» o «reformular» determina si el projecte pot continuar; no és un nivell de rúbrica ni una qualificació.
+La decisió «acceptada», «acceptada amb ajustos» o «reformular» determina si el projecte pot continuar. No és un nivell de rúbrica ni una qualificació.

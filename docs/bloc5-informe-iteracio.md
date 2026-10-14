@@ -1,6 +1,6 @@
 # Plantilla de l'informe d'iteració
 
-La plantilla `docs/04-seguiment/plantilla-informe-iteracio.md` ja està disponible en el repositori definitiu. Creeu `iteracio-5-1.md`, `iteracio-5-2.md`, `iteracio-5-3.md` i `iteracio-5-4.md` a partir d'ella, i enllaceu evidències existents; no repliqueu l'historial. Adapteu els camps al propòsit de la iteració i indiqueu `No aplicable` amb una justificació quan corresponga.
+La plantilla `docs/04-seguiment/plantilla-informe-iteracio.md` ja està disponible en el repositori definitiu. Creeu `iteracio-5-1.md`, `iteracio-5-2.md`, `iteracio-5-3.md` i `iteracio-5-4.md` a partir d'ella, i enllaceu evidències existents; no repliqueu l'historial. Adapteu els camps al propòsit de la iteració, indiqueu `No aplicable` amb una justificació quan corresponga i consulteu les [rúbriques del Bloc 5](bloc5-rubriques.md).
 
 | Projecte | Iteració i dates | Equip custodi | Versió/commit | Pla d'entrada |
 | --- | --- | --- | --- | --- |
@@ -84,4 +84,4 @@ Incloeu el camí correcte, almenys un error rellevant i les regressions aplicabl
 
 ## 9. Abast curricular
 
-Indiqueu per a cada RA4.a–g aplicable si l'evidència és **parcial** o **suficient dins del bloc**, amb l'enllaç concret. Si heu modificat el pla, identifiqueu els RA3.a–h observables. No marqueu un criteri només perquè aparega citat en el document.
+Indiqueu per a cada RA4.a–e aplicable l'evidència concreta de `PR-Q.5.1.x`. En l'informe 5.4, afegiu RA4.f–g per a `PR-Q.5.2.x`; si no hi ha participació real, marqueu RA4.f com a parcial, i si no existix plec o condició equivalent, justifiqueu RA4.g com a no aplicable. Si heu modificat el pla, identifiqueu els RA3.a–h reobservables. No marqueu un criteri només perquè aparega citat en el document.

@@ -17,6 +17,12 @@ Al final de cada iteració entregueu una versió immutable i un [informe breu](b
 
 Les còpies completades es guarden a `docs/04-seguiment/iteracio-5-1.md` fins a `iteracio-5-4.md`; no entregueu com a evidència la plantilla buida. El punt de control final comprovarà estes quatre iteracions, el prototip, els traspassos i les evidències individuals a `prototip-v1.0`.
 
+## Com s'avaluarà
+
+La programació establix `PR-Q.5.1.x`, **Seguiment i control del desenvolupament**, que observa RA4.a–e i pesa un **15 %** del mòdul; i `PR-Q.5.2.x`, **Avaluació i lliurament del producte**, que observa RA4.f–g i pesa un **10 %**. Consulteu les [rúbriques del seguiment i la validació](bloc5-rubriques.md) abans de començar.
+
+Les rúbriques valoren només els informes, procediments, validacions, versions i actuacions que es demanen en estos materials. Les revisions justificades del pla poden reobservar RA3, però no afigen una qualificació nova al Bloc 5.
+
 ## Com decidir l'abast
 
 Preserveu primer el recorregut que permet comprovar la necessitat principal i els [mínims confirmats dels mòduls](condicions-tecniques.md). Prioritzeu segons valor, dependències, capacitat i risc. Si el pla rebut no permet completar algun mínim, registreu-ne la causa i acordeu l'ajust amb el professorat abans d'eliminar-lo. No afegiu funcionalitats sense revisar el cost, les proves i l'efecte en el desplegament.
@@ -33,4 +39,4 @@ Declareu l'ús d'IA amb la finalitat, l'ajuda rebuda i la verificació humana. C
 
 ## Abast curricular
 
-Els informes i registres de les iteracions poden aportar evidència **suficient dins del bloc** de RA4.a–e quan documenten procediments aplicats, indicadors, incidències, canvis i avaluació. La validació amb persones usuàries i el control de condicions poden aportar RA4.f–g quan pertoquen. Les revisions justificades del pla poden aportar evidència **parcial o suficient**, segons el treball real, de RA3.a–h. El prototip és evidència de les decisions i del control, no un RA nou. L'abast s'atribuirà individualment amb la traça i la defensa.
+Els informes i registres de les iteracions poden aportar evidència de RA4.a–e per a `PR-Q.5.1.x`. La participació documentada de persones usuàries o clientes i el control de condicions poden aportar RA4.f–g per a `PR-Q.5.2.x`. Una validació alternativa sense participació real pot aportar evidència parcial de RA4.f, no suficient. Les revisions justificades del pla poden reobservar RA3.a–h només per als elements realment modificats. L'abast s'atribuïx individualment amb la traça i el contrast.

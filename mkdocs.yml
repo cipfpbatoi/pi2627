@@ -42,6 +42,7 @@ nav:
       - "Plantilla del Pla del projecte": "bloc4-pla-projecte.md"
   - "Bloc 5. Desenvolupament i validació":
       - "Guia de l'alumnat": "bloc5-alumnat.md"
+      - "Rúbriques del seguiment i la validació": "bloc5-rubriques.md"
       - "Iteració 5.1. Prova tècnica": "bloc5-iteracio1.md"
       - "Iteració 5.2. Recorregut mínim": "bloc5-iteracio2.md"
       - "Iteració 5.3. Increment de valor": "bloc5-iteracio3.md"

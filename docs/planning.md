@@ -248,6 +248,8 @@ Segons la naturalesa del projecte, el prototip haurà de:
 - versions executables del prototip;
 - actualització del cronograma, els costos i els riscos.
 
+La programació distribuïx l'avaluació entre `PR-Q.5.1.x` —seguiment i control del desenvolupament, RA4.a–e, 15 %— i `PR-Q.5.2.x` —avaluació i lliurament del producte, RA4.f–g, 10 %—. Les [rúbriques del Bloc 5](bloc5-rubriques.md) partixen dels informes, les proves, la validació i el lliurament demanats; les revisions de RA3 queden com a reobservació formativa.
+
 ### Punt de control de cada iteració
 
 **Què hem validat, què s'ha desviat i com afecta això el pla següent?**

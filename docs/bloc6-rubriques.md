@@ -25,7 +25,24 @@ Els percentatges corresponen als RA dins de cada instrument, no a files de la r�
 
 Un contingut que no estava demanat no rep `N`: queda fora de la rúbrica. `NA — No aplicable justificat` només s'usa quan el mateix CA depén d'una condició que no existix en el projecte.
 
+### Font i moment de qualificació
+
+- **Entregable:** el nivell es pot tancar amb la versió immutable i les evidències enllaçades.
+- **Actuació o defensa:** el nivell només es pot tancar després d'observar la intervenció; el material preparatori no la substituïx.
+- **Mixta:** el producte permet una valoració provisional, però la validació o la defensa ha de confirmar autoria, comprensió o aplicació abans de tancar-la.
+
+Una resposta oral no substituïx una versió, una prova o un registre que s'havia de conservar. Tampoc s'assigna `N` a una actuació o defensa abans que la persona haja tingut l'oportunitat de realitzar-la.
+
 ## PR-Q.6.1.x — Recepció i validació del projecte
+
+| Criteri | Font de qualificació |
+| --- | --- |
+| Versions, autoria i buits d'evidència | Entregable |
+| Necessitat, objectius, abast i criteris d'èxit | Entregable |
+| Comparació entre fases i indicadors de qualitat | Entregable |
+| Validació circular i participació | Mixta |
+| Compliment de condicions i estat real | Entregable |
+| Conclusions, continuïtat i paquet de recepció | Entregable |
 
 | Criteri derivat de l'entrega | Apartats | Relació curricular possible | 4 — Sòlid i autònom | 3 — Suficient | 2 — Parcial | 1 — Insuficient | N |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -37,6 +54,15 @@ Un contingut que no estava demanat no rep `N`: queda fora de la rúbrica. `NA �
 | **Conclusions, continuïtat i paquet de recepció** | 6–7 i `tancament-v1.0` | RA2.d i RA2.i; condició de l'entrega | Les conclusions diferencien validat, parcial i no funcional, proposen continuïtat viable amb recursos, permisos i proves i conserven autoria, fonts, llicències i IA verificades. | Delimita l'estat real, les limitacions i el treball futur i entrega una versió immutable amb les referències demanades. | Les conclusions existixen, però alguna limitació, acció, recurs, permís, font o autoria no queda clara. | Presenta una conclusió promocional, oculta treball pendent o depén d'enllaços i explicacions no conservats. | No hi ha conclusions o paquet de recepció localitzable. |
 
 ## DO-Q.6.2.x — Portafolis i defensa individual
+
+| Criteri | Font de qualificació |
+| --- | --- |
+| Recorregut pels tres projectes i aportacions pròpies | Mixta |
+| Revisió de treball alié i aspectes de qualitat | Mixta |
+| Decisió i prova defensades | Mixta |
+| Canvi de criteri motivat per evidència | Mixta |
+| Validació, participació i condicions en la defensa | Mixta |
+| Autonomia, fonts, IA i versió defensada | Mixta |
 
 | Criteri derivat de l'actuació | Evidència | Relació curricular possible | 4 — Sòlid i autònom | 3 — Suficient | 2 — Parcial | 1 — Insuficient | N |
 | --- | --- | --- | --- | --- | --- | --- | --- |

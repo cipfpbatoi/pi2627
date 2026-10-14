@@ -25,7 +25,26 @@ La programació associa el primer instrument a RA1.a–f i el segon a RA1.g–i.
 
 Un contingut que **no estava demanat** no rep `N` ni cap altre nivell. Simplement queda fora de la rúbrica.
 
+### Font i moment de qualificació
+
+- **Entregable:** el nivell es pot tancar amb la versió immutable i les evidències enllaçades.
+- **Actuació o defensa:** el nivell només es pot tancar després d'observar la intervenció; el material preparatori no la substituïx.
+- **Mixta:** el producte permet una valoració provisional, però el contrast ha de confirmar autoria, comprensió o aplicació abans de tancar-la.
+
+Una resposta oral no substituïx un producte que s'havia d'entregar. Tampoc s'assigna `N` a una actuació o defensa abans que la persona haja tingut l'oportunitat de realitzar-la.
+
 ## PR-Q.2.1.x — Dossier 1
+
+| Criteri | Font de qualificació |
+| --- | --- |
+| Necessitat investigada i evidències | Entregable |
+| Alternatives diferenciades | Entregable |
+| Criteris, comparació i selecció | Entregable |
+| Proposta, prototip i abast | Entregable |
+| Viabilitat preliminar i qüestions pendents | Entregable |
+| Traçabilitat, versions, fonts i ús d'IA | Entregable |
+| Organització, autoria i evidència individual | Entregable |
+| Revisió, decisió docent i ajustos | Entregable |
 
 | Criteri derivat de l'entrega | Apartats | Relació curricular possible | 4 — Sòlid i autònom | 3 — Suficient | 2 — Parcial | 1 — Insuficient | N |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -39,6 +58,15 @@ Un contingut que **no estava demanat** no rep `N` ni cap altre nivell. Simplemen
 | **Revisió, decisió docent i ajustos** | 11, 12 i 15 | Requisit de procés, amb valor formatiu per al seguiment | Contrasta observacions, justifica què accepta o rebutja i registra canvis, responsables, evidències i revisió. | Registra la revisió, la decisió docent i els ajustos acordats de manera verificable. | La revisió o els ajustos apareixen, però falten justificacions, responsables o seguiment. | S'ignoren observacions o es reescriu la proposta sense conservar la decisió i els canvis. | No hi ha registre de revisió. |
 
 ## DO-Q.2.2.x — Presentació i validació
+
+| Criteri | Font de qualificació |
+| --- | --- |
+| Síntesi traçable de la proposta | Actuació o defensa |
+| Defensa de les evidències i les limitacions | Actuació o defensa |
+| Defensa de la comparació i la decisió | Actuació o defensa |
+| Defensa de l'abast, els riscos i la validació | Actuació o defensa |
+| Comprensió i aportació individual | Actuació o defensa |
+| Resposta a preguntes i registre de pendents | Actuació o defensa |
 
 | Criteri derivat de l'actuació demanada | Relació curricular possible | 4 — Sòlid i autònom | 3 — Suficient | 2 — Parcial | 1 — Insuficient | N |
 | --- | --- | --- | --- | --- | --- | --- |

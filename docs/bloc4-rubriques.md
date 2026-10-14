@@ -25,7 +25,27 @@ Els procediments de proves, seguiment, incidències, canvis, participació i com
 
 Un contingut que no estava demanat no rep `N`: queda fora de la rúbrica. Quan una condició no siga aplicable al projecte, cal justificar-ho amb la mateixa cura que una decisió.
 
+### Font i moment de qualificació
+
+- **Entregable:** el nivell es pot tancar amb la versió immutable i les evidències enllaçades.
+- **Actuació o defensa:** el nivell només es pot tancar després d'observar la intervenció; el material preparatori no la substituïx.
+- **Mixta:** el producte permet una valoració provisional, però el traspàs o la defensa ha de confirmar autoria, comprensió o aplicació abans de tancar-la.
+
+Una resposta oral no substituïx un producte que s'havia d'entregar. Tampoc s'assigna `N` a una actuació o defensa abans que la persona haja tingut l'oportunitat de realitzar-la.
+
 ## PR-Q.4.1.x — Pla d'execució del projecte
+
+| Criteri | Font de qualificació |
+| --- | --- |
+| Entrada, línia base i canvis | Entregable |
+| Lliurables, EDT, seqüència i prioritats | Entregable |
+| Recursos i logística per activitat | Entregable |
+| Permisos i autoritzacions | Entregable |
+| Procediments d'execució i sistema de treball | Entregable |
+| Riscos, prevenció, mitjans i resposta | Entregable |
+| Necessitats de finançament | Entregable |
+| Proves, qualitat i desplegament executables | Entregable |
+| Seguiment, incidències, canvis, participació i compliment | Entregable |
 
 | Criteri derivat de l'entrega | Apartats | Relació curricular possible | 4 — Sòlid i autònom | 3 — Suficient | 2 — Parcial | 1 — Insuficient | N |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -42,6 +62,13 @@ Un contingut que no estava demanat no rep `N`: queda fora de la rúbrica. Quan u
 Tots els criteris de la taula formen part del pla demanat. En `PR-Q.4.1.x` només contribuïx l'evidència relacionada amb RA3.a–e; l'entrada i la línia base informen el punt de control i RA3.h, i l'evidència específica de RA2.g i RA4.a–g rep retorn formatiu.
 
 ## DO-Q.4.2.x — Planificació i traspàs al desenvolupador
+
+| Criteri | Font de qualificació |
+| --- | --- |
+| Assignació de recursos humans i materials i temps | Mixta |
+| Valoració econòmica | Mixta |
+| Documentació executable i traspàs | Mixta |
+| Autoria i defensa individual del pla global | Actuació o defensa |
 
 | Criteri derivat de l'actuació | Evidència | Relació curricular possible | 4 — Sòlid i autònom | 3 — Suficient | 2 — Parcial | 1 — Insuficient | N |
 | --- | --- | --- | --- | --- | --- | --- | --- |

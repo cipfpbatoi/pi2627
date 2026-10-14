@@ -24,7 +24,27 @@ L'associació programada no implica que tots els CA queden demostrats pel simple
 
 Un contingut que no estava demanat no rep `N`: queda fora de la rúbrica.
 
+### Font i moment de qualificació
+
+- **Entregable:** el nivell es pot tancar amb la versió immutable i les evidències enllaçades.
+- **Actuació o defensa:** el nivell només es pot tancar després d'observar la intervenció; el material preparatori no la substituïx.
+- **Mixta:** el producte permet una valoració provisional, però el contrast ha de confirmar autoria, comprensió o aplicació abans de tancar-la.
+
+Una resposta oral no substituïx un producte que s'havia d'entregar. Tampoc s'assigna `N` a una actuació o defensa abans que la persona haja tingut l'oportunitat de realitzar-la.
+
 ## PR-Q.3.1.x — Dossier 2, proves i contrast individual
+
+| Criteri | Font de qualificació |
+| --- | --- |
+| Continuïtat, necessitat i informació nova | Entregable |
+| Objectius, abast i requisits | Entregable |
+| Disseny funcional i de dades | Entregable |
+| Interfície i prova primerenca | Entregable |
+| Arquitectura, integracions i mínims dels mòduls | Entregable |
+| Alternatives, prova tècnica i decisions | Entregable |
+| Viabilitat, recursos, costos i riscos | Entregable |
+| Traçabilitat, documentació, revisió i traspàs | Entregable |
+| Autoria, fonts, ús d'IA i defensa individual | Mixta |
 
 | Criteri derivat de l'entrega | Apartats | Relació curricular possible | 4 — Sòlid i autònom | 3 — Suficient | 2 — Parcial | 1 — Insuficient | N |
 | --- | --- | --- | --- | --- | --- | --- | --- |

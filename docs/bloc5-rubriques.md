@@ -25,7 +25,26 @@ Les actualitzacions justificades del pla poden reobservar RA3.a–h, però no cr
 
 Un contingut que no estava demanat no rep `N`: queda fora de la rúbrica. `NA — No aplicable justificat` només es pot usar quan el mateix criteri depén d'una condició que no existix en el projecte; no és un nivell ni reduïx per si mateix la qualificació.
 
+### Font i moment de qualificació
+
+- **Entregable:** el nivell es pot tancar amb les versions immutables i les evidències enllaçades.
+- **Actuació o defensa:** el nivell només es pot tancar després d'observar la intervenció; el material preparatori no la substituïx.
+- **Mixta:** el producte permet una valoració provisional, però la validació o el contrast ha de confirmar autoria, comprensió o aplicació abans de tancar-la.
+
+Una resposta oral no substituïx un registre, una prova o un instrument que s'havia de conservar. Tampoc s'assigna `N` a una actuació o contrast abans que la persona haja tingut l'oportunitat de realitzar-lo.
+
 ## PR-Q.5.1.x — Seguiment i control del desenvolupament
+
+| Criteri | Font de qualificació |
+| --- | --- |
+| Objectiu, criteri previ i procediment d'avaluació | Entregable |
+| Execució respecte del pla i revisió de la iteració | Entregable |
+| Indicadors, llindars i decisions | Entregable |
+| Proves, regressions i resultat objectiu | Entregable |
+| Incidències, riscos i resposta | Entregable |
+| Gestió de canvis en recursos i activitats | Entregable |
+| Documentació de l'avaluació i reproducció | Entregable |
+| Autoria i contrast individual del control | Mixta |
 
 | Criteri derivat de l'entrega | Evidència | Relació curricular possible | 4 — Sòlid i autònom | 3 — Suficient | 2 — Parcial | 1 — Insuficient | N |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -39,6 +58,13 @@ Un contingut que no estava demanat no rep `N`: queda fora de la rúbrica. `NA �
 | **Autoria i contrast individual del control** | Apartat 8, issues, revisions, commits i canvi o cas límit | Mecanisme d'atribució de RA4.a–e | La persona localitza aportacions i revisions pròpies, interpreta una dada o prova i aplica amb autonomia un canvi acotat mostrant l'efecte en codi, prova i pla. | Explica el control global, defensa una decisió o prova pròpia i relaciona la seua aportació amb el resultat de la iteració. | L'aportació és localitzable, però l'explicació és fragmentària o no connecta dades, decisió i efecte. | Es limita a llegir, només coneix una tasca aïllada o atribuïx treball que no pot explicar. | No hi ha evidència individual o no s'ha pogut realitzar el contrast. |
 
 ## PR-Q.5.2.x — Avaluació i lliurament del producte
+
+| Criteri | Font de qualificació |
+| --- | --- |
+| Participació o validació alternativa justificada | Mixta |
+| Sistema de compliment de condicions | Entregable |
+| Paquet final reproduïble i limitacions | Entregable |
+| Autoria individual de la validació i el lliurament | Mixta |
 
 | Criteri derivat de l'entrega | Evidència | Relació curricular possible | 4 — Sòlid i autònom | 3 — Suficient | 2 — Parcial | 1 — Insuficient | N |
 | --- | --- | --- | --- | --- | --- | --- | --- |

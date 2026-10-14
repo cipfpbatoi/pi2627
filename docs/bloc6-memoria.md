@@ -1,6 +1,6 @@
 # Plantilla de memòria i defensa
 
-La plantilla ja està disponible com a `docs/05-tancament/memoria.md` en el repositori definitiu. Completeu-la com a memòria del projecte que custodia la parella desenvolupadora. Enllaceu documents i versions existents i citeu l'equip que va elaborar cada fase. El recorregut individual de cada persona pels tres projectes es presenta separadament en T12.
+La plantilla ja està disponible com a `docs/05-tancament/memoria.md` en el repositori definitiu. Completeu-la com a memòria del projecte que custodia la parella desenvolupadora. Enllaceu documents i versions existents i citeu l'equip que va elaborar cada fase. El recorregut individual de cada persona pels tres projectes es presenta separadament en T12. Consulteu les [rúbriques del Bloc 6](bloc6-rubriques.md).
 
 ## Com completar la memòria per sessions
 
@@ -89,7 +89,7 @@ Enllaceu actes de traspàs, decisions, fonts, llicències i declaració d'IA. As
 
 ## 9. Portafolis individual
 
-Cada membre enllaça en l'evidència privada de T12 les seues funcions en els tres projectes, dos o més aportacions pròpies, una revisió, una decisió justificada, una prova i un canvi motivat per evidència. Indiqueu els RA/CA que considereu observables i si l'evidència és parcial o suficient; el professorat contrastarà esta proposta.
+Cada membre enllaça en l'evidència privada de T12 les seues funcions en els tres projectes, dues o més aportacions pròpies, una revisió, una decisió justificada, una prova i un canvi motivat per evidència. Indiqueu els RA/CA que considereu observables i si l'evidència és parcial o suficient; el professorat contrastarà esta proposta.
 
 | Membre | Referència d'entrega T12, sense copiar contingut privat |
 | --- | --- |

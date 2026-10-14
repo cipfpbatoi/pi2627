@@ -284,6 +284,8 @@ La qüestió central de la defensa serà:
 
 > Quines decisions heu pres, en quines evidències vos heu basat, què ha canviat durant el projecte i com sabeu que la proposta és viable?
 
+La programació distribuïx l'avaluació entre `PR-Q.6.1.x` —recepció i validació: RA2.d/i, RA2 2 %, i RA4.b/f/g, RA4 6 %— i `DO-Q.6.2.x` —portafolis i defensa: RA2.i, RA2 3 %; RA3.h, RA3 10 %; RA4.a–g, RA4 9 %—. Les [rúbriques del Bloc 6](bloc6-rubriques.md) partixen de T11 i T12 i documenten els límits de l'evidència realment demanada.
+
 ## Estructura habitual d'una sessió
 
 Com a orientació, una sessió de tres hores podrà distribuir-se així:
@@ -294,12 +296,10 @@ Com a orientació, una sessió de tres hores podrà distribuir-se així:
 
 Cada tres o quatre sessions es realitzarà una revisió més formal amb l'equip docent.
 
-## Criteris pendents de concretar
+## Aspectes operatius pendents
 
-Esta planificació fixa l'estructura i la distribució temporal del curs. Abans de redactar definitivament els apunts i els instruments d'avaluació, caldrà concretar:
+Esta planificació fixa les fases, els lliuraments i les rúbriques basades en les evidències demanades. Abans d'aplicar-la al curs caldrà concretar:
 
-- la correspondència exacta de cada evidència amb els resultats d'aprenentatge i els criteris d'avaluació;
-- els lliuraments obligatoris i opcionals;
-- les rúbriques grupals i individuals;
+- la conversió acordada dels nivells de rúbrica en les qualificacions dels instruments, sense inventar pesos interns;
 - el calendari real segons la formació en empresa;
-- les plantilles que utilitzarà l'alumnat.
+- els ajustos organitzatius necessaris per grup, recursos i disponibilitat de participants.

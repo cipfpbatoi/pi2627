@@ -32,6 +32,8 @@ Un contingut que no estava demanat no rep `N`: queda fora de la rúbrica.
 
 Una resposta oral no substituïx un producte que s'havia d'entregar. Tampoc s'assigna `N` a una actuació o defensa abans que la persona haja tingut l'oportunitat de realitzar-la.
 
+En este bloc, el recopilador pot proposar un nivell documental per als criteris **Entregable**, sempre amb fitxer, ubicació, fragment literal i confiança. Per al criteri **Mixta**, només proposa l'estat de la documentació i les preguntes que cal contrastar. La proposta és revisable: no tanca la defensa, no acredita autoria i no es convertix directament en nota.
+
 ## PR-Q.3.1.x — Dossier 2, proves i contrast individual
 
 | Criteri | Font de qualificació |

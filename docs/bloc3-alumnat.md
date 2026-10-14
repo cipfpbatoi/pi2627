@@ -30,6 +30,8 @@ La programació establix `PR-Q.3.1.x`, **Anàlisi i disseny de la solució**, am
 
 La rúbrica valora només els apartats, proves i actuacions que es demanen en estos materials; després indica quins CA permet observar cada evidència i amb quin abast. Un contingut no demanat no es penalitzarà com a absent.
 
+El recopilador pot generar una **proposta provisional de nivell** per als huit criteris marcats com a entregables. La proposta ha de citar fragments literals de la versió `dossier-2-v1.0` i serà revisada pel professorat. El criteri mixt d'autoria, fonts, IA i defensa només rep una orientació documental i queda pendent del contrast individual. Esta ajuda no assigna automàticament una nota ni un assoliment de RA.
+
 ## Seqüència
 
 | Sessió | Pregunta principal | Evidència |

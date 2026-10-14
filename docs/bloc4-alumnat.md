@@ -24,6 +24,12 @@ Preparareu el [Pla del projecte](bloc4-pla-projecte.md), amb:
 
 En el repositori definitiu, els tres fitxers que completeu són `docs/03-planificacio/pla-projecte.md`, `pla-proves.md` i `pla-desplegament.md`. La versió acceptada es marcarà com `pla-v1.0`.
 
+## Com s'avaluarà
+
+La programació establix dos instruments: `PR-Q.4.1.x`, **Pla d'execució del projecte**, que observa RA3.a–e i pesa un **10 %** del mòdul; i `DO-Q.4.2.x`, **Planificació i traspàs al desenvolupador**, que observa RA3.f–h i pesa un **5 %**. Consulteu les [rúbriques del pla i del traspàs](bloc4-rubriques.md) abans de començar.
+
+Les rúbriques valoren només els productes i actuacions demanats; després indiquen quins CA permet observar cada evidència. Els procediments de seguiment i control són necessaris per al traspàs i generen retorn formatiu sobre RA4, però no afigen una qualificació nova en este bloc.
+
 ## Seqüència
 
 | Sessió | Pregunta principal | Evidència |

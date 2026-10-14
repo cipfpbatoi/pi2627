@@ -1,6 +1,6 @@
 # Plantilla del Pla del projecte
 
-En el repositori definitiu, esta estructura ja està disponible com a `docs/03-planificacio/pla-projecte.md`. Partiu de la versió immutable del Dossier 2 i enllaceu les issues, fites, diagrames i documents auxiliars.
+En el repositori definitiu, esta estructura ja està disponible com a `docs/03-planificacio/pla-projecte.md`. Partiu de la versió immutable del Dossier 2 i enllaceu les issues, fites, diagrames i documents auxiliars. Consulteu les [rúbriques del pla i del traspàs](bloc4-rubriques.md) per conéixer com es revisarà exactament allò que es demana.
 
 ## Com completar el pla per sessions
 
@@ -221,4 +221,4 @@ Actualitzeu `docs/00-control/fonts-ia.md` i `decisions.md`. Cada membre defensar
 
 ## Abast curricular de l'evidència
 
-El pla pot aportar evidència **suficient dins del bloc** de RA3.a–h si és coherent, executable i atribuïble. Pot aportar evidència de RA4.a–g sobre els procediments definits; la seua aplicació i eficàcia es contrastaran durant el prototip. L'abast real es determina per alumne o alumna i els criteris no aplicables s'han de justificar.
+El pla escrit pot aportar evidència de RA3.a–e per a `PR-Q.4.1.x`; la planificació i el traspàs defensats poden aportar evidència de RA3.f–h per a `DO-Q.4.2.x`. La necessitat o no de finançament reforça RA2.g perquè està demanada en l'apartat 8. Els procediments definits poden aportar evidència formativa de RA4.a–g, que es contrastarà durant el prototip i no forma part de la qualificació del Bloc 4. L'abast real es determina per alumne o alumna i les condicions no aplicables s'han de justificar.

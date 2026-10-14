@@ -187,6 +187,8 @@ Convertir l'avantprojecte rebut d'una altra parella en un pla executable, mesura
 
 El pla haurà de permetre relacionar cada necessitat o requisit amb les tasques, les persones responsables, les evidències esperades, els riscos i les proves corresponents.
 
+La programació distribuïx l'avaluació entre `PR-Q.4.1.x` —pla d'execució, RA3.a–e, 10 %— i `DO-Q.4.2.x` —planificació i traspàs al desenvolupador, RA3.f–h, 5 %—. Les [rúbriques del Bloc 4](bloc4-rubriques.md) partixen dels productes i actuacions demanats i mantenen els procediments de RA4 com a evidència formativa en esta fase.
+
 ### Punt de control
 
 **Una altra persona podria entendre i executar el projecte a partir del pla elaborat?**

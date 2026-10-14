@@ -109,6 +109,22 @@ En el bloc 1, el professorat podrà crear una única issue de **posada en marxa*
 
 Una tasca està `Feta` quan el resultat és accessible, revisat, provat quan pertoque, documentat i relacionat amb l'evidència corresponent.
 
+## Cronologia i seqüència dels commits
+
+Feu un commit quan hi haja un resultat intermedi que una altra persona puga entendre o revisar: una font contrastada, una decisió registrada, una part coherent del pla, una prova executable o una correcció comprovada. No espereu al lliurament per pujar-ho tot en un únic commit i no fragmenteu artificialment un mateix canvi només per augmentar el recompte.
+
+El missatge ha d'explicar **què queda aconseguit o revisat** i, quan siga possible, relacionar la issue:
+
+```text
+Contrasta les necessitats candidates #12
+Justifica l'arquitectura i actualitza els riscos #27
+Registra la prova d'error d'autenticació #41
+```
+
+Eviteu missatges com `canvis`, `update`, `fix` o `treball`, perquè no permeten reconstruir el procés. La seqüència ha de mostrar una evolució comprensible entre investigar, decidir, planificar, executar, provar i revisar. Tornar a un document anterior és normal quan apareix una evidència nova; expliqueu en el missatge què obliga a revisar-lo.
+
+El professorat pot revisar els dies actius, els intervals, els missatges i l'ordre dels commits com a indicis de procés. No hi ha un nombre mínim de commits ni una separació temporal que done punts per si mateixa: la valoració es contrasta amb les issues, les revisions, les evidències individuals, el producte i la defensa.
+
 ## Evidències individuals
 
 Els commits no són una mesura automàtica de l'aportació. Cada membre mantindrà `evidencies/alumnat/nom-cognoms.md` i enllaçarà contribucions verificables:

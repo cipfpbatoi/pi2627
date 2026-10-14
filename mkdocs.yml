@@ -17,6 +17,7 @@ nav:
       - "Plantilla del Dossier 0": "bloc1-dossier0.md"
   - "Bloc 2. Elecció del projecte":
       - "Guia de l'alumnat": "bloc2-alumnat.md"
+      - "Rúbriques de la proposta i la defensa": "bloc2-rubriques.md"
       - "Sessió 1. Investigar necessitats": "bloc2-sessio1.md"
       - "Sessió 2. Comparar, validar i decidir": "bloc2-sessio2.md"
       - "Recurs: validar la proposta": "bloc2-sessio3.md"

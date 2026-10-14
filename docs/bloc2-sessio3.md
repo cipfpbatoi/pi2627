@@ -10,13 +10,7 @@ Preparareu una proposta breu i traçable, la sotmetreu a una revisió crítica i
 
 ## Organització
 
-| Activitat | Temps | Treball |
-| --- | ---: | --- |
-| 1. Completar la proposta | 60 min | Equip |
-| 2. Revisió creuada | 35 min | Equips |
-| 3. Presentació i preguntes | 45 min | Equip i professorat |
-| 4. Decisió i registre d'ajustos | 25 min | Equip i professorat |
-| 5. Eixida individual | 15 min | Individual |
+La proposta i la revisió creuada es completen dins de les dos primeres hores de la [sessió 2](bloc2-sessio2.md), com a part de `PR-Q.2.1.x`. L'última hora es reserva a `DO-Q.2.2.x`: presentacions de cinc minuts, contrast individual i registre docent. El temps concret de preguntes per equip s'ajustarà al nombre d'equips sense superar les sis hores totals del bloc.
 
 ## Activitat 1. Completar la proposta
 
@@ -83,7 +77,7 @@ Actualitzeu la versió del dossier. No esborreu la proposta anterior: el registr
 
 ## Activitat 5. Eixida individual
 
-Cada membre explicarà per escrit:
+Cada membre deixarà per escrit, abans o immediatament després del seu torn:
 
 1. la decisió principal que pot defensar;
 2. una aportació pròpia verificable;
@@ -93,7 +87,7 @@ Cada membre explicarà per escrit:
 
 ## Evidència curricular
 
-El Dossier 1 permet observar RA1.c, RA1.e, RA1.f, RA1.i i, de manera parcial, RA2.a, RA2.b, RA2.c, RA2.d, RA2.e i RA2.i. La decisió d'acceptar la proposta no significa que tots estos criteris estiguen assolits completament.
+El Dossier 1 i les evidències associades permeten valorar **RA1.a–f** mitjançant `PR-Q.2.1.x`. La presentació, les preguntes i les respostes individuals permeten valorar **RA1.g–i** mitjançant `DO-Q.2.2.x`. Apliqueu les [rúbriques del bloc](bloc2-rubriques.md): la decisió d'acceptar la proposta no significa que tots els criteris estiguen assolits.
 
 ## Lliurament del bloc
 

@@ -10,7 +10,7 @@ Treballareu en `docs/01-proposta/dossier-1.md`. En acabar la sessió han de qued
 
 - **1. Identificació i control de versions:** nom provisional, membres, data, espai de treball i versió `0.1`.
 - **2. Origen de les propostes:** banc inicial de situacions i selecció de dues a quatre necessitats candidates, incloent-hi els motius per investigar-les o descartar-les.
-- **3. Necessitats investigades:** una fitxa per candidata amb context, persones afectades, causes, conseqüències, relació amb DAW, evidències i limitacions.
+- **3. Necessitats investigades i context sectorial:** una fitxa per candidata amb context, persones afectades, causes, conseqüències, relació amb DAW, evidències i limitacions; tipus d'empreses o organitzacions relacionades, estructura i funcions rellevants, amb fonts.
 - **4. Parts interessades i validació:** persones o col·lectius afectats, interessos, accés possible i manera de participar en la validació.
 - **5. Fonts i mètodes:** preguntes, fonts o mètodes, resultats, fiabilitat o limitacions i decisions afectades.
 - **10. Organització i autoria:** tasques, responsables, col·laboracions i evidències de la sessió.
@@ -81,6 +81,8 @@ Heu d'incloure, com a mínim:
 - un contrast que evite basar la necessitat en una única opinió;
 - una limitació de la investigació.
 
+Per al context sectorial, no feu un directori d'empreses. Seleccioneu exemples representatius i classifiqueu-los segons què oferixen i com s'organitzen. Descriviu només les àrees o funcions que ajuden a entendre la necessitat, la validació o l'encaix del projecte.
+
 !!! warning "Contacte amb persones externes"
 
     No envieu formularis massius ni contacteu una organització en nom del centre sense acordar-ho abans amb el professorat. No incorporeu dades personals innecessàries al dossier.
@@ -100,7 +102,7 @@ Cada membre afegirà una nota individual: quina candidata considera més promete
 
 ## Evidència curricular
 
-Esta sessió aporta evidència **parcial** de RA1.c, RA1.e, RA1.f i RA2.a. Encara no demostra per si sola que la proposta siga viable ni que els criteris estiguen assolits completament.
+Esta sessió prepara evidències de **RA1.a–c** per a `PR-Q.2.1.x`. També pot produir indicis formatius útils per a RA2, que es qualificaran en els instruments previstos en blocs posteriors. Cap CA queda assolit per completar una taula: cal contrastar-ne la qualitat i l'explicació individual.
 
 ## Lliurament de la sessió
 

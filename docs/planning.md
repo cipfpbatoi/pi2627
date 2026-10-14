@@ -85,12 +85,14 @@ Passar d'una idea inicial a una proposta fonamentada en una necessitat real o ve
 ### Activitats
 
 1. Explorar problemes, necessitats o oportunitats d'un sector, una organització o un col·lectiu.
-2. Identificar persones usuàries i altres parts interessades.
-3. Recollir i contrastar informació.
-4. Generar diferents alternatives de solució.
-5. Comparar-les segons el seu valor, complexitat, riscos i viabilitat.
-6. Seleccionar una proposta i delimitar-ne l'abast inicial.
-7. Presentar-la a l'equip educatiu i incorporar les modificacions necessàries.
+2. Classificar organitzacions de referència i caracteritzar-ne les funcions rellevants.
+3. Identificar persones usuàries i altres parts interessades.
+4. Recollir i contrastar informació.
+5. Generar diferents alternatives de solució i valorar l'oportunitat previsible.
+6. Comparar-les segons el seu valor, complexitat, riscos i viabilitat.
+7. Seleccionar un tipus de projecte i delimitar-ne les característiques i l'abast inicial.
+8. Preparar el guió de treball i el contrast oral d'obligacions i possibles ajudes.
+9. Presentar la proposta a l'equip educatiu i incorporar les modificacions necessàries.
 
 ### Condicions mínimes de la proposta
 
@@ -109,7 +111,11 @@ Passar d'una idea inicial a una proposta fonamentada en una necessitat real o ve
 - fonts consultades;
 - comparació d'alternatives;
 - proposta breu de projecte;
+- context sectorial, oportunitat i característiques requerides;
+- base documentada sobre obligacions, possibles ajudes i guió de treball;
 - registre de l'acceptació i dels ajustos sol·licitats.
+
+Els instruments qualificables són `PR-Q.2.1.x` per a RA1.a–f i `DO-Q.2.2.x` per a RA1.g–i. Consulteu les [rúbriques del Bloc 2](bloc2-rubriques.md). Les observacions de RA2 en esta fase tenen caràcter formatiu i es reprendran en els instruments posteriors.
 
 ### Punt de control
 

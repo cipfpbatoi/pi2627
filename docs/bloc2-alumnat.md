@@ -31,6 +31,8 @@ La programació establix dos instruments en este bloc:
 
 Consulteu les [rúbriques de la proposta i la defensa](bloc2-rubriques.md) abans de començar. Les rúbriques valoren només els apartats i actuacions que es demanen en estos materials; després indiquen quins CA es poden observar realment. No es penalitzarà l'absència d'un contingut que no s'haja demanat.
 
+El recopilador pot generar una **proposta provisional de nivell** per als huit criteris documentals del Dossier 1, sempre amb cites literals de la versió `dossier-1-v1.0`. Els sis criteris de presentació i defensa queden pendents de l'observació docent: el sistema només prepara el focus i possibles preguntes. Esta ajuda no assigna automàticament una nota, autoria ni assoliment de RA.
+
 ## Seqüència
 
 | Sessió | Pregunta principal | Evidència |

@@ -33,6 +33,8 @@ Un contingut que **no estava demanat** no rep `N` ni cap altre nivell. Simplemen
 
 Una resposta oral no substituïx un producte que s'havia d'entregar. Tampoc s'assigna `N` a una actuació o defensa abans que la persona haja tingut l'oportunitat de realitzar-la.
 
+En este bloc, el recopilador pot proposar un nivell documental per als huit criteris **Entregable**, sempre amb fitxer, ubicació, fragment literal i confiança. Els sis criteris d'**Actuació o defensa** no reben cap nivell automàtic: es mostren com a pendents i només poden incloure una guia per a l'observació docent. La proposta no acredita autoria, no tanca RA i no es convertix directament en nota.
+
 ## PR-Q.2.1.x — Dossier 1
 
 | Criteri | Font de qualificació |

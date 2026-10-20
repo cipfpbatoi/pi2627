@@ -14,6 +14,8 @@ Obriu el fitxer `docs/01-proposta/dossier-1.md` del repositori de l'equip i revi
 
 Tingueu també oberts els registres `evidencies/alumnat/nom-cognoms.md`. Cada membre hi haurà d'escriure la seua resposta individual i enllaçar-la des de l'apartat 14 del dossier.
 
+Si necessiteu veure com s'aplica el procés a un cas concret, consulteu l'[exemple orientatiu del Bloc 2](bloc2-exemple.md). Les dades són fictícies: observeu el raonament i no copieu la proposta ni les evidències.
+
 ## Organització
 
 | Activitat | Temps | Treball | Resultat que ha de quedar registrat |

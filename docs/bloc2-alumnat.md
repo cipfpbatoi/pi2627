@@ -42,6 +42,8 @@ El recopilador pot generar una **proposta provisional de nivell** per als huit c
 
 El document antic de [validació de la proposta](bloc2-sessio3.md) queda com a recurs per preparar la revisió final, no com una tercera sessió programada.
 
+L'[exemple orientatiu del Bloc 2](bloc2-exemple.md) mostra en un cas fictici com revisar evidències, comparar alternatives, fer una prova de sensibilitat i delimitar el prototip. Servix per entendre el procés, no com a proposta o investigació per copiar.
+
 ## Decisió de final de bloc
 
 La revisió pot donar lloc a tres resultats:

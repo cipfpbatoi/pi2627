@@ -91,4 +91,8 @@ El Dossier 1 permet observar principalment **RA1.c, RA1.e i RA1.f**, a més d'in
 
 ## Lliurament del bloc
 
-Lliureu el [Dossier 1](bloc2-dossier1.md), les evidències individuals i el registre de la decisió docent. Si el resultat és «acceptada amb ajustos» o «reformular», lliureu també la versió actualitzada en la data acordada.
+Lliureu el [Dossier 1](bloc2-dossier1.md), les evidències individuals i el registre de la decisió docent. Exporteu la presentació a PDF i incorporeu-la al repositori amb esta ruta i este nom exactes:
+
+`docs/01-proposta/presentacio-bloc-2.pdf`
+
+Comproveu que el PDF s'obri correctament des del repositori i que queda inclòs en la versió `dossier-1-v1.0`. Si el resultat és «acceptada amb ajustos» o «reformular», lliureu també la versió actualitzada en la data acordada.

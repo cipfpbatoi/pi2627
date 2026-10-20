@@ -20,7 +20,7 @@ Preparareu un [Dossier 1](bloc2-dossier1.md) que permeta a l'equip educatiu deci
 - oferix prou treball compartit i evidències individuals;
 - identifica incerteses, riscos i qüestions pendents sense ocultar-los.
 
-En el repositori definitiu, completeu el mateix document a `docs/01-proposta/dossier-1.md` i marqueu la versió revisada com `dossier-1-v1.0`.
+En el repositori definitiu, completeu el mateix document a `docs/01-proposta/dossier-1.md`. Exporteu també la presentació a PDF i guardeu-la exactament com `docs/01-proposta/presentacio-bloc-2.pdf`. El PDF ha d'estar incorporat al repositori abans de marcar la versió revisada com `dossier-1-v1.0`.
 
 ## Com s'avaluarà
 

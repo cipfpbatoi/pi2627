@@ -37,15 +37,13 @@ No cal aplicar encara una identitat visual definitiva.
 
 ## Provar i registrar
 
-| Participant o cas representatiu | Tasca | Observació, sense interpretar | Resultat | Problema | Canvi o decisió |
-| --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |
+Completeu directament la taula de l'**apartat 8** del dossier amb `Tasca provada`, `Participant/cas`, `Observació`, `Problema o interpretació`, `Resultat` i `Canvi o decisió`. Mantingueu separada l'observació literal de la interpretació de l'equip.
 
 Demaneu autorització abans d'enregistrar. Conserveu només les dades necessàries i separeu les observacions de les conclusions.
 
 ## Tancament individual
 
-Cada membre identificarà una decisió d'interfície que ha canviat, l'evidència que ha motivat el canvi i una qüestió encara pendent.
+Cada membre identificarà una decisió d'interfície que ha canviat, l'evidència que ha motivat el canvi i una qüestió encara pendent. Registreu l'aportació en l'apartat 13 i actualitzeu la cadena afectada en l'apartat 12.
 
 ## Evidència curricular
 

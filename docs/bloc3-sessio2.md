@@ -22,27 +22,21 @@ En `docs/02-avantprojecte/dossier-2.md`, completeu els apartats **6–7 i 9–10
 
 Representeu el recorregut principal amb casos d'ús, històries d'usuari, diagrama d'activitats o una combinació justificada. El model ha de mostrar entrades, decisions, resultats, errors i actors externs.
 
-| Pas | Actor | Entrada | Regla o decisió | Resultat | Excepció |
-| --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |
+Enllaceu el model des de l'**apartat 6** del dossier i descriviu allí el recorregut principal, els alternatius i els errors. En la taula canònica d'eixe apartat, registreu cada regla amb `Regla o decisió funcional`, `Origen`, `Exemple/cas límit` i `Requisit afectat`.
 
-Registreu les regles de negoci que no es poden deduir només de les pantalles. Per cada regla, indiqueu l'origen i un exemple que la pose a prova.
+No copieu el recorregut a una altra taula dins del dossier. Si useu una taula de passos com a format del model enllaçat, ha de mostrar actor, entrada, decisió, resultat i excepció, però l'evidència canònica continua sent l'enllaç i el registre de regles de l'apartat 6.
 
 ## Informació i dades
 
-Si el projecte conserva dades, identifiqueu entitats o documents, relacions, obligatorietat, cicle de vida i responsable. Si no les conserva, expliqueu el flux i la dependència de fonts externes.
-
-| Informació | Finalitat | Origen | Conservació o eliminació | Accés | Qualitat o risc |
-| --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |
+Si el projecte conserva dades, identifiqueu entitats o documents, relacions, obligatorietat, cicle de vida i responsable. Si no les conserva, expliqueu el flux i la dependència de fonts externes. Enllaceu el model i completeu la taula de l'**apartat 7** amb els camps, en este ordre: `Dada o entitat`, `Finalitat`, `Origen`, `Accés`, `Conservació` i `Risc/qualitat`.
 
 No useu dades personals reals per omplir exemples. Apliqueu minimització: si una dada no és necessària per al recorregut o una obligació aplicable, no la recolliu.
 
 ## Contrast
 
-Proveu el model amb almenys tres casos: normal, límit i error. Actualitzeu requisits, exclusions o hipòtesis quan aparega una incoherència.
+Proveu el model amb almenys tres casos: normal, límit i error. Registreu-los com a exemples o casos límit en l'apartat 6 o en l'evidència enllaçada. Actualitzeu requisits, exclusions o hipòtesis quan aparega una incoherència.
 
-Cada membre defensarà una regla, una decisió de dades o una excepció i deixarà una aportació verificable en l'historial.
+Cada membre defensarà una regla, una decisió de dades o una excepció i deixarà una aportació verificable en l'historial i en l'apartat 13.
 
 ## Evidència curricular
 

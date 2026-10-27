@@ -22,7 +22,7 @@ Preparareu el [Dossier 2. Avantprojecte](bloc3-dossier2.md), que reunirà:
 - viabilitat tècnica, temporal, econòmica, legal i operativa;
 - riscos i proves primerenques per reduir la incertesa.
 
-En el repositori definitiu, completeu el mateix document a `docs/02-avantprojecte/dossier-2.md` i marqueu la versió revisada com `dossier-2-v1.0`.
+En el repositori definitiu, completeu el mateix document a `docs/02-avantprojecte/dossier-2.md` i marqueu la versió revisada com `dossier-2-v1.0`. Este fitxer és el registre canònic del bloc: les sessions vos guien per emplenar-lo, però no heu de crear versions paral·leles de les seues taules.
 
 ## Com s'avaluarà
 
@@ -52,4 +52,4 @@ Qualsevol afirmació important s'ha d'acompanyar d'una font, una evidència o la
 
 Al final, l'equip educatiu comprovarà si la solució és coherent amb la necessitat i si es pot planificar amb els recursos disponibles. El resultat podrà ser **apta per planificar**, **apta amb ajustos** o **revisar el disseny**.
 
-Quan siga apta, fareu el primer [traspàs formal](forma-treball.md): entrega versionada, revisió de la parella receptora, consultes registrades i acceptació de la nova custòdia.
+Quan siga apta, fareu el primer [traspàs formal](forma-treball.md): entrega versionada, revisió de la parella receptora, consultes registrades i acceptació de la nova custòdia. L'acta única es mantindrà en `traspassos/01-avantprojecte-a-planificacio.md`; el dossier només n'inclourà la referència i l'estat.

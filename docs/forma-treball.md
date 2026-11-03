@@ -33,6 +33,8 @@ Bloc 5: prototip d'un tercer projecte
 Es produïx **al final del bloc 3**, després de la sessió 3. Abans del canvi de custòdia:
 
 - el Dossier 2 ha d'estar revisat;
+- el retorn docent s'ha de vincular a un hash candidat i cada `P` o `N` de la graella ha de quedar registrat com una esmena `B3-xx`;
+- no ha de quedar cap `N` bloquejant i les esmenes han d'estar verificades o acceptades explícitament com a reserva;
 - la decisió docent ha de ser «apta per planificar» o «apta amb ajustos»;
 - s'ha d'identificar la versió immutable `dossier-2-v1.0`;
 - s'ha de completar l'acta `traspassos/01-avantprojecte-a-planificacio.md`;

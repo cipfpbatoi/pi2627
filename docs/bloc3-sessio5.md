@@ -38,11 +38,11 @@ En cinc minuts, expliqueu:
 4. risc principal i evidència de viabilitat;
 5. ajust necessari abans de planificar.
 
-La decisió docent serà **apta per planificar**, **apta amb ajustos** o **revisar el disseny**. Registreu-la en l'**apartat 14**; cada condició tindrà responsable, evidència i data.
+La decisió docent serà **apta per planificar**, **apta amb ajustos** o **revisar el disseny**. Registreu-la en l'**apartat 14**. Cada `P` o `N` de la graella tindrà un identificador `B3-xx`, indicarà si bloqueja el pas i conservarà responsable, data, evidència i verificació docent.
 
 ## Preparar el traspàs
 
-Tanqueu una versió identificable del Dossier 2 i completeu l'acta canònica `traspassos/01-avantprojecte-a-planificacio.md` seguint el [protocol de traspàs](forma-treball.md). Separeu les decisions confirmades, les hipòtesis i riscos pendents, els materials accessibles i les preguntes obertes. En l'apartat 14 del dossier, enllaceu esta acta i indiqueu-ne el commit, l'estat i les reserves; no mantingueu dues actes diferents.
+Identifiqueu primer amb el hash complet la versió candidata del Dossier 2. Després de resoldre les esmenes bloquejants i obtindre la verificació docent, creeu `dossier-2-v1.0` i completeu l'acta canònica `traspassos/01-avantprojecte-a-planificacio.md` seguint el [protocol de traspàs](forma-treball.md). Separeu les decisions confirmades, les hipòtesis i riscos pendents, els materials accessibles i les preguntes obertes. En l'apartat 14 del dossier, enllaceu esta acta i indiqueu-ne el commit, l'estat i les reserves; no mantingueu dues actes diferents.
 
 La nova parella podrà acceptar, acceptar amb reserves o retornar temporalment el dossier si falta un element imprescindible. Després de l'acceptació, passarà a ser-ne custòdia per a la planificació; vosaltres en conserveu l'autoria.
 

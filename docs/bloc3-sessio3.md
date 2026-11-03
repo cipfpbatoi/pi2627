@@ -6,7 +6,7 @@ Creareu un prototip de baixa fidelitat i el contrastareu per detectar problemes 
 
 ## Què heu d'emplenar hui
 
-En `docs/02-avantprojecte/dossier-2.md`, completeu l'apartat **8** i, amb la guia de viabilitat integrada en esta sessió, l'**11**. Completeu els apartats **12–15** i reviseu qualsevol apartat anterior afectat per la prova o les decisions. La versió `dossier-2-v1.0` només es crea després de la revisió, la decisió docent i el traspàs.
+En `docs/02-avantprojecte/dossier-2.md`, completeu l'apartat **8** i, amb la guia de viabilitat integrada en esta sessió, l'**11**. Completeu els apartats **12–15** i reviseu qualsevol apartat anterior afectat per la prova o les decisions. Entregueu el hash complet del commit candidat; la versió `dossier-2-v1.0` només es crea després de superar la porta d'acceptació docent i abans del traspàs a la parella receptora.
 
 ## Organització
 
@@ -44,6 +44,12 @@ Demaneu autorització abans d'enregistrar. Conserveu només les dades necessàri
 ## Tancament individual
 
 Cada membre identificarà una decisió d'interfície que ha canviat, l'evidència que ha motivat el canvi i una qüestió encara pendent. Registreu l'aportació en l'apartat 13 i actualitzeu la cadena afectada en l'apartat 12.
+
+## Tancar el retorn docent
+
+Traslladeu cada `P` o `N` de la graella a l'apartat 14 amb un identificador `B3-xx`, el caràcter bloquejant o no bloquejant, l'esmena, la persona responsable i la data. Obriu una issue `[B3] Tancament del retorn docent de l'avantprojecte` i useu-la per enllaçar els commits o productes que resolen cada fila. Quan una esmena estiga preparada, marqueu-la com a **preparada per revisar**; no la doneu per verificada vosaltres mateixos.
+
+El professorat revisarà només les files pendents i registrarà si queden verificades, acceptades com a reserva o no resoltes. No creeu `dossier-2-v1.0` mentre quede un `N` bloquejant o una esmena sense evidència comprovable.
 
 ## Evidència curricular
 

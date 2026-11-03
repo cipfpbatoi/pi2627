@@ -22,7 +22,7 @@ Preparareu el [Dossier 2. Avantprojecte](bloc3-dossier2.md), que reunirà:
 - viabilitat tècnica, temporal, econòmica, legal i operativa;
 - riscos i proves primerenques per reduir la incertesa.
 
-En el repositori definitiu, completeu el mateix document a `docs/02-avantprojecte/dossier-2.md` i marqueu la versió revisada com `dossier-2-v1.0`. Este fitxer és el registre canònic del bloc: les sessions vos guien per emplenar-lo, però no heu de crear versions paral·leles de les seues taules.
+En el repositori definitiu, completeu el mateix document a `docs/02-avantprojecte/dossier-2.md`. Entregueu primer el **hash complet del commit candidat** sobre el qual rebreu el retorn docent. Creeu l'etiqueta immutable `dossier-2-v1.0` només després de resoldre o deixar acceptades com a reserva les condicions de la graella d'acceptació. Este fitxer és el registre canònic del bloc: les sessions vos guien per emplenar-lo, però no heu de crear versions paral·leles de les seues taules.
 
 ## Com s'avaluarà
 
@@ -51,5 +51,13 @@ Qualsevol afirmació important s'ha d'acompanyar d'una font, una evidència o la
 ## Punt de control
 
 Al final, l'equip educatiu comprovarà si la solució és coherent amb la necessitat i si es pot planificar amb els recursos disponibles. El resultat podrà ser **apta per planificar**, **apta amb ajustos** o **revisar el disseny**.
+
+El retorn de la graella es tanca en l'apartat 14 del dossier. Cada `P` o `N` tindrà un identificador `B3-xx`, indicarà si bloqueja el pas i es convertirà en una esmena amb responsable, data i evidència. Marcareu l'esmena com a **preparada per revisar** i enllaçareu el commit o producte que la resol; només el professorat podrà marcar-la com a **verificada**, **acceptada com a reserva** o **no resolta**.
+
+Per facilitar el seguiment, l'equip mantindrà una issue titulada `[B3] Tancament del retorn docent de l'avantprojecte`, amb una casella per cada `B3-xx` i enllaç a l'evidència. La issue és operativa; el registre canònic de la decisió i les esmenes continua sent l'apartat 14.
+
+- **Apta per planificar:** no queda cap `N` bloquejant i totes les esmenes estan verificades.
+- **Apta amb ajustos:** no queda cap `N` bloquejant i qualsevol pendent no bloquejant està acceptat com a reserva, amb responsable, data i evidència prevista.
+- **Revisar el disseny:** queda algun `N` bloquejant, una esmena no està resolta o falta evidència per comprovar-la.
 
 Quan siga apta, fareu el primer [traspàs formal](forma-treball.md): entrega versionada, revisió de la parella receptora, consultes registrades i acceptació de la nova custòdia. L'acta única es mantindrà en `traspassos/01-avantprojecte-a-planificacio.md`; el dossier només n'inclourà la referència i l'estat.

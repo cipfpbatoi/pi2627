@@ -37,6 +37,7 @@ Consulta la [planificació completa](planning.md) per conéixer les evidències 
 - [Bloc 1. Reactivació: del problema al pla](bloc1-alumnat.md)
 - [Bloc 2. Elecció i validació del projecte](bloc2-alumnat.md)
 - [Bloc 3. Disseny i viabilitat](bloc3-alumnat.md)
+- [Grup A. Passos per a l'aprovació del Dossier 2](grup-a-passos-aprovacio-dossier-2.md)
 - [Bloc 4. Planificació de l'execució](bloc4-alumnat.md)
 - [Bloc 5. Desenvolupament i validació del prototip](bloc5-alumnat.md)
 - [Bloc 6. Tancament i defensa](bloc6-alumnat.md)

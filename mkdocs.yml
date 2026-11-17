@@ -25,6 +25,7 @@ nav:
       - "Plantilla del Dossier 1": "bloc2-dossier1.md"
   - "Bloc 3. Disseny i viabilitat":
       - "Guia de l'alumnat": "bloc3-alumnat.md"
+      - "Grup A. Passos per a l'aprovació": "grup-a-passos-aprovacio-dossier-2.md"
       - "Rúbrica de l'avantprojecte": "bloc3-rubriques.md"
       - "Sessió 1. Objectius i requisits": "bloc3-sessio1.md"
       - "Sessió 2. Disseny, dades i risc tècnic": "bloc3-sessio2.md"

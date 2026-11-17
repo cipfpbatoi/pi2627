@@ -119,7 +119,7 @@ No creeu l'etiqueta `dossier-2-v1.0` abans que el professorat accepte un hash co
 
 1. **Reviseu la checklist final.** Desmarqueu qualsevol afirmació que no tinga una evidència localitzable. Una casella marcada no tanca una esmena per si mateixa.
 2. **Tanqueu B3-01 amb una revisió del recorregut.** Recorreu els dibuixos de «registrar una subscripció i entendre el cost mensual», comproveu passos, dades, estats, errors i missatges, i registreu mancances i canvis. No cal cap participant extern.
-3. **Definiu la validació futura de B3-04.** Sense programar ara, descriviu una tasca prevista, el correu esperat, un cas de fallada, l'evidència que es conservarà i l'alternativa si el proveïdor no ho permet.
+3. **Definiu la validació futura de B3-04.** Sense programar ara, descriviu una tasca prevista, el correu esperat, un cas de fallada, l'evidència que es conservarà i l'alternativa si el proveïdor no ho permet. Registreu els components i les fallades en l'apartat 9, la decisió D-05 en el 10, el cas complet en la fila «Operació i desplegament» de l'11, la cadena en el 12 i la reserva pendent en la fila B3-04 del 14.
 4. **Registreu B3-04 com a reserva tècnica pendent.** Indiqueu el bloc d'execució i l'impacte sobre infraestructura, cost i operació. La falta de codi no bloqueja este tancament.
 5. **Reviseu Frankfurter.** Confirmeu valor, condicions d'ús, límits i resposta quan el servici no està disponible.
 6. **Creeu les evidències individuals.** Javi i Júlia han d'enllaçar una aportació pròpia i poder explicar una decisió global.

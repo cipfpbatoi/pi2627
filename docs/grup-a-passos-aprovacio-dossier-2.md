@@ -58,10 +58,10 @@ No creeu l'etiqueta `dossier-2-v1.0` abans que el professorat accepte un hash co
 
 ### Passos que heu de seguir
 
-1. **Decidiu què ocorre amb Google Calendar.**
-   - Si forma part de la línia base, feu una prova tècnica reduïda amb una franja ocupada, una lliure i una resposta d'error o temps d'espera esgotat.
-   - Si no podeu comprovar-la, retireu-la del recorregut imprescindible i deixeu-la com a ampliació o alternativa futura.
-2. **Registreu el resultat de la decisió.** Actualitzeu requisits, arquitectura, alternatives, riscos i traçabilitat perquè tots expliquen la mateixa opció.
+1. **Decidiu què ocorre amb Google Calendar, sense programar encara la integració.**
+   - Si forma part de la línia base, deixeu planificada per a un bloc posterior la validació d'una franja ocupada, una lliure i una resposta d'error o temps d'espera esgotat. Definiu també una alternativa segura per continuar el préstec si Calendar no està disponible.
+   - Si no és imprescindible, deixeu-lo com a ampliació futura i expliqueu quina alternativa s'utilitzarà mentrestant.
+2. **Registreu la decisió i la validació futura.** Actualitzeu requisits, arquitectura, alternatives, riscos i traçabilitat perquè tots expliquen la mateixa opció. No creeu credencials, no configureu OAuth i no programeu consultes a l'API en esta fase.
 3. **Reviseu el contingut preparat amb ajuda d'IA.** En l'apartat 13 i en `fonts-ia.md`, indiqueu què heu comprovat, què heu corregit i què continua pendent.
 4. **Comproveu la maqueta de pantalles.** Feu una prova guiada curta del préstec, el solapament i la devolució amb avaria i registreu els problemes detectats i els canvis decidits.
 5. **Actualitzeu B3-01–B3-05.** Cada fila ha de tindre evidència, responsable, estat fidel i, quan pertoque, reserva.
@@ -70,8 +70,8 @@ No creeu l'etiqueta `dossier-2-v1.0` abans que el professorat accepte un hash co
 
 ### Es podrà aprovar quan
 
-- el recorregut principal no depenga d'una integració no comprovada;
-- B3-05 deixe d'aparéixer com a bloqueig sense resoldre;
+- el paper de Calendar, la validació futura i l'alternativa segura estiguen explicats;
+- B3-05 reflectisca la reserva pendent sense exigir programació anticipada ni aparéixer com a bloqueig d'este bloc;
 - la revisió humana del contingut i les evidències individuals siguen localitzables;
 - la checklist final coincidisca amb les proves realment fetes.
 

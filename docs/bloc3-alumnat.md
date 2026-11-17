@@ -6,7 +6,7 @@ En este bloc convertireu el Dossier 1 en un **avantprojecte**. Dissenyar no és 
 
 Este és l'últim bloc en què tindreu la custòdia de la proposta que heu creat. Una altra parella rebrà el Dossier 2 per planificar-la; per això ha de ser comprensible, verificable i explícit sobre les qüestions pendents.
 
-Disposareu de **9 hores, en tres sessions**. Les decisions continuen sent revisables; cada canvi haurà de conservar la relació amb la necessitat i quedar registrat. No espereu al bloc 5 per comprovar el risc més important: fareu una prova tècnica reduïda, reproduïble i vinculada a una decisió.
+Disposareu de **9 hores, en tres sessions**. Les decisions continuen sent revisables; cada canvi haurà de conservar la relació amb la necessitat i quedar registrat. En este bloc no programareu la solució ni executareu proves tècniques: identificareu el risc principal i definireu un cas de validació futura amb dades inicials, acció, resultat esperat, evidència i alternativa. L'execució començarà en el bloc 5.
 
 ## Resultat del bloc
 
@@ -20,7 +20,7 @@ Preparareu el [Dossier 2. Avantprojecte](bloc3-dossier2.md), que reunirà:
 - proposta d'interfície revisada amb criteris d'usabilitat i accessibilitat;
 - alternatives tecnològiques i decisions justificades;
 - viabilitat tècnica, temporal, econòmica, legal i operativa;
-- riscos i proves primerenques per reduir la incertesa.
+- riscos i casos de validació futura per reduir la incertesa.
 
 En el repositori definitiu, completeu el mateix document a `docs/02-avantprojecte/dossier-2.md`. Entregueu primer el **hash complet del commit candidat** sobre el qual rebreu el retorn docent. Creeu l'etiqueta immutable `dossier-2-v1.0` només després de resoldre o deixar acceptades com a reserva les condicions de la graella d'acceptació. Este fitxer és el registre canònic del bloc: les sessions vos guien per emplenar-lo, però no heu de crear versions paral·leles de les seues taules.
 
@@ -37,8 +37,8 @@ El recopilador pot generar una **proposta provisional de nivell** per als huit c
 | Sessió | Pregunta principal | Evidència |
 | --- | --- | --- |
 | [1. Objectius i requisits](bloc3-sessio1.md) | Què ha de canviar i com sabrem que funciona? | Objectius, criteris, requisits i abast prioritzat |
-| [2. Disseny, dades i risc tècnic](bloc3-sessio2.md) | Quin recorregut ha de sostindre la solució i què hem de comprovar ja? | Fluxos, dades, arquitectura inicial i prova de risc |
-| [3. Interfície, viabilitat i traspàs](bloc3-sessio3.md) | Podran les persones usuàries completar el recorregut i és assumible? | Prototip de baixa fidelitat, validació, ajustos i Dossier 2 |
+| [2. Disseny, dades i risc tècnic](bloc3-sessio2.md) | Quin recorregut ha de sostindre la solució i què haurem de comprovar? | Fluxos, dades, arquitectura inicial i cas de validació futura |
+| [3. Interfície, viabilitat i traspàs](bloc3-sessio3.md) | El recorregut està complet en les pantalles i és assumible? | Maqueta de baixa fidelitat, revisió del recorregut, ajustos i Dossier 2 |
 
 Les guies d'[arquitectura](bloc3-sessio4.md) i [viabilitat](bloc3-sessio5.md) són recursos integrats en les sessions 2 i 3; no són sessions addicionals.
 

@@ -23,11 +23,10 @@ En esta fase **no heu de construir el producte final**. Quan les instruccions de
 | Terme | Què significa | Què no significa |
 | --- | --- | --- |
 | **Maqueta de baixa fidelitat** | Dibuix o conjunt de pantalles senzilles que mostren la informació, la navegació, els estats i els errors | Una interfície acabada, amb disseny visual definitiu i tota la programació |
-| **Prova guiada de la maqueta** | Una persona intenta seguir una tasca sobre les pantalles i l'equip registra dubtes, errors i canvis | Una validació completa del producte o del mercat |
-| **Prova tècnica reduïda** | Codi, configuració o consulta mínima per comprovar un risc concret amb entrada, procediment i resultat | Construir l'aplicació completa o deixar preparada tota la funcionalitat final |
-| **Demostració parcial** | Evidència menuda i reproduïble d'un únic comportament important | La versió funcional que es desenvoluparà en les fases posteriors |
+| **Revisió del recorregut sobre la maqueta** | Una persona de l'equip recorre els dibuixos i una altra comprova si tots els passos, estats, errors i missatges estan representats; es registren mancances i canvis | Una prova amb persones usuàries, una validació del mercat o una pantalla programada |
+| **Cas de validació tècnica futura** | Descripció del risc que es comprovarà més avant: dades inicials, acció, resultat esperat, evidència que caldrà conservar i alternativa si falla | Executar ara codi, scripts, consultes, integracions o configuracions |
 
-Per exemple, comprovar dos peticions simultànies no obliga a crear tota l'aplicació de reserves. Es pot preparar una prova tècnica reduïda amb una taula mínima, dos peticions i el resultat final de la base de dades.
+En este tancament no heu de programar res. Per exemple, davant de dos peticions simultànies, ara definiu l'estat inicial, les dos accions, el resultat esperat —una acceptada i una rebutjada—, el risc i la futura evidència. L'execució es farà en un bloc posterior.
 
 ## Sobre el context del projecte
 
@@ -63,7 +62,7 @@ No creeu l'etiqueta `dossier-2-v1.0` abans que el professorat accepte un hash co
    - Si no és imprescindible, deixeu-lo com a ampliació futura i expliqueu quina alternativa s'utilitzarà mentrestant.
 2. **Registreu la decisió i la validació futura.** Actualitzeu requisits, arquitectura, alternatives, riscos i traçabilitat perquè tots expliquen la mateixa opció. No creeu credencials, no configureu OAuth i no programeu consultes a l'API en esta fase.
 3. **Reviseu el contingut preparat amb ajuda d'IA.** En l'apartat 13 i en `fonts-ia.md`, indiqueu què heu comprovat, què heu corregit i què continua pendent.
-4. **Comproveu la maqueta de pantalles.** Feu una prova guiada curta del préstec, el solapament i la devolució amb avaria i registreu els problemes detectats i els canvis decidits.
+4. **Reviseu els recorreguts sobre la maqueta.** Recorreu els dibuixos del préstec, el solapament i la devolució amb avaria; comproveu passos, estats, errors i missatges, i registreu les mancances i els canvis. No cal cap participant extern.
 5. **Actualitzeu B3-01–B3-05.** Cada fila ha de tindre evidència, responsable, estat fidel i, quan pertoque, reserva.
 6. **Completeu les aportacions individuals.** Iker i Àngel han d'enllaçar i poder explicar una decisió, una objecció o una prova diferent.
 7. **Prepareu l'acta i el commit candidat.** Incloeu riscos coneguts, recursos accessibles i qualsevol ajust que haurà de rebre la parella planificadora.
@@ -84,7 +83,7 @@ No creeu l'etiqueta `dossier-2-v1.0` abans que el professorat accepte un hash co
 3. **Resoleu la contradicció de les dades.** Si hi ha comandes, expliqueu per què es recullen nom i telèfon, qui hi accedix, durant quant de temps i com s'eliminen. No afirmeu alhora que no hi ha formulari ni dades de clientela.
 4. **Justifiqueu l'aplicació pròpia.** Compareu-la amb una carta PDF, una pàgina senzilla o un menú QR segons valor, actualització, errors, cost i manteniment.
 5. **Definiu com es comprovarien ingredients i al·lèrgens.** Podeu treballar amb un menú, etiquetes d'exemple o documentació disponible. Registreu autoria, límits, actualització prevista i resposta segura quan la informació no estiga confirmada.
-6. **Reviseu la maqueta de pantalles.** Mostreu carta, comanda, confirmació, errors i accés del personal. Feu una prova guiada amb una tasca concreta i registreu els canvis.
+6. **Reviseu els recorreguts sobre la maqueta.** Mostreu carta, comanda, confirmació, errors i accés del personal. Recorreu els dibuixos amb una tasca concreta i registreu pantalles o missatges que falten, contradiccions i canvis. No cal cap participant extern.
 7. **Creeu les evidències individuals.** Viktoriia, Pau i Rafa necessiten un fitxer propi i una aportació verificable.
 8. **Netegeu l'apartat 14.** Elimineu duplicacions entre instruccions i respostes, actualitzeu B3-01–B3-05 i completeu l'acta emissora.
 
@@ -100,7 +99,7 @@ No creeu l'etiqueta `dossier-2-v1.0` abans que el professorat accepte un hash co
 ### Passos que heu de seguir
 
 1. **Completeu la maqueta de baixa fidelitat.** Ha d'incloure consulta d'existències, registre d'un moviment, preparació d'una llista i almenys un error important.
-2. **Feu una prova guiada de la maqueta.** Una persona ha d'intentar consultar existències i registrar un moviment. Anoteu què entén, on dubta i quin canvi decidiu.
+2. **Reviseu els recorreguts sobre la maqueta.** Una persona de l'equip recorre els dibuixos per consultar existències i registrar un moviment, i l'altra comprova que cada pas, estat, error i missatge està representat. Anoteu mancances, contradiccions i canvis; no cal cap participant extern.
 3. **Completeu la viabilitat.** Tracteu les dimensions tècnica, temporal, econòmica, legal, de desplegament i d'accessibilitat amb recursos, límits, riscos i accions.
 4. **Tanqueu la decisió sobre la integració externa.** Seleccioneu una font amb valor, llicència i resposta a fallades, o justifiqueu que no s'inclou en la línia base.
 5. **Concreceu permisos i infraestructura.** Indiqueu qui consulta i modifica, com es protegix l'operació principal i quines decisions continuen provisionals.
@@ -119,9 +118,9 @@ No creeu l'etiqueta `dossier-2-v1.0` abans que el professorat accepte un hash co
 ### Passos que heu de seguir
 
 1. **Reviseu la checklist final.** Desmarqueu qualsevol afirmació que no tinga una evidència localitzable. Una casella marcada no tanca una esmena per si mateixa.
-2. **Tanqueu B3-01.** Feu una prova guiada de la maqueta amb la tasca «registrar una subscripció i entendre el cost mensual». Registreu participants o casos, resultat, límits i canvis.
-3. **Tanqueu B3-04 amb una prova tècnica reduïda.** No cal construir el sistema complet. Comproveu, de manera aïllada, que una tasca es pot programar i que un correu de prova s'envia o que l'error queda registrat de manera visible.
-4. **Si la prova no és viable en el proveïdor triat,** compareu una alternativa, registreu el límit descobert i canvieu la decisió o convertiu-la en una reserva explícita.
+2. **Tanqueu B3-01 amb una revisió del recorregut.** Recorreu els dibuixos de «registrar una subscripció i entendre el cost mensual», comproveu passos, dades, estats, errors i missatges, i registreu mancances i canvis. No cal cap participant extern.
+3. **Definiu la validació futura de B3-04.** Sense programar ara, descriviu una tasca prevista, el correu esperat, un cas de fallada, l'evidència que es conservarà i l'alternativa si el proveïdor no ho permet.
+4. **Registreu B3-04 com a reserva tècnica pendent.** Indiqueu el bloc d'execució i l'impacte sobre infraestructura, cost i operació. La falta de codi no bloqueja este tancament.
 5. **Reviseu Frankfurter.** Confirmeu valor, condicions d'ús, límits i resposta quan el servici no està disponible.
 6. **Creeu les evidències individuals.** Javi i Júlia han d'enllaçar una aportació pròpia i poder explicar una decisió global.
 7. **Completeu B3-01–B3-05, la decisió, l'acta i el hash candidat.** No useu el Dossier 1 com a substitut de l'evidència individual actual.
@@ -129,7 +128,7 @@ No creeu l'etiqueta `dossier-2-v1.0` abans que el professorat accepte un hash co
 ### Es podrà aprovar quan
 
 - la checklist siga fidel i B3-01, B3-04 i B3-05 tinguen tractament real;
-- la tasca programada i el correu tinguen un resultat reduït o una reserva justificada;
+- la tasca programada i el correu tinguen un cas de validació futura i una reserva justificada;
 - Javi i Júlia disposen d'evidències individuals;
 - el traspàs identifique clarament riscos i treball pendent.
 
@@ -142,7 +141,7 @@ No creeu l'etiqueta `dossier-2-v1.0` abans que el professorat accepte un hash co
 3. **Concreteu la necessitat que voleu resoldre.** No cal justificar la procedència de les converses amb AMPA o clubs. Definiu quines persones usarien la plataforma, quin problema tindrien i quines regles necessita la solució.
 4. **Fixeu les regles de comptes i persones menors.** Indiqueu qui pot crear comptes, quines dades es mostren i quines no, i com es protegix el contacte.
 5. **Descriviu moderació i cicle de vida.** Concreceu publicació, denúncia, retirada, caducitat i restauració dels anuncis.
-6. **Enllaceu la prova tècnica reduïda d'imatges.** Ha de mostrar una imatge acceptada, una rebutjada, límits, emmagatzematge i decisió.
+6. **Definiu la validació futura d'imatges.** Sense programar ara, concreteu formats i grandària, emmagatzematge, privacitat, eliminació, una imatge admesa, una rebutjada, l'evidència futura i l'alternativa sense imatge.
 7. **Compareu fonts o servicis externs.** Expliqueu el valor real de la font de centres o descarteu-la si no modifica cap decisió útil.
 8. **Completeu autoria i revisió.** Carlos i Francesc han d'enllaçar les seues evidències, registrar l'ús d'IA i revisar mútuament els apartats.
 9. **Completeu la checklist, l'acta emissora i el commit candidat de `main`.**
@@ -160,8 +159,8 @@ No creeu l'etiqueta `dossier-2-v1.0` abans que el professorat accepte un hash co
 
 1. **Corregiu els estats B3-01–B3-06.** L'equip pot indicar `Preparada per revisar`, però només el professorat pot escriure `Verificada` o donar l'aprovació.
 2. **Concreteu les regles de reserva.** No cal justificar la procedència de cap conversa amb una persona gestora. Definiu franges, restriccions, dades, autoritzacions i casos límit com a decisions del projecte.
-3. **Executeu una prova tècnica reduïda de concurrència.** Prepareu una taula mínima i dos intents simultanis sobre la mateixa pista i franja. Registreu les dos respostes i l'estat final de la base de dades.
-4. **Expliqueu el resultat esperat.** Només una reserva pot quedar confirmada; l'altra ha de rebre una resposta comprensible i la base de dades ha de conservar un estat coherent.
+3. **Definiu la validació futura de concurrència.** Sense crear ara una base de dades, descriviu dos intents simultanis sobre la mateixa pista i franja, les dos respostes esperades, l'estat final i l'evidència que es conservarà més avant.
+4. **Expliqueu el resultat esperat i la reserva.** Només una reserva pot quedar confirmada; l'altra ha de rebre una resposta comprensible i la base de dades ha de conservar un estat coherent. Indiqueu el bloc d'execució i l'alternativa si la solució prevista falla.
 5. **Compareu la font meteorològica.** Contrasteu Xweather amb OpenWeatherMap, AEMET o l'opció de no integrar dades meteorològiques. Reviseu llicència, camps, límits, disponibilitat i fallades.
 6. **Decidiu si el temps modifica realment la reserva.** Si només decora la pantalla, retireu la integració de la línia base. Si aporta valor, expliqueu quina decisió canvia i què ocorre quan falla.
 7. **Manteniu visible el caràcter acadèmic.** Les instal·lacions, persones i reserves han de ser fictícies mentre no existisca autorització; la maqueta ha de mostrar l'avís corresponent.
@@ -170,7 +169,7 @@ No creeu l'etiqueta `dossier-2-v1.0` abans que el professorat accepte un hash co
 
 ### Es podrà aprovar quan
 
-- la concurrència tinga un resultat reproduïble o un tractament docent explícit;
+- la concurrència tinga un cas de validació futura i un tractament docent explícit;
 - la integració meteorològica estiga justificada o retirada;
 - els estats no s'autoqualifiquen com a acceptats;
 - les tres evidències individuals, la checklist i l'acta siguen coherents.

@@ -1,12 +1,12 @@
-# Sessió 3. Interfície i validació primerenca
+# Sessió 3. Interfície i revisió del recorregut
 
 ## Objectiu
 
-Creareu un prototip de baixa fidelitat i el contrastareu per detectar problemes de comprensió, navegació i accessibilitat abans de desenvolupar.
+Preparareu una maqueta de baixa fidelitat —dibuixos de pantalles— i revisareu si representa completament el recorregut, els estats, els errors i els missatges abans de desenvolupar. No és una prova amb persones usuàries ni una validació del producte.
 
 ## Què heu d'emplenar hui
 
-En `docs/02-avantprojecte/dossier-2.md`, completeu l'apartat **8** i, amb la guia de viabilitat integrada en esta sessió, l'**11**. Completeu els apartats **12–15** i reviseu qualsevol apartat anterior afectat per la prova o les decisions. Entregueu el hash complet del commit candidat; la versió `dossier-2-v1.0` només es crea després de superar la porta d'acceptació docent i abans del traspàs a la parella receptora.
+En `docs/02-avantprojecte/dossier-2.md`, completeu l'apartat **8** i, amb la guia de viabilitat integrada en esta sessió, l'**11**. Completeu els apartats **12–15** i reviseu qualsevol apartat anterior afectat per la revisió o les decisions. Entregueu el hash complet del commit candidat; la versió `dossier-2-v1.0` només es crea després de superar la porta d'acceptació docent i abans del traspàs a la parella receptora.
 
 ## Organització
 
@@ -14,17 +14,17 @@ En `docs/02-avantprojecte/dossier-2.md`, completeu l'apartat **8** i, amb la gui
 | --- | ---: |
 | Escenari i criteris | 30 min |
 | Arquitectura de la informació | 35 min |
-| Prototip de baixa fidelitat | 55 min |
-| Prova i observació | 40 min |
+| Maqueta de baixa fidelitat | 55 min |
+| Revisió del recorregut | 40 min |
 | Revisió | 20 min |
 
 ## Preparar el recorregut
 
-Seleccioneu una tasca que represente el valor principal. Definiu el punt d'inici, el resultat, la informació disponible i què observareu. No expliqueu a la persona participant com completar-la.
+Seleccioneu una tasca que represente el valor principal. Definiu el punt d'inici, el resultat, la informació disponible i la llista de passos, estats, errors i missatges que haurien d'aparéixer.
 
 ## Dissenyar
 
-El prototip pot ser en paper o amb una ferramenta digital. Ha de mostrar jerarquia, navegació, estats, errors i retorn del sistema. Reviseu, almenys:
+La maqueta pot ser en paper o amb una ferramenta digital. Ha de mostrar jerarquia, navegació, estats, errors i retorn del sistema. Reviseu, almenys:
 
 - ordre i denominació dels continguts;
 - navegació amb teclat prevista i focus visible;
@@ -35,11 +35,11 @@ El prototip pot ser en paper o amb una ferramenta digital. Ha de mostrar jerarqu
 
 No cal aplicar encara una identitat visual definitiva.
 
-## Provar i registrar
+## Revisar i registrar
 
-Completeu directament la taula de l'**apartat 8** del dossier amb `Tasca provada`, `Participant/cas`, `Observació`, `Problema o interpretació`, `Resultat` i `Canvi o decisió`. Mantingueu separada l'observació literal de la interpretació de l'equip.
+Una persona de l'equip recorre els dibuixos en l'ordre previst i una altra contrasta la llista preparada. No han d'actuar com si foren persones usuàries reals: l'objectiu és detectar pantalles, dades, estats, errors o missatges absents i contradiccions amb el dossier.
 
-Demaneu autorització abans d'enregistrar. Conserveu només les dades necessàries i separeu les observacions de les conclusions.
+Completeu directament la taula de l'**apartat 8** del dossier amb `Recorregut revisat`, `Revisió interna o cas`, `Criteris comprovats`, `Mancança o contradicció`, `Resultat de la revisió` i `Canvi o decisió`. Si no detecteu cap mancança, indiqueu igualment els criteris comprovats. No cal cap participant extern ni cap enregistrament.
 
 ## Tancament individual
 
@@ -53,4 +53,4 @@ El professorat revisarà només les files pendents i registrarà si queden verif
 
 ## Evidència curricular
 
-La sessió aporta evidència **parcial** de RA2.a, RA2.h i RA2.i. La prova d'un prototip de baixa fidelitat no valida per si sola el producte final.
+La sessió aporta evidència **parcial** de RA2.a, RA2.h i RA2.i. La revisió interna d'una maqueta permet detectar omissions de disseny, però no valida el producte ni substituïx les proves d'ús posteriors.

@@ -25,7 +25,7 @@ La duració prevista és de **99 hores**, distribuïdes habitualment en sessions
 | --- | ---: | ---: | --- |
 | 1. Reactivació i formació d'equips | 9 h | 3 | Diagnòstic i miniplanificació |
 | 2. Elecció i validació del projecte | 6 h | 2 | Proposta de projecte aprovada |
-| 3. Disseny i viabilitat | 9 h | 3 | Avantprojecte i prova tècnica inicial |
+| 3. Disseny i viabilitat | 9 h | 3 | Avantprojecte i casos de validació tècnica planificats |
 | 4. Planificació de l'execució | 9 h | 3 | Pla mínim executable, prova de desplegament i traspàs |
 | 5. Desenvolupament i validació del prototip | 57 h | 19 | Prototip funcional validat |
 | 6. Tancament i defensa | 9 h | 3 | Memòria i defensa final |

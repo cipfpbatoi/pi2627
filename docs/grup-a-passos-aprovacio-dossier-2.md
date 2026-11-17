@@ -174,6 +174,32 @@ No creeu l'etiqueta `dossier-2-v1.0` abans que el professorat accepte un hash co
 - els estats no s'autoqualifiquen com a acceptats;
 - les tres evidències individuals, la checklist i l'acta siguen coherents.
 
+## Després de l'aprovació: rebre el projecte que planificareu
+
+Quan el professorat accepte el hash del Dossier 2 i es cree `dossier-2-v1.0`, deixareu la custòdia del projecte propi i rebreu un projecte diferent per planificar. Segons la rotació prevista:
+
+| Equip planificador | Projecte rebut |
+| --- | --- |
+| A-1 | `projecte-a-2` |
+| A-2 | `projecte-a-3` |
+| A-3 | `projecte-a-4` |
+| A-4 | `projecte-a-5` |
+| A-5 | `projecte-a-6` |
+| A-6 | `projecte-a-1` |
+
+Seguiu este ordre:
+
+1. Comproveu la versió rebuda, l'accés al repositori, les evidències i la part emissora de l'acta.
+2. Llegiu-ho sense explicació oral inicial de l'equip autor. Anoteu què és planificable, què és ambigu, què falta i quines reserves s'hereten.
+3. Classifiqueu cada qüestió com a **aclariment**, **decisió de planificació** o **canvi de línia base** i creeu una issue per cada qüestió accionable.
+4. Després de l'auditoria, formuleu preguntes concretes a l'equip autor i registreu les respostes. No corregiu silenciosament el seu Dossier 2.
+5. Completeu la part receptora de l'acta amb `acceptat`, `acceptat amb reserves` o `retornat per completar`.
+6. Si queda acceptat o acceptat amb reserves, completeu en el repositori rebut els apartats **1–4** de `docs/03-planificacio/pla-projecte.md` i inicieu l'apartat **16**.
+7. En esta primera sessió no completeu els apartats 5–15 ni el 17, no estimeu hores, no tanqueu el cronograma o el pressupost, no prepareu els plans definitius de proves o desplegament i no programeu.
+8. Registreu una aportació individual per membre i publiqueu en `main` el commit de la sessió.
+
+Consulteu la guia [Sessió 1 del bloc 4: rebre i descompondre](bloc4-sessio1.md). Qualsevol canvi d'abast, requisit o decisió estructural necessita motiu, impacte i autorització docent.
+
 ## Com presentar la revisió docent
 
 Quan hàgeu acabat, envieu al professorat un únic missatge amb:
@@ -183,7 +209,7 @@ Projecte: projecte-a-X
 Commit candidat: HASH COMPLET
 Dossier 2: enllaç al fitxer en eixe commit
 Evidències individuals: enllaços
-Proves tècniques reduïdes o proves guiades: enllaços
+Maqueta, revisió del recorregut i casos de validació futura: enllaços
 Esmenes que considereu preparades: B3-...
 Reserves que continuen obertes: ...
 Acta emissora: enllaç

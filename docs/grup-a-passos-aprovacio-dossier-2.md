@@ -29,27 +29,11 @@ En esta fase **no heu de construir el producte final**. Quan les instruccions de
 
 Per exemple, comprovar dos peticions simultànies no obliga a crear tota l'aplicació de reserves. Es pot preparar una prova tècnica reduïda amb una taula mínima, dos peticions i el resultat final de la base de dades.
 
-## Sobre les converses i les persones externes
+## Sobre el context del projecte
 
-Cap equip del grup A ha mantingut converses, entrevistes o consultes amb propietaris, personal, AMPA, clubs, persones gestores o altres agents externs. Per tant:
+Les converses, entrevistes o consultes que apareguen en el relat del projecte **no formen part dels criteris d'aprovació**. No heu d'explicar si són reals, simulades ni d'on provenen, i tampoc heu de fer ara una entrevista per superar el punt de control.
 
-- retireu expressions com «hem parlat amb», «ens han confirmat», «segons el propietari» o «les persones treballadores han indicat»;
-- no inventeu cites, respostes, volums de treball, opinions ni validacions;
-- no presenteu una persona o entitat com a clienta real del projecte;
-- no necessiteu fer ara una entrevista externa per poder obtindre l'aprovació.
-
-Podeu fonamentar les decisions amb:
-
-- una experiència personal explicada amb concreció i identificada com a tal;
-- un cas representatiu fictici, marcat clarament com a simulació;
-- una hipòtesi que el treball posterior haurà de comprovar;
-- documentació pública, etiquetes, procediments o exemples existents;
-- una comparació raonada amb ferramentes disponibles;
-- el contrast crític del professorat;
-- una prova tècnica reduïda;
-- una prova guiada amb companys o companyes, limitada a comprovar si la maqueta s'entén, sense presentar-la com a validació del sector o del mercat.
-
-L'absència de converses externes no és un problema. El problema seria atribuir a una persona una conversa o una confirmació que no ha existit.
+El professorat revisarà si el projecte és internament coherent i planificable: necessitat plantejada, abast, persones usuàries, requisits, recorregut, dades, arquitectura, viabilitat, riscos, proves, decisions i autoria. Les converses no s'utilitzaran com a evidència per acreditar estos elements.
 
 ## Condicions comunes per presentar el commit candidat
 
@@ -79,7 +63,7 @@ No creeu l'etiqueta `dossier-2-v1.0` abans que el professorat accepte un hash co
    - Si no podeu comprovar-la, retireu-la del recorregut imprescindible i deixeu-la com a ampliació o alternativa futura.
 2. **Registreu el resultat de la decisió.** Actualitzeu requisits, arquitectura, alternatives, riscos i traçabilitat perquè tots expliquen la mateixa opció.
 3. **Reviseu el contingut preparat amb ajuda d'IA.** En l'apartat 13 i en `fonts-ia.md`, indiqueu què heu comprovat, què heu corregit i què continua pendent.
-4. **Comproveu la maqueta de pantalles.** Feu una prova guiada curta del préstec, el solapament i la devolució amb avaria. Si només podeu fer un recorregut simulat, identifiqueu-lo així i no el presenteu com una prova amb persones.
+4. **Comproveu la maqueta de pantalles.** Feu una prova guiada curta del préstec, el solapament i la devolució amb avaria i registreu els problemes detectats i els canvis decidits.
 5. **Actualitzeu B3-01–B3-05.** Cada fila ha de tindre evidència, responsable, estat fidel i, quan pertoque, reserva.
 6. **Completeu les aportacions individuals.** Iker i Àngel han d'enllaçar i poder explicar una decisió, una objecció o una prova diferent.
 7. **Prepareu l'acta i el commit candidat.** Incloeu riscos coneguts, recursos accessibles i qualsevol ajust que haurà de rebre la parella planificadora.
@@ -95,18 +79,18 @@ No creeu l'etiqueta `dossier-2-v1.0` abans que el professorat accepte un hash co
 
 ### Passos que heu de seguir
 
-1. **Retireu les converses atribuïdes al negoci.** No heu parlat amb la propietat ni amb el personal. Reescriviu eixes afirmacions com a hipòtesis o com a cas representatiu fictici i elimineu qualsevol confirmació, cita o dada que parega procedir d'una conversa real.
+1. **Centreu el dossier en el problema que voleu resoldre.** No cal revisar ni justificar la procedència de les converses. Useu el context descrit només per concretar persones usuàries, necessitats i decisions; l'aprovació dependrà de la coherència i la viabilitat del projecte.
 2. **Fixeu un únic recorregut principal.** Decidiu si la versió inclou carta i comandes. Manteniu proveïdors, compres i inventari fora si no hi ha evidència i temps que justifiquen incloure'ls.
 3. **Resoleu la contradicció de les dades.** Si hi ha comandes, expliqueu per què es recullen nom i telèfon, qui hi accedix, durant quant de temps i com s'eliminen. No afirmeu alhora que no hi ha formulari ni dades de clientela.
 4. **Justifiqueu l'aplicació pròpia.** Compareu-la amb una carta PDF, una pàgina senzilla o un menú QR segons valor, actualització, errors, cost i manteniment.
-5. **Definiu com es comprovarien ingredients i al·lèrgens.** Podeu treballar amb un menú fictici, etiquetes d'exemple o documentació pública, sempre identificats com a simulació. Registreu autoria, límits, actualització prevista i resposta segura quan la informació no estiga confirmada. No afirmeu que el negoci o els seus proveïdors han validat les dades.
+5. **Definiu com es comprovarien ingredients i al·lèrgens.** Podeu treballar amb un menú, etiquetes d'exemple o documentació disponible. Registreu autoria, límits, actualització prevista i resposta segura quan la informació no estiga confirmada.
 6. **Reviseu la maqueta de pantalles.** Mostreu carta, comanda, confirmació, errors i accés del personal. Feu una prova guiada amb una tasca concreta i registreu els canvis.
 7. **Creeu les evidències individuals.** Viktoriia, Pau i Rafa necessiten un fitxer propi i una aportació verificable.
 8. **Netegeu l'apartat 14.** Elimineu duplicacions entre instruccions i respostes, actualitzeu B3-01–B3-05 i completeu l'acta emissora.
 
 ### Es podrà aprovar quan
 
-- no quede cap conversa inventada atribuïda al negoci i les hipòtesis estiguen identificades;
+- el problema, les persones usuàries i el recorregut principal siguen coherents;
 - l'abast, les dades, els requisits i el recorregut no es contradiguen;
 - la informació d'al·lèrgens tinga font i límits visibles;
 - les tres aportacions individuals i la checklist final estiguen completes.
@@ -155,7 +139,7 @@ No creeu l'etiqueta `dossier-2-v1.0` abans que el professorat accepte un hash co
 
 1. **Integreu el treball en `main`.** El contingut de `bloc3/inici-dossier-2` s'ha de revisar mitjançant una pull request i integrar-se. El professorat no aprovarà una versió que només existisca en una branca de treball.
 2. **Comproveu el Dossier 2 després de la integració.** Els apartats 1–13 han de contindre el treball real; la taula d'esmenes no substituïx el dossier.
-3. **Expliqueu l'origen de la necessitat amb honestedat.** No heu consultat cap AMPA ni club. Convertiu qualsevol resposta atribuïda a estes entitats en hipòtesi o cas representatiu fictici i diferencieu-la de l'experiència personal i de les fonts públiques.
+3. **Concreteu la necessitat que voleu resoldre.** No cal justificar la procedència de les converses amb AMPA o clubs. Definiu quines persones usarien la plataforma, quin problema tindrien i quines regles necessita la solució.
 4. **Fixeu les regles de comptes i persones menors.** Indiqueu qui pot crear comptes, quines dades es mostren i quines no, i com es protegix el contacte.
 5. **Descriviu moderació i cicle de vida.** Concreceu publicació, denúncia, retirada, caducitat i restauració dels anuncis.
 6. **Enllaceu la prova tècnica reduïda d'imatges.** Ha de mostrar una imatge acceptada, una rebutjada, límits, emmagatzematge i decisió.
@@ -175,7 +159,7 @@ No creeu l'etiqueta `dossier-2-v1.0` abans que el professorat accepte un hash co
 ### Passos que heu de seguir
 
 1. **Corregiu els estats B3-01–B3-06.** L'equip pot indicar `Preparada per revisar`, però només el professorat pot escriure `Verificada` o donar l'aprovació.
-2. **Retireu qualsevol consulta atribuïda a una persona gestora.** No s'ha produït. Useu un procediment públic, un cas fictici de reserva i el contrast docent per descriure franges, restriccions, dades i autoritzacions.
+2. **Concreteu les regles de reserva.** No cal justificar la procedència de cap conversa amb una persona gestora. Definiu franges, restriccions, dades, autoritzacions i casos límit com a decisions del projecte.
 3. **Executeu una prova tècnica reduïda de concurrència.** Prepareu una taula mínima i dos intents simultanis sobre la mateixa pista i franja. Registreu les dos respostes i l'estat final de la base de dades.
 4. **Expliqueu el resultat esperat.** Només una reserva pot quedar confirmada; l'altra ha de rebre una resposta comprensible i la base de dades ha de conservar un estat coherent.
 5. **Compareu la font meteorològica.** Contrasteu Xweather amb OpenWeatherMap, AEMET o l'opció de no integrar dades meteorològiques. Reviseu llicència, camps, límits, disponibilitat i fallades.

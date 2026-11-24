@@ -26,6 +26,8 @@ Identifiqueu la versió rebuda i decidiu què es conserva, què necessita ajust 
 
 ## 3. Descomposició del treball
 
+[Descomposició del treball](./imagenes/04/EDT_%20lliurables,%20paquets%20i%20tasques.png)
+
 Construïu una EDT orientada a lliurables. Per a cada paquet de treball indiqueu:
 
 - resultat observable;

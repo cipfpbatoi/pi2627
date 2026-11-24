@@ -6,9 +6,13 @@ Preparar un sistema de treball que permeta a una altra parella executar el pla i
 
 ## Què heu d'emplenar hui
 
+[Sessió 3](./imagenes/04/Sessió%203_%20Organitzar%20l’execució%20del%20projecte.png)
+
 Reviseu l'apartat **6** i els esborranys, completeu els apartats **7 i 10–17**, i finalitzeu `pla-proves.md` i `pla-desplegament.md`. Deixeu preparades les issues, fites i tauler; executeu la prova de desplegament, completeu `traspassos/02-pla-a-prototip.md` i creeu `pla-v1.0` només després de l'acceptació docent.
 
 ## 1. Cronograma, fites i iteracions
+
+[Organització](./imagenes/04/Organització%20de%20l’execució%20en%20equip.png)
 
 Ordeneu les tasques segons dependències i capacitat. Definiu fites com a resultats verificables, no com a dates sense producte. Cada iteració ha d'acabar amb un increment o una prova observable i reservar temps per integrar, documentar i corregir.
 

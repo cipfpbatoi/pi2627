@@ -6,6 +6,8 @@ Convertir la descomposició en una seqüència viable, assignant recursos, temps
 
 ## Què heu d'emplenar hui
 
+[Sessio2](./imagenes/04/Sessió%202_%20Ordenar%20i%20estimar.png)
+
 En `docs/03-planificacio/pla-projecte.md`, completeu els apartats **5–6 i 8–9**, actualitzeu el **16** i prepareu els esborranys dels **12–15**, de `pla-proves.md` i de `pla-desplegament.md`. Useu la guia «Preparar el control» dins d'esta sessió. No tanqueu encara el cronograma, les issues, el traspàs ni `pla-v1.0`.
 
 ## 1. Dependències i prioritats
